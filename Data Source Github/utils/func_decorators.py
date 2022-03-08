@@ -24,3 +24,6 @@ def my_logger(func):
             'Running "{}" with arguments {}'.format(func.__name__, args))
         print(func(*args))
     return log_func
+
+def p():
+    print('hi')

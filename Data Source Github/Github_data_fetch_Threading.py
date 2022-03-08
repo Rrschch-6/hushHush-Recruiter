@@ -10,7 +10,7 @@ import utils
 with utils.context_managers.cursor_handler() as c:
     utils.tools.create_table('github_users',c)
 
-github_token='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'
+github_token='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'
 g=Github(github_token)
 user_name = []
 user_followers = []
