@@ -1,1 +1,3 @@
-# hushHush-Recruiter-Group-3
+# Github-User-Data-Fetch
+
+This code is for fetching Github users online
