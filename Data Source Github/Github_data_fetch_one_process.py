@@ -1,7 +1,7 @@
 import sys
 sys.path.append('C:/Users/Sasha/Documents/11-SRH Heidelberg/Big Data Programming Project/hushHush-Recruiter-Group-3/Data Source Github/utils')
 from github import Github
-import pandas as pd
+import pandas as pd #pands
 import time
 import datetime
 from threading import Thread
