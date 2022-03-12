@@ -17,6 +17,6 @@ with utils.context_managers.cursor_handler() as c:
 
 with utils.context_managers.connection_handler() as conn:
     df_1=pd.read_excel('Data/Github_Data_with Score_8_March.xlsx')
-    df_1.to_sql(name='Data_Source_GitHub',con=conn,index=False)
+    stack.to_sql(name='Data_Source_GitHub',con=conn,index=False)
     df_2=pd.read_csv('Data/StackData.csv')
     df_2.to_sql(name='Data_Source_Stackoverflow',con=conn,index=False)
