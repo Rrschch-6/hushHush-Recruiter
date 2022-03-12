@@ -1,0 +1,1922 @@
+Index,UserName,UserID,UserEmail,Reputation,Top_tag,Top-Tag Score,NormalizedScore(Reputation),NormalizedScore(Top-Tag Score),Average Score=(Reputation+TopTag)/2
+1,Bin Chen,197036,lukas@wandb.com,57377,Python,0,0,0,0
+2,bcasp,44990,ivey@gweezlebur.com,57427,javascript,0,0,0,0
+3,Alex Angas,6651,tom@mojombo.com,57542,css,3,0,0,0
+4,freshWoWer,17085,nex342@gmail.com,57869,Python,0,0,0,0
+5,user198729,198729,galin.vassilev@elearningexperts.net,58212,php,0,0,0,0
+6,Sheehan Alam,19875,seth@mojodna.net,58395,objective-c,54,0,0,0
+7,1,103264,mkomitee@gmail.com,58113,c#,77,0,0,0
+8,Will Robertson,4161,8@mockdata.com,58496,newline,3,0,0,0
+9,Javier,11649,Javier@mockdata.com,58557,redis,1316,0,0,0
+10,Paul Wicks,85,Paul Wicks@mockdata.com,58531,git,21,0,0,0
+11,John Leidegren,58961,evan@phx.io,57581,javascript,81,0,0,0
+12,Homunculus Reticulli,962891,robertonrails@gmail.com,58913,Python,3,0,0,0
+13,Lea Hayes,656172,Lea Hayes@mockdata.com,59010,git,0,0,0,0
+14,aneuryzm,257022,brapse@gmail.com,59038,Python,0,0,0,0
+15,Luke101,184773,antage@gmail.com,59301,c#,18,0,0,0
+16,Eugene,397991,Eugene@mockdata.com,57171,android,183,0,0,0
+17,Arec Barrwin,59711,Arec Barrwin@mockdata.com,59649,algorithm,0,0,0,0
+18,Prasad,111435,macournoyer@gmail.com,57463,javascript,155,0,0,0
+19,Earlz,69742,Dom@dom.net,59331,c#,139,0,0,0
+20,Alex Ott,18627,Alex Ott@mockdata.com,60431,cassandra,1497,0,0,0
+21,Benjol,11410,Benjol@mockdata.com,60087,git,35,0,0,0
+22,Houman,92153,houman@mockdata.com,60727,oop,0,0,0,0
+23,Ivan,274627,ssmoot@gmail.com,60757,scala,122,0,0,0
+24,Albert,133374,Albert@mockdata.com,60653,git,20,0,0,0
+25,Adham,508377,Adham@mockdata.com,60926,android,4,0,0,0
+26,GurdeepS,32484,niryariv@gmail.com,61221,c#,16,0,0,0
+27,Mark,298406,encytemedia@gmail.com,61392,javascript,0,0,0,0
+28,Rella,434051,browndon@gmail.com,61507,c#,0,0,0,0
+29,Patrick McDonald,61989,duane.johnson@gmail.com,61508,c,5,0,0,0
+30,Strawberry,170365,Strawberry@mockdata.com,61598,bash,0,0,0,0
+31,aF.,187730,mcg@braintube.com,61654,Python,9,0,0,0
+32,Brad Parks,26510,tobysterrett@gmail.com,59173,javascript,172,0,0,0
+33,KingNestor,64878,anotherjesse@gmail.com,61803,javascript,0,0,0,0
+34,Lawrence Johnston,1512,Lawrence Johnston@mockdata.com,62118,bash,0,0,0,0
+35,Eric Petroelje,65070,oliver.lillie@newthings.co,58381,c#,761,0,0,0
+36,Hates_,3410,Hates_@mockdata.com,62079,git,16,0,0,0
+37,Tristan Havelick,30529,Tristan Havelick@mockdata.com,62395,unix,0,0,0,0
+38,Ben,11522,ben@mockdata.com,62704,arrays,24,0,0,0
+39,Guy,1463,g@vellut.com,62124,c#,126,0,0,0
+40,Ian Vink,172861,johnm@psynix.com,63140,c#,58,0,0,0
+41,Frank,60628,jonmagic@gmail.com,60429,c++,337,0,0,0
+42,Rose Perrone,365298,Rose Perrone@mockdata.com,57825,git,584,0,0,0
+43,casademora,5619,jamie@fearoffish.com,63278,javascript,23,0,0,0
+44,y2k,206504,antti@anttih.com,63768,Python,0,0.01,0,0
+45,Steven A. Lowe,9345,alan.stebbens@procore.com,59137,c#,941,0,0,0
+46,Kibbee,1862,Kibbee@mockdata.com,63889,mysql,759,0.01,0,0
+47,Webnet,197606,jmckenty@gmail.com,57800,php,139,0,0.01,0
+48,Alex,376947,damien@mc-kenna.com,63530,php,23,0.01,0,0
+49,Vijay,134713,phil@hagelb.org,61959,c,70,0,0,0
+50,Milan Babuškov,14690,SoreGums.chat@gmail.com,57056,c++,521,0,0.01,0
+51,Shiraz Bhaiji,86611,tp@tiagopinto.pt,62011,c#,674,0,0,0
+52,dsimcha,23903,dsimcha@mockdata.com,65644,performance,405,0.01,0,0
+53,capecrawler,235885,capecrawler@mockdata.com,65707,android,63,0.01,0,0
+54,Zheyuan Li,4891738,mark.yoon@reverb.com,61480,r,4395,0,0,0
+55,Andrey,283676,where@jed.is,57496,c#,1850,0,0.01,0
+56,Robert Gould,15124,matt.j.wood@gmail.com,66748,c++,230,0.01,0,0
+57,Landon Kuhn,1785,ian.ownbey@coinbase.com,64823,javascript,125,0.01,0,0
+58,Matti Virkkunen,227267,Bil.Kleb@nasa.gov,60811,c#,1213,0,0,0
+59,Amr Elgarhy,20126,ry@tinyclouds.org,62142,javascript,317,0,0,0
+60,Tampa,1203556,tkofol@gmail.com,67656,Python,17,0.01,0,0
+61,Nathan Osman,193619,richcollins@gmail.com,66917,html,41,0.01,0,0
+62,Igor,1260204,raghu.srinivasan@gmail.com,57719,c#,2051,0,0.01,0
+63,bodacydo,257942,bct@diffeq.com,68315,Python,2,0.01,0,0
+64,Omu,112100,info@nextatelier.com,66905,c#,303,0.01,0,0
+65,Ben Zotto,73297,Ben Zotto@mockdata.com,68432,git,0,0.01,0,0
+66,Jonathan Wood,522663,mr.andy.peters@gmail.com,61486,c#,1438,0,0.01,0
+67,Ari B. Friedman,636656,berryphillips@gmail.com,68775,r,4149,0.01,0,0
+68,Rapha&#235;l Althaus,961526,tyler@devoh.com,58382,c#,2121,0,0.01,0
+69,Seva Alekseyev,219159,Seva Alekseyev@mockdata.com,57022,android,932,0,0.01,0
+70,Blindy,108796,andrew.jr.neil@gmail.com,58252,c#,2183,0,0.01,0
+71,Paul Hiemstra,1033808,petridish@gmail.com,58052,r,4684,0,0.01,0
+72,lostInTransit,46297,lostInTransit@mockdata.com,69237,android,5,0.01,0,0
+73,dknaack,479659,paul@thinkingbox.com,58326,c#,2204,0,0.01,0
+74,AakashM,71059,ankur@ankurs.com,60322,c#,1831,0,0.01,0
+75,Lucero,88558,lynoure@gmail.com,57595,c#,2378,0,0.01,0
+76,aknuds1,265261,wayne@larsen.st,60816,Python,1127,0,0.01,0
+77,Michael Petrotta,23897,liuyuanzhi@gmail.com,58141,c#,2276,0,0.01,0
+78,eozzy,172637,eozzy@mockdata.com,61140,jquery,308,0,0.01,0.01
+79,Wim Coenen,52626,jenmei@oaktownlabs.com,64853,c#,1056,0.01,0,0.01
+80,Preet Sangha,30225,sfeley@gmail.com,62416,c#,1611,0,0.01,0.01
+81,Ash,5023,nigel@explanatorygap.net,58716,c#,2361,0,0.01,0.01
+82,Frank Krueger,338,naturehack@gmail.com,66806,java,250,0.01,0,0.01
+83,Alex,205930,parabuzzle@gmail.com,60969,Python,1307,0,0.01,0.01
+84,Sean,26095,gilant@gmail.com,58262,c#,2569,0,0.01,0.01
+85,BCS,1343,contact@railsware.com,70670,c#,101,0.01,0,0.01
+86,Dane O&#39;Connor,1946,Dane O&#39;Connor@mockdata.com,70764,git,76,0.01,0,0.01
+87,Morgan Cheng,26349,toredarell@gmail.com,69584,javascript,126,0.01,0,0.01
+88,brasskazoo,6340,brasskazoo@mockdata.com,71573,git,0,0.01,0,0.01
+89,Icarus,345490,shapor@gmail.com,61441,c#,2064,0,0.01,0.01
+90,Ashwin Nanjappa,1630,xenith@xenith.org,71776,Python,23,0.01,0,0.01
+91,spence91,15616,cohen1@gmail.com,71957,Python,0,0.01,0,0.01
+92,brad,208,jon@jonmaddox.com,70318,javascript,105,0.01,0,0.01
+93,Matt Greer,194940,kmachu@gmail.com,58728,c#,2681,0,0.01,0.01
+94,RameshVel,97572,matt@gengo.com,62290,c#,1976,0,0.01,0.01
+95,Lance,169992,chiology@gmail.com,68748,javascript,234,0.01,0,0.01
+96,Allan Cameron,12500315,Allan Cameron@mockdata.com,70085,r,4261,0.01,0,0.01
+97,David Basarab,2469,meena.shah@gmail.com,69765,c#,536,0.01,0,0.01
+98,Niko Gamulin,22996,Niko Gamulin@mockdata.com,64639,android,626,0.01,0.01,0.01
+99,Skilldrick,49376,Skilldrick@mockdata.com,66731,git,608,0.01,0,0.01
+100,ire_and_curses,143804,paul@bissex.net,65571,Python,950,0.01,0.01,0.01
+101,Justin Pihony,779513,alan.larkin@gmail.com,63672,c#,1844,0.01,0.01,0.01
+102,Adriano Repetti,1207195,jeroen@supercool.nl,62180,c#,2175,0,0.01,0.01
+103,Seibar,357,james@jagregory.com,65655,c#,1502,0.01,0.01,0.01
+104,Stefan Steinegger,2658202,fmreal@gmail.com,62071,c#,2225,0,0.01,0.01
+105,Ehsan Sajjad,1875256,irjudson@gmail.com,60431,c#,2560,0,0.01,0.01
+106,ajsie,206446,ttcremers@gmail.com,73314,javascript,-1,0.01,0,0.01
+107,Stefan Kendall,78182,mahir.haroon@gmail.com,63436,java,621,0.01,0.01,0.01
+108,Daniel Br&#252;ckner,77507,matt.stine@gmail.com,57363,c#,3228,0,0.01,0.01
+109,JoshBerke,26160,leaders2000@gmail.com,64044,c#,1911,0.01,0.01,0.01
+110,Chinmay Kanchi,148765,pontus_github@soua.net,58071,Python,2039,0,0.01,0.01
+111,Alex,114916,jeffrey@blacksquare.com,73231,c#,108,0.01,0,0.01
+112,Mitchel Sellers,13279,pratiknaik@gmail.com,60132,javascript,909,0,0.01,0.01
+113,Claudio Redi,245860,danielcs@comp.ufscarbr,65476,c#,1675,0.01,0.01,0.01
+114,orip,37020,jchris@gmail.com,68812,javascript,335,0.01,0,0.01
+115,Sergio del Amo,2138,jon@ninjagiraffes.co.uk,73872,javascript,1,0.01,0,0.01
+116,Mat,42974,shantanoo@gmail.com,73704,Python,37,0.01,0,0.01
+117,aryaxt,242769,aryaxt@mockdata.com,72547,android,115,0.01,0,0.01
+118,Vaccano,16241,branstrom@gmail.com,72970,c#,218,0.01,0,0.01
+119,Hank Gay,4203,mirko@digitalhobbit.com,67313,Python,890,0.01,0.01,0.01
+120,Femaref,127059,aalmiray@gmail.com,59349,c#,2966,0,0.01,0.01
+121,Jeff Atwood,1,121@mockdata.com,62005,sql-server,430,0,0.01,0.01
+122,Pop Catalin,4685,hello@makaluinc.com,59380,c#,2972,0,0.01,0.01
+123,noseratio,1768303,insiderops@gmail.com,57681,c#,3320,0,0.01,0.01
+124,cdleary,3594,benr@x-cr.com,66192,Python,1079,0.01,0.01,0.01
+125,krosenvold,23691,krosenvold@mockdata.com,72773,git,202,0.01,0,0.01
+126,Simon,24039,jim@squeejee.com,74147,Python,96,0.01,0,0.01
+127,IAdapter,30453,koshigoeb@gmail.com,58518,java,1022,0,0.01,0.01
+128,Will,15721,batterseapower@hotmail.com,71194,java,235,0.01,0,0.01
+129,Matthew Abbott,357693,apardue@rcsreg.com,58685,c#,3277,0,0.01,0.01
+130,JL.,41543,tj@travisjeffery.com,74728,c#,67,0.01,0,0.01
+131,ctacke,13154,toto@evenly.io,65745,c#,1875,0.01,0.01,0.01
+132,Mat&#237;as Fidemraizer,411632,shinsaku@chikura.me,61054,c#,2816,0,0.01,0.01
+133,bobobobo,111307,yesmar@gmail.com,60742,c++,743,0,0.01,0.01
+134,Nicholas Carey,467473,paczesiowa@gmail.com,64078,c#,2259,0.01,0.01,0.01
+135,Lie Ryan,309412,Lie Ryan@mockdata.com,57586,android,1390,0,0.01,0.01
+136,Matt Dowle,403310,propolice@gmail.com,57252,r,5024,0,0.01,0.01
+137,Simon Whitehead,1517578,ivan.ramiscal@mapbox.com,59747,c#,3163,0,0.01,0.01
+138,Chris S,21574,jrobbins@gmail.com,63412,c#,2431,0.01,0.01,0.01
+139,kch,13989,kch@mockdata.com,73453,git,213,0.01,0,0.01
+140,tags2k,192,tags2k@mockdata.com,75552,jquery,3,0.01,0,0.01
+141,ColinE,249933,motosuke@fkda.jp,66359,c#,1903,0.01,0.01,0.01
+142,Caius Jard,1410664,rledge21@gmail.com,65715,c#,2114,0.01,0.01,0.01
+143,Stephan202,74939,thomas@lecavelier.name,57141,Python,2492,0,0.02,0.01
+144,Crazy Serb,111174,Crazy Serb@mockdata.com,76390,git,0,0.02,0,0.01
+145,King King,1679602,aland@freeradius.org,58912,c#,3518,0,0.01,0.01
+146,Mark A. Nicolosi,1103052,Mark A. Nicolosi@mockdata.com,76625,git,0,0.02,0,0.01
+147,Ram Rachum,76701,neildurbin@gmail.com,76203,Python,70,0.02,0,0.01
+148,merlin2011,391161,merlin2011@mockdata.com,66468,git,1053,0.01,0.01,0.01
+149,balexandre,28004,ryan.siddle@merj.com,70966,c#,1203,0.01,0,0.01
+150,juan,1782,jarkko@jlaine.net,76654,javascript,19,0.02,0,0.01
+151,Tarik,44852,daniloprevides@gmail.com,75825,c#,243,0.01,0,0.01
+152,stuartd,43846,vsevolod.balashov@gmail.com,65317,c#,2357,0.01,0.01,0.01
+153,Matt,17693,andrei.shindyapin@gmail.com,77079,Python,0,0.02,0,0.01
+154,Anthon,1307905,nate.hatcher@gmail.com,57279,Python,2589,0,0.02,0.01
+155,user7116,7116,krj@rajaratnam.dk,61419,c#,3159,0,0.01,0.01
+156,ashokgelal,33203,robert.gravina@gmail.com,76876,java,25,0.02,0,0.01
+157,Matt Huggins,107277,Matt Huggins@mockdata.com,77164,git,40,0.02,0,0.01
+158,UpCat,401025,UpCat@mockdata.com,67016,android,839,0.01,0.01,0.01
+159,John Rasch,44765,liutauras@diu.pm,59834,c#,3603,0,0.01,0.01
+160,sll,485076,esnj14@gmail.com,58686,c#,3838,0,0.02,0.01
+161,Jeff Yates,23234,javi80@gmail.com,59764,c#,3658,0,0.01,0.01
+162,Dason,1003565,doug@netinlet.com,57508,r,5141,0,0.02,0.01
+163,Amir Rachum,166067,syoyo@lighttransport.com,71281,java,444,0.01,0.01,0.01
+164,user496949,496949,mark@talios.com,78457,java,0,0.02,0,0.01
+165,Ot&#225;vio D&#233;cio,48684,admin@timetric.com,71852,c#,1333,0.01,0.01,0.01
+166,Darren,1280410,oej@edvina.net,65910,c#,2553,0.01,0.01,0.01
+167,Gajus,368691,b@arbini.dev,61152,javascript,1167,0,0.01,0.01
+168,chobo2,130015,cflowers@navexglobal.com,78682,c#,2,0.02,0,0.01
+169,Kristopher Johnson,1175,anil.wadghule@erlang-solutions.com,78753,html,33,0.02,0,0.01
+170,David M,83109,andy@sol1.com.au,69547,c#,1852,0.01,0.01,0.01
+171,Franci Penov,17028,github@buggle.net,73099,c#,1150,0.01,0,0.01
+172,Dean Harding,241462,djahandarie at gmail,69133,c#,1971,0.01,0.01,0.01
+173,Tom Lehman,25068,scottmcmillin@gmail.com,78923,javascript,4,0.02,0,0.01
+174,kostja,216021,nate@radify.io,58111,java,1310,0,0.02,0.01
+175,mjv,166686,paul@rslw.com,69743,Python,1224,0.01,0.01,0.01
+176,Daren Thomas,2260,brock@sintaxi.com,64264,Python,1947,0.01,0.01,0.01
+177,BradleyDotNET,1783619,nabil@strangebee.com,58738,c#,4123,0,0.02,0.01
+178,GateKiller,383,178@mockdata.com,70759,sql-server,332,0.01,0.01,0.01
+179,Tom Gullen,356635,jayson@aggressive.ly,58765,javascript,1380,0,0.02,0.01
+180,membersound,1194415,zslevin@gmail.com,72210,java,458,0.01,0.01,0.01
+181,Roman Luštrik,322912,Roman Luštrik@mockdata.com,66391,r,4784,0.01,0.01,0.01
+182,Luaan,3032289,keith_duncan@me.com,59527,c#,4042,0,0.02,0.01
+183,UMAR-MOBITSOLUTIONS,249991,UMAR-MOBITSOLUTIONS@mockdata.com,74838,android,390,0.01,0,0.01
+184,Sjoerd,182971,steve@secomputing.co.uk,71206,Python,1157,0.01,0.01,0.01
+185,froadie,259541,igor822@gmail.com,74946,java,327,0.01,0,0.01
+186,Sridhar Ratnakumar,55246,adam@ahri.net,74010,Python,830,0.01,0.01,0.01
+187,Timwi,33225,meayaus@hotmail.com,62799,c#,3530,0,0.01,0.01
+188,Brandon,74022,dani@danilat.com,66908,c#,2715,0.01,0.01,0.01
+189,Anders Abel,280222,alexandre@testu.fr,65713,c#,3014,0.01,0.01,0.01
+190,Ben S,68507,hal@halr9000.com,66837,java,871,0.01,0.01,0.01
+191,Corralien,15239951,brandtlofton@gmail.com,59063,Python,2841,0,0.02,0.01
+192,lprsd,55562,lprsd@mockdata.com,79731,git,118,0.02,0,0.01
+193,daydreamer,379235,rasmusbb@gmail.com,79383,java,96,0.02,0,0.01
+194,Juri Glass,179467,Juri Glass@mockdata.com,80959,git,0,0.02,0,0.01
+195,nawfal,661933,peter@cornerstonenw.com,65419,c#,3142,0.01,0.01,0.01
+196,Contango,107409,Contango@mockdata.com,69519,git,1167,0.01,0.01,0.01
+197,Ana Betts,5728,hy0228@aliyun.com,72243,c#,1825,0.01,0.01,0.01
+198,Gareth Rees,68063,al2o3cr@gmail.com,62365,Python,2493,0,0.02,0.01
+199,Josh,81769,Josh@mockdata.com,66010,c#,3107,0.01,0.01,0.01
+200,Jiew Meng,292291,d.s.coleman@gmail.com,79521,php,44,0.02,0,0.01
+201,Damith,2558060,Damith@mockdata.com,60553,c#,4227,0,0.02,0.01
+202,James A. Rosen,1190,wycats@gmail.com,61968,ruby,1175,0,0.02,0.01
+203,dcastro,857807,dcastro@mockdata.com,62501,c#,3879,0,0.02,0.01
+204,Steve Kuo,24396,chris@doesnthaveone.com,60024,java,1362,0,0.02,0.01
+205,Ferdinand Beyer,34855,mark@amerine.net,60737,Python,2791,0,0.02,0.01
+206,systempuntoout,130929,graham.abbott@gmail.com,68365,Python,1810,0.01,0.01,0.01
+207,Graviton,3834,Graviton@mockdata.com,78991,c#,684,0.02,0,0.01
+208,David,60682,David@mockdata.com,70262,c#,2459,0.01,0.01,0.01
+209,Amelio Vazquez-Reina,283296,salil.ssj@gmail.com,81126,Python,203,0.02,0,0.01
+210,AP257,267831,sebastian.noack@gmail.com,79591,Python,405,0.02,0,0.01
+211,Henrik,1851712,patrickcteng@gmail.com,60069,r,5235,0,0.02,0.01
+212,MusiGenesis,14606,MusiGenesis@mockdata.com,72521,c#,2061,0.01,0.01,0.01
+213,Stefan Steiger,155077,Stefan Steiger@mockdata.com,72411,c#,2102,0.01,0.01,0.01
+214,doug,66549,jakep36@me.com,66864,Python,2106,0.01,0.01,0.01
+215,Adam Houldsworth,358221,Adam Houldsworth@mockdata.com,61453,c#,4338,0,0.02,0.01
+216,Samuel Neff,118703,Samuel Neff@mockdata.com,69962,c#,2678,0.01,0.01,0.01
+217,Lev Levitsky,1258041,mschrag@pobox.com,58804,Python,3195,0,0.02,0.01
+218,Paul Draper,1212596,Paul Draper@mockdata.com,69865,git,1359,0.01,0.01,0.01
+219,GibboK,379008,tomfarm@gmail.com,67309,javascript,1073,0.01,0.01,0.01
+220,nvoigt,2060725,nvoigt@mockdata.com,67350,c#,3219,0.01,0.01,0.01
+221,Franck Dernoncourt,395857,tom@popdog.net,68125,Python,2000,0.01,0.01,0.01
+222,Mrchief,244353,Mrchief@mockdata.com,72681,c#,2180,0.01,0.01,0.01
+223,Andy White,60096,223@mockdata.com,83572,sql-server,100,0.02,0,0.01
+224,John Sheehan,1786,John Sheehan@mockdata.com,75297,c#,1663,0.01,0.01,0.01
+225,BlueRaja - Danny Pflughoeft,238419,BlueRaja - Danny Pflughoeft@mockdata.com,78961,c#,933,0.02,0,0.01
+226,James,269476,keiji.muraishi@gmail.com,62998,r,5147,0,0.02,0.01
+227,keyboardP,187697,keyboardP@mockdata.com,67503,c#,3294,0.01,0.01,0.01
+228,sashoalm,492336,yann@dauphin.io,67673,c++,807,0.01,0.01,0.01
+229,phd,7976758,deontologician@gmail.com,67297,Python,2203,0.01,0.01,0.01
+230,supercat,363751,supercat@mockdata.com,72657,c#,2317,0.01,0.01,0.01
+231,Tigran,156695,Tigran@mockdata.com,60398,c#,4807,0,0.02,0.01
+232,Hailwood,383759,mpazaryna@gmail.com,84031,css,18,0.02,0,0.01
+233,Srikar Appalaraju,147019,contact@joshuagriffith.com,68496,Python,2091,0.01,0.01,0.01
+234,Timothy Shields,1828879,Timothy Shields@mockdata.com,69546,c#,3034,0.01,0.01,0.01
+235,AD7six,761202,AD7six@mockdata.com,58617,git,2633,0,0.02,0.01
+236,Paul Sasik,47550,Paul Sasik@mockdata.com,75802,c#,1821,0.01,0.01,0.01
+237,Yahia,847363,Yahia@mockdata.com,67947,c#,3418,0.01,0.01,0.01
+238,jkp,912,slim.amamou@gmail.com,74090,Python,1437,0.01,0.01,0.01
+239,Frank,1191259,Frank@mockdata.com,64652,r,5133,0.01,0.02,0.01
+240,Richard Garside,31569,luke0x@gmail.com,84924,javascript,19,0.02,0,0.01
+241,Phill Pafford,93966,cc@lows.sg,80311,javascript,329,0.02,0,0.01
+242,Yuriy Faktorovich,133910,Yuriy Faktorovich@mockdata.com,64338,c#,4248,0.01,0.02,0.01
+243,Ivan,16957,Ivan@mockdata.com,85778,git,0,0.02,0,0.01
+244,Mike Perrenoud,1195080,Mike Perrenoud@mockdata.com,64439,c#,4277,0.01,0.02,0.01
+245,har07,2998271,har07@mockdata.com,85781,xml,1905,0.02,0,0.01
+246,Andreas Wong,135448,git@peterc.org,57327,javascript,1909,0,0.02,0.01
+247,Igor Zevaka,129404,Igor Zevaka@mockdata.com,71192,git,1485,0.01,0.01,0.01
+248,Cameron MacFarland,3820,Cameron MacFarland@mockdata.com,67655,c#,3688,0.01,0.01,0.01
+249,Anshul Goyal,1860929,Anshul Goyal@mockdata.com,65951,git,2022,0.01,0.02,0.01
+250,slezica,469300,scott.wadden@gmail.com,68744,Python,2267,0.01,0.01,0.01
+251,itowlson,61700,itowlson@mockdata.com,71960,c#,2858,0.01,0.01,0.01
+252,Boris Callens,11333,Boris Callens@mockdata.com,86080,c#,98,0.02,0,0.01
+253,RaYell,137467,kangax@gmail.com,67696,javascript,1276,0.01,0.02,0.01
+254,Richard Knop,95944,xian@mintchaos.com,76451,php,230,0.02,0.01,0.01
+255,Mark Ingram,986,mhw@dangerous-techniques.com,68106,c++,900,0.01,0.01,0.01
+256,Peter Duniho,3538012,Peter Duniho@mockdata.com,65138,c#,4386,0.01,0.02,0.01
+257,Grant Winney,301857,Grant Winney@mockdata.com,62920,c#,4831,0,0.02,0.01
+258,Mikko Ohtamaa,315168,eric@colemando.com,74559,Python,1639,0.01,0.01,0.01
+259,Andrew Arnott,46926,Andrew Arnott@mockdata.com,77080,git,1055,0.02,0.01,0.01
+260,Chris Lutz,60777,marco.otte-witte@simplabs.com,69501,Python,2367,0.01,0.01,0.01
+261,LondonRob,2071807,allen.fair@gmail.com,61336,Python,3445,0,0.02,0.01
+262,Tony The Lion,174614,paul.dlug@gmail.com,59136,c++,1246,0,0.02,0.01
+263,Bastien L&#233;onard,88851,jhaberman@gmail.com,57550,Python,3950,0,0.02,0.01
+264,deamon,238134,adam@alaycock.co.uk,82666,java,340,0.02,0,0.01
+265,RomanPerekhrest,3185459,jeresig@gmail.com,75382,Python,1690,0.01,0.01,0.01
+266,Chase,415635,Chase@mockdata.com,64460,r,5302,0.01,0.02,0.01
+267,逆さま,297696,jonty@jonty.co.uk,71120,Python,2273,0.01,0.01,0.01
+268,Mike Christensen,392044,Mike Christensen@mockdata.com,81641,c#,1393,0.02,0.01,0.01
+269,Lekensteyn,427545,iam@smartic.us,60833,javascript,1855,0,0.02,0.01
+270,Trott,436641,tpitale@gmail.com,58115,javascript,2043,0,0.02,0.01
+271,Brian M. Hunt,19212,mikeal.rogers@gmail.com,75308,javascript,896,0.01,0.01,0.01
+272,James Raitsev,359862,olamy@apache.org,86319,java,165,0.02,0,0.01
+273,Gregory Pakosz,216063,nathanial.hartman@gmail.com,66692,java,1391,0.01,0.02,0.01
+274,chakrit,3055,brandon@opensoul.org,59585,javascript,1968,0,0.02,0.01
+275,cwallenpoole,57191,bjc@kublai.com,75298,Python,1791,0.01,0.01,0.01
+276,Paul H,1552748,jdknezek@gmail.com,57768,Python,4109,0,0.03,0.01
+277,Naftuli Kay,128967,j.f.akers@gmail.com,81362,Python,1053,0.02,0.01,0.01
+278,aleroot,330280,git@jumoel.com,68311,java,1323,0.01,0.02,0.01
+279,hectorsq,14755,hectorsq@mockdata.com,69276,git,2046,0.01,0.02,0.01
+280,Skizz,1898,swsnider@gmail.com,66703,c++,1050,0.01,0.02,0.01
+281,mata,1350899,blake.a.livingston@gmail.com,62899,Python,3517,0,0.02,0.01
+282,Martin Zeitler,549372,Martin Zeitler@mockdata.com,57344,android,2538,0,0.03,0.01
+283,KeithS,436376,KeithS@mockdata.com,67555,c#,4563,0.01,0.02,0.01
+284,jakevdp,2937831,b.ghose@gnu.org,63471,Python,3527,0.01,0.02,0.01
+285,adrianbanks,116923,adrianbanks@mockdata.com,78619,c#,2409,0.02,0.01,0.01
+286,Daniel Rikowski,23368,mtmotoki@gmail.com,68375,java,1395,0.01,0.02,0.01
+287,Manoj Govindan,140185,varuzza@gmail.com,67589,Python,3031,0.01,0.02,0.01
+288,johnstok,27929,thibaud@thibaud.gg,90972,javascript,7,0.03,0,0.01
+289,Artjom B.,1816580,vance@vancelucas.com,59502,javascript,2118,0,0.03,0.01
+290,jterrace,624900,borgna.marco@gmail.com,60396,Python,4031,0,0.02,0.01
+291,Jakub Troszok,98046,Jakub Troszok@mockdata.com,90015,git,147,0.03,0,0.01
+292,Alec Smart,426996,qartis@gmail.com,89078,javascript,163,0.03,0,0.01
+293,Luke Woodward,48503,glennpow@gmail.com,59568,java,2002,0,0.03,0.01
+294,UnkwnTech,115,andrew@avito.uk,82898,Python,1164,0.02,0.01,0.01
+295,AndiDog,245706,tomasz@werbicki.net,65046,Python,3492,0.01,0.02,0.01
+296,Abhijit,977038,git@entropy.io,58450,Python,4365,0,0.03,0.01
+297,Wayne,592746,robeypointer@gmail.com,57862,javascript,2291,0,0.03,0.01
+298,Pacerier,632951,ben@kudria.net,80226,javascript,816,0.02,0.01,0.01
+299,mrblah,68183,mrblah@mockdata.com,92533,git,0,0.03,0,0.01
+300,Boris Pavlović,32090,support@infront.com,60408,java,2005,0,0.03,0.01
+301,casperOne,50776,casperOne@mockdata.com,72072,c#,4110,0.01,0.02,0.01
+302,Welbog,52443,Welbog@mockdata.com,57261,xml,2040,0,0.03,0.01
+303,Graham Borland,385478,Graham Borland@mockdata.com,58695,android,2645,0,0.03,0.01
+304,Randy Sugianto &#39;Yuku&#39;,11238,Randy Sugianto &#39;Yuku&#39;@mockdata.com,67799,android,1940,0.01,0.02,0.01
+305,mjs,11543,pj@hyett.com,60022,ruby,1355,0,0.03,0.01
+306,stakx - no longer contributing,240733,stakx - no longer contributing@mockdata.com,79489,c#,2684,0.02,0.01,0.01
+307,Jakub Arnold,72583,Jakub Arnold@mockdata.com,82543,ruby-on-rails,101,0.02,0.01,0.01
+308,Roman,100516,ishikawa_takanori@mac.com,61342,java,1971,0,0.03,0.01
+309,Mark Rogers,25847,hsdpal@gmail.com,93029,javascript,0,0.03,0,0.01
+310,talat,3521006,talat@mockdata.com,65363,r,5487,0.01,0.02,0.01
+311,PaulMcG,165216,mail@mlesniak.com,58772,Python,4497,0,0.03,0.01
+312,Jake Wilson,172350,Jake Wilson@mockdata.com,83020,android,804,0.02,0.01,0.01
+313,mqp,55943,mqp@mockdata.com,66563,c#,5369,0.01,0.02,0.01
+314,Alan Haggai Alavi,66353,Alan Haggai Alavi@mockdata.com,69270,git,2426,0.01,0.02,0.01
+315,pyfunc,432745,srodal@gmail.com,62553,Python,4021,0,0.02,0.01
+316,Kirk Larkin,2630078,Kirk Larkin@mockdata.com,70765,c#,4558,0.01,0.02,0.01
+317,LiraNuna,41983,jan@krutisch.de,60562,javascript,2203,0,0.03,0.01
+318,Mohsen,650722,me@anthonylewis.com,61322,javascript,2164,0,0.03,0.01
+319,Todd A. Jacobs,1301972,Todd A. Jacobs@mockdata.com,75421,git,1866,0.01,0.01,0.01
+320,danben,217332,magagnon@gmail.com,76666,Python,2256,0.02,0.01,0.01
+321,NotMe,2424,NotMe@mockdata.com,85927,c#,1708,0.02,0.01,0.01
+322,tdelaney,642070,nande12@gmail.com,61815,Python,4259,0,0.03,0.01
+323,hugomg,90511,gotascii@gmail.com,65430,javascript,1944,0.01,0.02,0.01
+324,Ami Tavory,3510736,svenstaro@gmail.com,70352,Python,3154,0.01,0.02,0.01
+325,Bjorn,66475,oyvind.saltvik@gmail.com,63733,javascript,2080,0.01,0.02,0.02
+326,Noufal Ibrahim,229602,Noufal Ibrahim@mockdata.com,68691,git,2639,0.01,0.02,0.02
+327,Quintin Robinson,12707,Quintin Robinson@mockdata.com,78452,c#,3355,0.02,0.01,0.02
+328,eckes,520162,eckes@mockdata.com,59606,git,3579,0,0.03,0.02
+329,Rachel,164299,Rachel@mockdata.com,95237,git,0,0.03,0,0.02
+330,Starx,295264,Starx@mockdata.com,74382,mysql,1170,0.01,0.02,0.02
+331,cobbal,73681,jfcouture@gmail.com,68179,javascript,1847,0.01,0.02,0.02
+332,devoured elysium,130758,cbwyckoff@gmail.com,94821,java,70,0.03,0,0.02
+333,kohske,314020,kohske@mockdata.com,62886,r,5735,0,0.03,0.02
+334,Devoted,51518,srabbelier@gmail.com,95941,Python,1,0.03,0,0.02
+335,codelogic,43427,cw@christianwilcox.com,68293,Python,3614,0.01,0.02,0.02
+336,Alex Aza,732945,Alex Aza@mockdata.com,73173,c#,4595,0.01,0.02,0.02
+337,Timmmm,265521,Timmmm@mockdata.com,75776,android,1595,0.01,0.02,0.02
+338,casablanca,381345,hannes@kunstreich.name,67626,javascript,1917,0.01,0.02,0.02
+339,Olaf Dietsche,1741542,luc@stepniewski.fr,68577,c++,1219,0.01,0.02,0.02
+340,too much php,28835,me@bjeanes.com,84654,Python,1541,0.02,0.01,0.02
+341,James,82586,James@mockdata.com,77176,c#,3920,0.02,0.02,0.02
+342,Sriram Sakthivel,2530848,Sriram Sakthivel@mockdata.com,69517,c#,5460,0.01,0.02,0.02
+343,James Hill,763246,psq@nanorails.com,57752,javascript,2614,0,0.03,0.02
+344,U12-Forward,8708364,brad@bcable.net,64317,Python,4244,0.01,0.03,0.02
+345,cuongle,783681,cuongle@mockdata.com,71333,c#,5128,0.01,0.02,0.02
+346,Carl Smotricz,172211,Harini.rails@gmail.com,64198,java,2043,0.01,0.03,0.02
+347,Premraj,1697099,david@majda.cz,64512,java,2028,0.01,0.03,0.02
+348,Jason Cohen,4926,mengbo@lnu.edu.cn,77917,java,1198,0.02,0.02,0.02
+349,Daniel Kaplan,61624,brian.cassidy@gmail.com,57402,java,2481,0,0.03,0.02
+350,Richard Szalay,3603,Richard Szalay@mockdata.com,80555,c#,3341,0.02,0.01,0.02
+351,Justin,113141,Justin@mockdata.com,82003,c#,3056,0.02,0.01,0.02
+352,Tudor,808486,avinash.jaisinghani@gmail.com,60164,java,2320,0,0.03,0.02
+353,rcs,172261,rcs@mockdata.com,64168,r,5743,0.01,0.03,0.02
+354,Kirk Woll,189950,Kirk Woll@mockdata.com,72457,c#,5009,0.01,0.02,0.02
+355,David Robinson,712603,jerrett@5stone.io,73832,Python,3092,0.01,0.02,0.02
+356,Wolph,54017,dusty@brightmix.com,73442,Python,3158,0.01,0.02,0.02
+357,LarsTech,719186,LarsTech@mockdata.com,78635,c#,3820,0.02,0.02,0.02
+358,Gabe,310574,Gabe@mockdata.com,81958,c#,3211,0.02,0.01,0.02
+359,michael,286802,michael@mockdata.com,98154,android,1,0.03,0,0.02
+360,CD..,139300,viktor.lieskovsky@gmail.com,67796,javascript,2052,0.01,0.02,0.02
+361,maček,184600,christoffer.sawicki@gmail.com,72560,javascript,1736,0.01,0.02,0.02
+362,Code-Apprentice,1440565,steveg0493@gmail.com,75055,java,1472,0.01,0.02,0.02
+363,Michael Anderson,221955,voidfiles@gmail.com,65115,c++,1420,0.01,0.03,0.02
+364,Ajax1234,7326738,dhpeterson@gmail.com,65663,Python,4313,0.01,0.03,0.02
+365,Paulo Scardine,444036,aurelijus@astdev.lt,66156,Python,4260,0.01,0.03,0.02
+366,Andrew Tomazos,1131467,pingles@protonmail.com,61784,c++,1545,0,0.03,0.02
+367,Nikita Rybak,330565,jvdneste@gmail.com,66073,java,2053,0.01,0.03,0.02
+368,Aliostad,440502,Aliostad@mockdata.com,78375,c#,4149,0.02,0.02,0.02
+369,Jaime,110026,steve@orderedlist.com,61927,Python,4888,0,0.03,0.02
+370,JasonSmith,2938,JasonSmith@mockdata.com,70258,git,2941,0.01,0.02,0.02
+371,Mottie,145346,github.com@trioglobal.com,78736,javascript,1390,0.02,0.02,0.02
+372,Parand,13055,danmunk@gmail.com,96394,Python,426,0.03,0,0.02
+373,tom10,102302,paul@rosania.org,62924,Python,4790,0,0.03,0.02
+374,Femi,691688,Femi@mockdata.com,63470,android,2836,0.01,0.03,0.02
+375,p.campbell,23199,p.campbell@mockdata.com,94610,c#,1069,0.03,0,0.02
+376,carlosfigueira,751090,carlosfigueira@mockdata.com,81754,c#,3646,0.02,0.01,0.02
+377,Tower,283055,thade.oconnor@gmail.com,92383,javascript,505,0.03,0.01,0.02
+378,Russell Dias,322129,aaron@aaronbedra.com,66638,Python,4352,0.01,0.03,0.02
+379,Allain Lalonde,2443,kamil.lemanski@toptal.com,88095,java,759,0.02,0.01,0.02
+380,skiphoppy,18103,skiphoppy@mockdata.com,88848,git,1163,0.03,0.01,0.02
+381,Games Brainiac,1624921,github@tux.freedom.nl,74808,Python,3346,0.01,0.02,0.02
+382,Ahmad,1333975,Ahmad@mockdata.com,63315,android,2903,0,0.03,0.02
+383,fortran,106979,bowserj@gmail.com,70424,Python,3928,0.01,0.02,0.02
+384,Edward Thomson,729881,Edward Thomson@mockdata.com,68137,git,3271,0.01,0.03,0.02
+385,Nanne,546999,Nanne@mockdata.com,63003,android,2935,0,0.03,0.02
+386,TheGeneral,1612975,TheGeneral@mockdata.com,74789,c#,5228,0.01,0.02,0.02
+387,scunliffe,6144,bendik.lynghaug@gmail.com,59897,javascript,2751,0,0.03,0.02
+388,JoshAdel,392949,kassoulet  gmail.com,61195,Python,5196,0,0.03,0.02
+389,Paul Stephenson,5536,gthiesfeld@gmail.com,63503,Python,4898,0.01,0.03,0.02
+390,Pedro Lobito,797495,yangjindong@gmail.com,83367,Python,2311,0.02,0.01,0.02
+391,Darren Kopp,77,Darren Kopp@mockdata.com,74111,c#,5435,0.01,0.02,0.02
+392,Roger Lipscombe,8446,anton.bossenbroek@gmail.com,84439,c++,828,0.02,0.01,0.02
+393,Aniket Thakur,2396539,oleg.kurnosov@gmail.com,62519,java,2426,0,0.03,0.02
+394,Tim Henigan,63147,Tim Henigan@mockdata.com,57020,git,4466,0,0.04,0.02
+395,Akavall,1078084,fred@omise.co,74548,Python,3506,0.01,0.02,0.02
+396,coolaj86,151312,coolaj86@mockdata.com,68414,git,3333,0.01,0.03,0.02
+397,venkatachalam,44984,eugene@3bytesahead.com,101783,javascript,-5,0.04,0,0.02
+398,Dan D.,388787,wgray@zetetic.net,69845,Python,4171,0.01,0.03,0.02
+399,Jacob,119549,evschoemaker@gmail.com,74837,javascript,1806,0.01,0.02,0.02
+400,David542,651174,david.krmpotic@gmail.com,98659,Python,424,0.03,0,0.02
+401,AnApprentice,149080,AnApprentice@mockdata.com,102030,ruby-on-rails,28,0.04,0,0.02
+402,Andreas Grech,44084,Andreas Grech@mockdata.com,101878,algorithm,2,0.04,0,0.02
+403,Henrik Paul,2238,thy@42.dk,65181,java,2302,0.01,0.03,0.02
+404,Jens Schauder,66686,msk@dolbo.net,69666,java,2052,0.01,0.03,0.02
+405,Robert Munteanu,112671,kurtguenther@gmail.com,64785,java,2361,0.01,0.03,0.02
+406,user2390182,2390182,percyp3@gmail.com,66896,Python,4670,0.01,0.03,0.02
+407,Jonathan Livni,348545,jon@endpointdev.com,91444,Python,1480,0.03,0.01,0.02
+408,recursive,44743,aubreyholland@gmail.com,80186,Python,2962,0.02,0.02,0.02
+409,ayhan,2285236,mgreenly@gmail.com,62543,Python,5270,0,0.03,0.02
+410,Geo,31610,npverni@gmail.com,88754,Python,1858,0.03,0.01,0.02
+411,simont,1084945,simont@mockdata.com,61442,git,4190,0,0.03,0.02
+412,Tim Peters,2705542,pat@ge3k.net,61760,Python,5409,0,0.03,0.02
+413,gnud,27204,grayson.hansard@gmail.com,75275,Python,3649,0.01,0.02,0.02
+414,Esko Luontola,62130,markus.arike@gmail.com,71690,java,1985,0.01,0.03,0.02
+415,Boldewyn,113195,charles.obrien@gmail.com,78327,javascript,1684,0.02,0.02,0.02
+416,Mark Elliot,21441,longhi88@hotmail.com,71434,java,2013,0.01,0.03,0.02
+417,Jon,82865,peterdillon@gmail.com,58482,java,2822,0,0.04,0.02
+418,Imran,1897,chris@greenstem.ca,80651,Python,3009,0.02,0.02,0.02
+419,Teifion,1384652,me@willcannings.com,102295,Python,206,0.04,0,0.02
+420,Erik Funkenbusch,61164,Erik Funkenbusch@mockdata.com,91529,c#,2476,0.03,0.01,0.02
+421,Jonny Buchanan,6760,kevin@lookingsideways.co.uk,59930,javascript,2945,0,0.03,0.02
+422,Jimmy,4435,Jimmy@mockdata.com,84849,c#,3841,0.02,0.02,0.02
+423,Diego Torres Milano,236465,Diego Torres Milano@mockdata.com,59912,android,3457,0,0.04,0.02
+424,baptiste,471093,baptiste@mockdata.com,73083,r,5646,0.01,0.02,0.02
+425,dan04,287586,fares.donaldson@gmail.com,81446,Python,2978,0.02,0.02,0.02
+426,ely,567620,kyle.daigle@github.com,68506,Python,4669,0.01,0.03,0.02
+427,Prune,4785185,masukomi@masukomi.org,74886,Python,3845,0.01,0.02,0.02
+428,Frerich Raabe,91757,Frerich Raabe@mockdata.com,85489,git,1905,0.02,0.02,0.02
+429,Damon,572743,jamie@jamiedubs.com,64041,c++,1663,0.01,0.03,0.02
+430,Dave Markle,24995,Dave Markle@mockdata.com,91387,c#,2633,0.03,0.01,0.02
+431,Rafe Kettler,399815,chikolad@gmail.com,72510,Python,4173,0.01,0.03,0.02
+432,Soviut,46914,yegor.yarko@jetbrains.com,82675,Python,2849,0.02,0.02,0.02
+433,Lawrence Dol,8946,mozo@mozo.jp,60846,java,2731,0,0.03,0.02
+434,Matthew Farwell,1836,john.pliam@gmail.com,59399,java,2822,0,0.04,0.02
+435,Kevin,953482,chuck.collins@gmail.com,71706,Python,4299,0.01,0.03,0.02
+436,steveha,166949,greggpollack@gmail.com,70530,Python,4473,0.01,0.03,0.02
+437,ZelluX,111896,ZelluX@mockdata.com,62226,git,4298,0,0.03,0.02
+438,pycruft,346573,raul@murciano.net,59745,Python,5899,0,0.04,0.02
+439,Roddy,1737,eoghan@intercom.io,64522,c++,1670,0.01,0.03,0.02
+440,Robin Rodricks,41021,keithm@infused.org,104121,javascript,87,0.04,0,0.02
+441,Micah,17744,Micah@mockdata.com,105715,git,1,0.04,0,0.02
+442,Bombe,43582,Bombe@mockdata.com,77534,git,2837,0.02,0.02,0.02
+443,Shawn Chin,115845,pudney@gmail.com,77972,Python,3641,0.02,0.02,0.02
+444,Daniel G,207432,petar.bukvic@foldapp.com,61468,Python,5805,0,0.04,0.02
+445,Suren Srapyan,5496973,mail at may.mooo.com,61233,javascript,2997,0,0.04,0.02
+446,asmeurer,161801,rich@cukehub.com,78999,Python,3540,0.02,0.02,0.02
+447,Randomblue,707381,it@nventive.com,104435,javascript,122,0.04,0,0.02
+448,KV Prajapati,142822,KV Prajapati@mockdata.com,91757,c#,2922,0.03,0.01,0.02
+449,Shimmy Weitzhandler,75500,Shimmy Weitzhandler@mockdata.com,96637,c#,1955,0.03,0.01,0.02
+450,azizbekian,1083957,azizbekian@mockdata.com,57487,android,3816,0,0.04,0.02
+451,ali_m,1461210,ed.sinjiashvili@gmail.com,66471,Python,5224,0.01,0.03,0.02
+452,Jens,3636601,pka@sourcepole.ch,62753,java,2733,0,0.03,0.02
+453,Shadow Wizard Hates Omicron,447356,me@ari.io,63679,javascript,2870,0.01,0.03,0.02
+454,mouad,479633,sandrejev@gmail.com,62651,Python,5736,0,0.03,0.02
+455,Petr Viktorin,99057,vargthon@gmail.com,61854,Python,5861,0,0.04,0.02
+456,hrbrmstr,1457051,hrbrmstr@mockdata.com,73869,r,5732,0.01,0.03,0.02
+457,TM.,12983,dustin@spy.net,101338,javascript,378,0.04,0,0.02
+458,ThomasIsCoding,12158757,ThomasIsCoding@mockdata.com,75765,r,5652,0.01,0.02,0.02
+459,Markus Jarderot,22364,gueorgui@possible.space,82810,Python,3176,0.02,0.02,0.02
+460,abyx,573,abyx@mockdata.com,64686,git,4274,0.01,0.03,0.02
+461,Jim,8427,ben@benslavin.com,70769,javascript,2437,0.01,0.03,0.02
+462,stefanB,45654,stefanB@mockdata.com,72397,bash,677,0.01,0.03,0.02
+463,tyczj,599346,tyczj@mockdata.com,68920,android,2988,0.01,0.03,0.02
+464,Marko,333255,djspiewak@gmail.com,69547,javascript,2534,0.01,0.03,0.02
+465,Jonas,213269,Jonas@mockdata.com,107518,git,7,0.04,0,0.02
+466,Vlad Bezden,30038,baldur.gudbjornsson@gmail.com,69794,javascript,2535,0.01,0.03,0.02
+467,Chronial,758345,Chronial@mockdata.com,58919,git,4915,0,0.04,0.02
+468,bruno desthuilliers,41316,scott@3rdarm.com,71689,Python,4713,0.01,0.03,0.02
+469,emk,12089,emk@mockdata.com,57906,git,5029,0,0.04,0.02
+470,Leniel Maccaferri,114029,Leniel Maccaferri@mockdata.com,96539,c#,2281,0.03,0.01,0.02
+471,Torsten Marek,9567,johnyhwang@gmail.com,78070,Python,3896,0.02,0.02,0.02
+472,Jorge Ferreira,6508,Jorge Ferreira@mockdata.com,92051,c#,3215,0.03,0.01,0.02
+473,aaronasterling,376728,brian@chapados.org,64597,Python,5689,0.01,0.03,0.02
+474,Blorgbeard,369,Blorgbeard@mockdata.com,96424,c#,2384,0.03,0.01,0.02
+475,Legend,184046,zhonghai.zuo@gmail.com,108084,javascript,12,0.04,0,0.02
+476,behzad.nouri,625914,joshuabates@gmail.com,67413,Python,5336,0.01,0.03,0.02
+477,tobias_k,1639625,christian.zacharias@shopify.com,77349,Python,4052,0.02,0.02,0.02
+478,cHao,319403,benjaminradler@gmail.com,81611,javascript,1812,0.02,0.02,0.02
+479,Casebash,165495,greg@evilfunhouse.com,106336,Python,356,0.04,0,0.02
+480,jop,11830,jop@mockdata.com,79707,c#,5913,0.02,0.02,0.02
+481,jldupont,171461,zack.carter@gmail.com,86720,Python,2937,0.02,0.02,0.02
+482,Roman,245549,rnaveiras@gmail.com,108881,Python,57,0.04,0,0.02
+483,DeepSpace,1453822,collin@command-tab.com,70840,Python,5017,0.01,0.03,0.02
+484,shoosh,9611,him@richardkiss.com,73056,c++,1517,0.01,0.03,0.02
+485,zapl,995891,bence@cursorinsight.com,61409,java,2994,0,0.04,0.02
+486,Davin Tryon,781707,brendan@usergenic.com,64675,javascript,2999,0.01,0.04,0.02
+487,Ovidiu Latcu,542091,Ovidiu Latcu@mockdata.com,70101,android,3094,0.01,0.03,0.02
+488,jonstjohn,67009,ross.lawley@gmail.com,57932,javascript,3485,0,0.04,0.02
+489,rlbond,72631,rajlist@rajshekhar.net,62083,c++,1933,0,0.04,0.02
+490,Sindre Sorhus,64949,eallam@icloud.com,62832,javascript,3164,0,0.04,0.02
+491,Jon Limjap,372,Jon Limjap@mockdata.com,91828,c#,3676,0.03,0.01,0.02
+492,Kos,399317,calas@qvitta.net,67244,c++,1753,0.01,0.03,0.02
+493,JRL,35501,martin.lundberg@gmail.com,74099,java,2258,0.01,0.03,0.02
+494,Gili,14731,florent.messa@gmail.com,80362,java,1882,0.02,0.02,0.02
+495,Fabr&#237;cio Matt&#233;,1331430,hipertracker@gmail.com,67279,javascript,2898,0.01,0.03,0.02
+496,blhsing,6890912,brian@orourke.io,76362,Python,4477,0.02,0.03,0.02
+497,Roman R.,868014,tdyer1@gmail.com,66240,c++,1811,0.01,0.04,0.02
+498,Alex Coventry,1941213,quigley@emerose.com,63915,Python,6148,0.01,0.04,0.02
+499,lomaxx,493,lomaxx@mockdata.com,108547,c#,515,0.04,0,0.02
+500,Daniel Stutzbach,219162,mitblan@gmail.com,69190,Python,5482,0.01,0.03,0.02
+501,FogleBird,90308,keston@fauxmachine.com,69472,Python,5452,0.01,0.03,0.02
+502,Mark Reed,797049,carlo@zottmann.org,84945,javascript,1762,0.02,0.02,0.02
+503,Sean Owen,64174,andrew@desto.net,64793,java,2904,0.01,0.04,0.02
+504,Forrest,338204,Forrest@mockdata.com,111363,git,0,0.04,0,0.02
+505,C&#233;dric Julien,718618,bob.varghese@gmail.com,73618,Python,4929,0.01,0.03,0.02
+506,M4N,19635,M4N@mockdata.com,92015,c#,3911,0.03,0.02,0.02
+507,Eric,102441,mflathers@javasense.com,90290,Python,2784,0.03,0.02,0.02
+508,George Mauer,5056,George Mauer@mockdata.com,109334,c#,481,0.04,0,0.02
+509,Scott Marcus,695364,voodootikigod@gmail.com,59397,javascript,3502,0,0.04,0.02
+510,dF.,3002,jflatow@gmail.com,70227,Python,5423,0.01,0.03,0.02
+511,sblundy,4893,peter.welinder@gmail.com,59190,java,3289,0,0.04,0.02
+512,jondavidjohn,555384,jjmerelo@gmail.com,60561,javascript,3451,0,0.04,0.02
+513,akarnokd,61158,hello@alfrednerstu.com,66388,java,2860,0.01,0.04,0.02
+514,Elias Van Ootegem,1230836,honglilai@gmail.com,70173,javascript,2813,0.01,0.03,0.02
+515,StuartLC,314291,StuartLC@mockdata.com,99471,c#,2654,0.03,0.01,0.02
+516,Ray Toal,831878,heungsub@subl.ee,82184,java,1905,0.02,0.02,0.02
+517,Pavel Minaev,111335,Pavel Minaev@mockdata.com,96971,c#,3168,0.03,0.01,0.02
+518,Parfait,1422451,jonathan.buch@gmail.com,94105,Python,2434,0.03,0.01,0.02
+519,Robert Rossney,19403,joshhuckabee@gmail.com,90590,Python,2907,0.03,0.02,0.02
+520,dahlbyk,54249,dahlbyk@mockdata.com,70952,git,4219,0.01,0.03,0.02
+521,ninjagecko,711085,bengriffiths@gmail.com,82389,Python,3995,0.02,0.02,0.02
+522,Jan Hudec,201725,chris@drackett.com,68708,c++,1807,0.01,0.04,0.02
+523,Nick Heiner,147601,mark.carranza@gmail.com,113059,java,12,0.04,0,0.02
+524,Dave Ward,60,Dave Ward@mockdata.com,58244,jquery,1945,0,0.04,0.02
+525,Matt Sheppard,797,cs.subscribe@gmail.com,113069,javascript,13,0.04,0,0.02
+526,notnoop,125844,josh@javajosh.com,57569,java,3492,0,0.04,0.02
+527,ryeguy,49018,alex@eaglepeakweb.com,62689,php,1116,0,0.04,0.02
+528,Zakaria Acharki,4281779,jhsu.x1@gmail.com,64924,javascript,3276,0.01,0.04,0.02
+529,baao,3993662,kim@kimdalsgaard.com,66005,javascript,3206,0.01,0.04,0.02
+530,sykora,53850,jan.huehne@googlemail.com,87812,Python,3425,0.02,0.02,0.02
+531,McGarnagle,1001985,McGarnagle@mockdata.com,98321,c#,3180,0.03,0.01,0.02
+532,Francisc,383148,wasnotrice@gmail.com,70772,javascript,2911,0.01,0.03,0.02
+533,Jesper R&#248;nn-Jensen,109305,Jesper R&#248;nn-Jensen@mockdata.com,97441,git,1697,0.03,0.01,0.02
+534,James Curran,12725,James Curran@mockdata.com,97968,c#,3295,0.03,0.01,0.02
+535,root,1199589,james@floppy.org.uk,68160,Python,6043,0.01,0.04,0.02
+536,gsamaras,2411320,thiagoaos@gmail.com,69227,c++,1838,0.01,0.04,0.02
+537,Marcin Orlowski,1235698,Marcin Orlowski@mockdata.com,68497,android,3594,0.01,0.04,0.02
+538,hunter,68015,hunter@mockdata.com,60356,jquery,1918,0,0.04,0.02
+539,Walker,364969,jonathon@quotidian.org,115059,javascript,0,0.05,0,0.02
+540,Ed Heal,892256,jason.herald@gmail.com,57451,c,1281,0,0.05,0.02
+541,Vilx-,41360,l@spazidigitali.com,100434,php,326,0.03,0.01,0.02
+542,Anomie,634419,Anomie@mockdata.com,89117,git,2646,0.03,0.02,0.02
+543,Mark Cidade,1659,Mark Cidade@mockdata.com,95614,c#,3994,0.03,0.02,0.02
+544,Rakesh,532312,propeller@thoughtpropulsion.com,78030,Python,4889,0.02,0.03,0.02
+545,timgeb,3620003,tbuser@gmail.com,71239,Python,5780,0.01,0.04,0.02
+546,Nathan Fellman,1084,azambuja@gmail.com,114610,Python,140,0.05,0,0.02
+547,dbc,3744182,dbc@mockdata.com,88918,c#,5403,0.03,0.02,0.02
+548,abatishchev,41956,abatishchev@mockdata.com,94553,c#,4279,0.03,0.02,0.02
+549,Chandu,527185,chris.m.boyd@gmail.com,77812,javascript,2559,0.02,0.03,0.02
+550,Spoike,3713,Spoike@mockdata.com,115720,git,107,0.05,0,0.02
+551,sleske,43681,fred@sullenfish.com,76829,java,2502,0.02,0.03,0.02
+552,Nathan Long,4376,cora@sutton.me,117270,ruby,905,0.05,0,0.02
+553,Rajaprabhu Aravindasamy,1209018,andrew.sayman+github@gmail.com,64476,javascript,3538,0.01,0.04,0.02
+554,mikemaccana,123671,stolt45@gmail.com,91946,javascript,1712,0.03,0.02,0.02
+555,Sam Harwell,138304,Sam Harwell@mockdata.com,94255,c#,4675,0.03,0.02,0.02
+556,Cameron,21475,arto@aurora.dev,90620,Python,3516,0.03,0.02,0.02
+557,Charlie Martin,35092,ericseijo@gmail.com,106258,Python,1487,0.04,0.01,0.02
+558,Dan,17121,kruse@hmi-project.com,57886,javascript,4005,0,0.05,0.02
+559,Peter Knego,248432,Peter Knego@mockdata.com,79404,android,2989,0.02,0.03,0.02
+560,annakata,13018,speajus@gmail.com,72222,javascript,3051,0.01,0.04,0.02
+561,juanpa.arrivillaga,5014455,blim8183@gmail.com,74177,Python,5704,0.01,0.03,0.02
+562,Moses Koledoye,3125566,fackweb@gmail.com,74142,Python,5713,0.01,0.03,0.02
+563,Anurag Uniyal,6946,ilya.averyanov@gmail.com,80827,Python,4854,0.02,0.03,0.02
+564,Evk,5311735,Evk@mockdata.com,89613,c#,5713,0.03,0.02,0.02
+565,Mike Graham,192839,lucashungaro@gmail.com,68386,Python,6490,0.01,0.04,0.02
+566,Brandon Rhodes,85360,hasan83bd@gmail.com,74918,Python,5661,0.01,0.03,0.02
+567,Dan Lenski,20789,iain.lowe@gmail.com,71505,Python,6115,0.01,0.04,0.02
+568,Rob,9236,kjhealy@gmail.com,72676,c++,1861,0.01,0.04,0.02
+569,Ahmad Mageed,59111,Ahmad Mageed@mockdata.com,91001,c#,5558,0.03,0.02,0.02
+570,jgauffin,70386,jgauffin@mockdata.com,97186,c#,4325,0.03,0.02,0.02
+571,Robby Cornelissen,3558960,rcotton@splunk.com,78957,javascript,2662,0.02,0.03,0.02
+572,Niklas B.,916657,tony@thecocoabots.com,88183,Python,3989,0.02,0.02,0.02
+573,eyelidlessness,17964,noah@chromakey.io,60231,javascript,3932,0,0.05,0.02
+574,Olivier Jacot-Descombes,880990,Olivier Jacot-Descombes@mockdata.com,92581,c#,5317,0.03,0.02,0.02
+575,Samuel Liew,584192,michael@clojurewerkz.org,71707,javascript,3174,0.01,0.04,0.02
+576,glglgl,296974,pgunupudi@gmail.com,84524,Python,4524,0.02,0.03,0.02
+577,sloth,142637,joseph.june@gmail.com,94599,Python,3263,0.03,0.02,0.02
+578,Matchu,107415,david.schneider@bivab.de,80087,javascript,2649,0.02,0.03,0.02
+579,Pablo Fernandez,7595,Pablo Fernandez@mockdata.com,98001,c#,4359,0.03,0.02,0.02
+580,techfoobar,921204,tom.malone@mac.com,63254,javascript,3783,0,0.04,0.02
+581,Marcin Gil,5731,Marcin Gil@mockdata.com,65034,git,5522,0.01,0.04,0.02
+582,Jaap,2204410,Jaap@mockdata.com,75932,r,6284,0.02,0.04,0.03
+583,Martin Liversage,98607,Martin Liversage@mockdata.com,99948,c#,4107,0.03,0.02,0.03
+584,hpique,143378,hpique@mockdata.com,115408,android,412,0.05,0,0.03
+585,Joseph Marikle,854246,mparkatti@wildstabmedia.com,72062,javascript,3261,0.01,0.04,0.03
+586,Ivaylo Strandjev,812912,andres@paglayan.com,66110,c++,2172,0.01,0.04,0.03
+587,Mike M&#252;ller,837534,corey.burrows@gmail.com,76334,Python,5841,0.02,0.04,0.03
+588,Richard,67392,Richard@mockdata.com,102909,c#,3666,0.04,0.01,0.03
+589,AskNilesh,7666442,AskNilesh@mockdata.com,62789,android,4559,0,0.05,0.03
+590,Jonik,56285,mdotterer@gmail.com,76846,java,2777,0.02,0.04,0.03
+591,Rahul,567435,Rahul@mockdata.com,73407,mysql,1689,0.01,0.04,0.03
+592,ChaosPandion,156142,hfuecks@gmail.com,75207,javascript,3102,0.01,0.04,0.03
+593,Gert Arnold,861716,Gert Arnold@mockdata.com,98754,c#,4578,0.03,0.02,0.03
+594,Alex Miller,7671,davidqmcr@gmail.com,67023,java,3418,0.01,0.04,0.03
+595,Hooked,249341,caleb@land.fm,76218,Python,5943,0.02,0.04,0.03
+596,David Cournapeau,11465,yaroslav@markin.net,74369,Python,6191,0.01,0.04,0.03
+597,Arvind Kumar Avinash,10819573,rein@bookingexperts.nl,61946,java,3746,0,0.05,0.03
+598,Edwin Buck,302139,fnavarrov@gmail.com,67077,java,3431,0.01,0.04,0.03
+599,Tim B&#252;the,60518,ian@mckellar.org,60698,javascript,4109,0,0.05,0.03
+600,Delan Azabani,330644,ydewit@gmail.com,75762,javascript,3127,0.01,0.04,0.03
+601,bfavaretto,825789,me@wmoxam.com,70233,javascript,3499,0.01,0.04,0.03
+602,Uri,23072,darakilicoglu@gmail.com,86302,java,2262,0.02,0.03,0.03
+603,Tom Wadley,613430,orlin@astrolet.net,122243,javascript,31,0.05,0,0.03
+604,Mamun,7461381,mde@fleegix.org,62009,javascript,4075,0,0.05,0.03
+605,selbie,104458,jrm02t@gmail.com,88922,javascript,2288,0.03,0.03,0.03
+606,Kip,18511,dinesh.iln@gmail.com,102302,java,1303,0.04,0.02,0.03
+607,gimel,6491,matt@vanderpol.net,77574,Python,5973,0.02,0.04,0.03
+608,Dan Rosenstark,8047,michael@koziarski.com,66107,objective-c,824,0.01,0.05,0.03
+609,Cat,1438733,Cat@mockdata.com,65433,android,4543,0.01,0.05,0.03
+610,Bala R,273200,Bala R@mockdata.com,104059,c#,4019,0.04,0.02,0.03
+611,yatu,9698684,ikerin@gmail.com,79316,Python,5842,0.02,0.04,0.03
+612,mhawke,21945,norman@njclarke.com,79080,Python,5906,0.02,0.04,0.03
+613,Aron Rotteveel,11568,kevin.hamer@gmail.com,77028,javascript,3170,0.02,0.04,0.03
+614,Travis J,1026459,fraiponts@gmail.com,78607,javascript,3068,0.02,0.04,0.03
+615,markdorison,97101,markdorison@mockdata.com,124488,git,11,0.05,0,0.03
+616,Martijn Courteaux,155137,markeeto@gmail.com,65264,java,3703,0.01,0.05,0.03
+617,Philip Morton,21709,Philip Morton@mockdata.com,124769,jquery,0,0.05,0,0.03
+618,Bill K,12943,patrick.lef@gmail.com,60949,java,3992,0,0.05,0.03
+619,Sven Hohenstein,1627235,Sven Hohenstein@mockdata.com,77614,r,6420,0.02,0.04,0.03
+620,stacker,241590,bhanuprasad143@gmail.com,65731,java,3704,0.01,0.05,0.03
+621,Dan Lew,60261,Dan Lew@mockdata.com,83187,android,3283,0.02,0.03,0.03
+622,ConcernedOfTunbridgeWells,15401,622@mockdata.com,61505,sql-server,1834,0,0.05,0.03
+623,devunwired,246461,devunwired@mockdata.com,61637,android,4988,0,0.05,0.03
+624,Ned Deily,145403,allisson@gmail.com,80534,Python,5882,0.02,0.04,0.03
+625,Brad Christie,298053,duncan@whomwah.com,97982,javascript,1855,0.03,0.02,0.03
+626,jdi,496445,nikolayr@gmail.com,86129,Python,5179,0.02,0.03,0.03
+627,Web_Designer,552067,angelo@cssboy.com,67838,css,1825,0.01,0.05,0.03
+628,Sirko,1169798,matt@tarbit.org,68553,javascript,3853,0.01,0.05,0.03
+629,Chris B.,9161,riley.ross@gmail.com,77252,Python,6406,0.02,0.04,0.03
+630,Alex Volovoy,176761,Alex Volovoy@mockdata.com,66490,android,4697,0.01,0.05,0.03
+631,Shaun Luttin,1108891,Shaun Luttin@mockdata.com,117900,c#,1890,0.05,0.01,0.03
+632,rslite,15682,assaf@labnotes.org,76937,Python,6569,0.02,0.04,0.03
+633,Tamas Czinege,8954,sera.brocious@gmail.com,114047,javascript,887,0.05,0.01,0.03
+634,Kev,419,Kev@mockdata.com,115043,c#,2475,0.05,0.01,0.03
+635,adarshr,343955,btelles@gmail.com,58961,java,4275,0,0.05,0.03
+636,BFree,15861,BFree@mockdata.com,99877,c#,5553,0.03,0.02,0.03
+637,Spacedman,211116,Spacedman@mockdata.com,88858,r,6008,0.03,0.03,0.03
+638,Adam Matan,51197,krschultz@gmail.com,115451,Python,1590,0.05,0.01,0.03
+639,Roman Pekar,1744834,poor666@gmail.com,97959,Python,3894,0.03,0.02,0.03
+640,Prince John Wesley,571189,matt@mattwynne.net,60360,java,4214,0,0.05,0.03
+641,Daniel Vandersluis,92313,rocket.mind@gmail.com,86838,javascript,2749,0.02,0.03,0.03
+642,rzwitserloot,768644,alovak@gmail.com,60245,java,4226,0,0.05,0.03
+643,DevSolar,60281,mackstann@gmail.com,62617,c++,2549,0,0.05,0.03
+644,Rich Bradshaw,16511,dermot.brennan@gmail.com,69076,css,1848,0.01,0.05,0.03
+645,kemiller2002,1942,kemiller2002@mockdata.com,110265,c#,3563,0.04,0.01,0.03
+646,Evan Fosmark,49701,paul@stadig.name,93293,Python,4583,0.03,0.03,0.03
+647,Josh Stodola,54420,andrew@xyncro.com,79371,javascript,3284,0.02,0.04,0.03
+648,waitingkuo,1426056,proppy@google.com,78338,Python,6555,0.02,0.04,0.03
+649,orlp,565635,brad@b7j0c.org,105026,Python,3082,0.04,0.02,0.03
+650,Powerlord,15880,leonardoprado@gmail.com,84126,java,2781,0.02,0.04,0.03
+651,joaquin,308903,tnyplz@gmail.com,77266,Python,6706,0.02,0.04,0.03
+652,omg,104015,demisone@gmail.com,128866,javascript,8,0.06,0,0.03
+653,John Machin,84270,rgaidot@gmail.com,77835,Python,6704,0.02,0.04,0.03
+654,Daniel Earwicker,27423,Daniel Earwicker@mockdata.com,111336,c#,3599,0.04,0.01,0.03
+655,Jim Puls,6010,nablaone@gmail.com,75082,javascript,3639,0.01,0.04,0.03
+656,waqaslam,966550,waqaslam@mockdata.com,66050,android,4954,0.01,0.05,0.03
+657,jsbueno,108205,denis@hennessynet.com,83684,Python,5998,0.02,0.04,0.03
+658,Jo&#227;o Silva,140816,ww@blackwinter.de,84601,java,2815,0.02,0.04,0.03
+659,interjay,189205,andrey.melnik@icloud.com,100831,Python,3767,0.03,0.02,0.03
+660,Jeremy Friesner,131930,johnny.jacob@intel.com,62209,c++,2629,0,0.05,0.03
+661,Eric O Lebigot,42973,matias@nullun.com,85068,Python,5837,0.02,0.04,0.03
+662,DavidG,1663001,DavidG@mockdata.com,102561,c#,5489,0.04,0.02,0.03
+663,Soner G&#246;n&#252;l,447156,Soner G&#246;n&#252;l@mockdata.com,93554,c#,7303,0.03,0.03,0.03
+664,Alexei Levenkov,477420,Alexei Levenkov@mockdata.com,96207,c#,6825,0.03,0.03,0.03
+665,TofuBeer,65868,markus@myd0.de,59302,java,4431,0,0.06,0.03
+666,Klaus Byskov Pedersen,218589,Klaus Byskov Pedersen@mockdata.com,109796,c#,4123,0.04,0.02,0.03
+667,Matthew Scharley,15537,Matthew Scharley@mockdata.com,120398,c#,2008,0.05,0.01,0.03
+668,dawg,298607,tombagby@gmail.com,89046,Python,5416,0.03,0.03,0.03
+669,Justin Ethier,101258,rondysousa@gmail.com,126327,Python,570,0.05,0,0.03
+670,Mark,3874623,luke.amdor@gmail.com,82555,javascript,3227,0.02,0.04,0.03
+671,Cerbrus,1835379,dev@fiveruns.com,64582,javascript,4440,0.01,0.05,0.03
+672,e.James,33686,njonas45@gmail.com,112218,c++,897,0.04,0.01,0.03
+673,Wooble,110707,Wooble@mockdata.com,84027,git,4739,0.02,0.04,0.03
+674,Michael Aaron Safyan,136540,esobchenko@gmail.com,90240,c++,1683,0.03,0.03,0.03
+675,cmcginty,64313,cmcginty@mockdata.com,106318,git,2519,0.04,0.02,0.03
+676,Rion Williams,557445,Rion Williams@mockdata.com,71866,jquery,2102,0.01,0.05,0.03
+677,EpicPandaForce,2413303,EpicPandaForce@mockdata.com,75002,android,4397,0.01,0.04,0.03
+678,Mad Physicist,2988730,benny@bwong.net,92323,Python,5101,0.03,0.03,0.03
+679,Goz,131140,horned@kavu.dev,59421,c++,2787,0,0.06,0.03
+680,skiwi,2057294,boris.raeschler@googlemail.com,62373,java,4318,0,0.05,0.03
+681,Panagiotis Kanavos,134204,Panagiotis Kanavos@mockdata.com,101245,c#,6151,0.04,0.02,0.03
+682,Lazy Badger,960558,Lazy Badger@mockdata.com,90571,git,4166,0.03,0.03,0.03
+683,Ben Jackson,479989,Ben Jackson@mockdata.com,82897,git,4946,0.02,0.04,0.03
+684,Chris,354577,Chris@mockdata.com,106447,git,2596,0.04,0.02,0.03
+685,Laurie Young,7473,Laurie Young@mockdata.com,132296,git,0,0.06,0,0.03
+686,Hogan,215752,686@mockdata.com,65631,sql-server,1906,0.01,0.05,0.03
+687,Duncan Jones,474189,andreas.schacke@gmail.com,62955,java,4341,0,0.06,0.03
+688,stivlo,445543,ohadlevy@gmail.com,79728,java,3298,0.02,0.04,0.03
+689,Matthew Watson,106159,Matthew Watson@mockdata.com,95636,c#,7410,0.03,0.03,0.03
+690,Eugen Rieck,1100552,Eugen Rieck@mockdata.com,61779,mysql,2130,0,0.06,0.03
+691,lc.,44853,lc.@mockdata.com,109064,c#,4797,0.04,0.02,0.03
+692,Thomas Owens,572,email@garrettdimon.com,110624,php,491,0.04,0.02,0.03
+693,yegor256,187141,sbartsch@tzi.org,96452,java,2289,0.03,0.03,0.03
+694,Anton Gogolev,60188,Anton Gogolev@mockdata.com,109319,c#,4783,0.04,0.02,0.03
+695,Duncan,107660,scott@niftypixels.com,84784,Python,6307,0.02,0.04,0.03
+696,Filip Ros&#233;en - refp,1090079,joemclarke@gmail.com,59873,c++,2834,0,0.06,0.03
+697,eipi10,496488,eipi10@mockdata.com,85758,r,6436,0.02,0.04,0.03
+698,Martin Thoma,562769,xtoddx@gmail.com,104017,Python,3842,0.04,0.02,0.03
+699,Matt,444991,anais@anaisbetts.org,71934,javascript,4122,0.01,0.05,0.03
+700,gurvinder372,1984039,andrea@gravityblast.com,63532,javascript,4697,0.01,0.06,0.03
+701,kender,4172,xenoterracide@gmail.com,82164,Python,6724,0.02,0.04,0.03
+702,WhozCraig,1322972,ray@clean-swift.com,62438,c++,2763,0,0.06,0.03
+703,EboMike,345717,EboMike@mockdata.com,74617,android,4619,0.01,0.05,0.03
+704,Vinay Sajip,118903,mauricio.linhares@gmail.com,88688,Python,5909,0.03,0.04,0.03
+705,djdd87,44269,djdd87@mockdata.com,64688,jquery,2454,0.01,0.06,0.03
+706,Tyler Rinker,1000343,Tyler Rinker@mockdata.com,102576,r,5668,0.04,0.03,0.03
+707,Alex. S.,18300,katmilby@gmail.com,134175,Python,9,0.06,0,0.03
+708,Praveen,267269,Praveen@mockdata.com,88464,android,3572,0.02,0.04,0.03
+709,Abdennour TOUMI,747579,brad@intranation.com,73995,javascript,4038,0.01,0.05,0.03
+710,rustyx,485343,orengolan@gmail.com,71775,c++,2454,0.01,0.05,0.03
+711,Kamil Kiełczewski,860099,adrianmartinparra@gmail.com,67444,javascript,4488,0.01,0.05,0.03
+712,Orion Edwards,234,Orion Edwards@mockdata.com,116953,c#,3524,0.05,0.01,0.03
+713,Paul S.,1615483,zimakov@gmail.com,60846,javascript,4940,0,0.06,0.03
+714,Aadit M Shah,783743,laszlo.bacsi@100starlings.com,70024,javascript,4332,0.01,0.05,0.03
+715,Anand S Kumar,795990,atsushi@moongift.jp,81581,Python,6956,0.02,0.04,0.03
+716,Selman Gen&#231;,3010968,Selman Gen&#231;@mockdata.com,96866,c#,7647,0.03,0.03,0.03
+717,ThinkingStiff,918414,adam.french@cpanel.net,63518,css,2247,0.01,0.06,0.03
+718,Sam Saffron,17174,Sam Saffron@mockdata.com,123713,c#,2309,0.05,0.01,0.03
+719,flodel,1201032,flodel@mockdata.com,84673,r,6576,0.02,0.04,0.03
+720,Felix,180784,Felix@mockdata.com,86072,android,3847,0.02,0.04,0.03
+721,jessegavin,5651,cleitonfco@gmail.com,70459,javascript,4350,0.01,0.05,0.03
+722,BrunoLM,340760,sroske@gmail.com,92766,javascript,2858,0.03,0.03,0.03
+723,CodingIntrigue,571194,contact@coder.com,70161,javascript,4375,0.01,0.05,0.03
+724,Ernest Friedman-Hill,659804,hey@zhe.dev,78706,java,3551,0.02,0.05,0.03
+725,abelenky,34824,antonithock@gmail.com,59968,c,1677,0,0.06,0.03
+726,Vincent Ramdhanie,27439,paraseba@gmail.com,100236,java,2216,0.03,0.03,0.03
+727,Ken Chan,339637,brennanwashburn@gmail.com,73591,java,3883,0.01,0.05,0.03
+728,OldCurmudgeon,823393,mike.desjardins@cereslogic.com,62358,java,4589,0,0.06,0.03
+729,Tobi,5422,Tobi@mockdata.com,70416,git,6598,0.01,0.05,0.03
+730,Simon_Weaver,16940,Simon_Weaver@mockdata.com,128300,c#,1599,0.06,0.01,0.03
+731,Enigmativity,259769,Enigmativity@mockdata.com,103379,c#,6623,0.04,0.03,0.03
+732,CharlesB,11343,CharlesB@mockdata.com,79555,git,5725,0.02,0.05,0.03
+733,Michael Berry,551406,padraic.brady@gmail.com,65489,java,4434,0.01,0.06,0.03
+734,Adam Rackis,352552,edavis@littlestreamsoftware.com,81200,javascript,3709,0.02,0.04,0.03
+735,Bryan Herbst,1253844,Bryan Herbst@mockdata.com,64654,android,5611,0.01,0.06,0.03
+736,Wogan,137902,ben@bencurtis.com,62471,javascript,4986,0,0.06,0.03
+737,Dustin,39975,Dustin@mockdata.com,84922,git,5245,0.02,0.04,0.03
+738,Philip Fourie,11123,Philip Fourie@mockdata.com,102131,git,3520,0.04,0.03,0.03
+739,Stefano Borini,78374,stahnma@devops.af,131733,Python,715,0.06,0,0.03
+740,Lalit Poptani,726863,Lalit Poptani@mockdata.com,66410,android,5535,0.01,0.06,0.03
+741,David Murdoch,160173,rngallion@gmail.com,84720,javascript,3529,0.02,0.04,0.03
+742,Blundell,413127,Blundell@mockdata.com,72288,android,5084,0.01,0.05,0.03
+743,dano,2073595,valberg@orn.li,84140,Python,6966,0.02,0.04,0.03
+744,Fred Larson,10077,hello@superorbital.io,58501,c++,3047,0,0.06,0.03
+745,Pankaj Kumar,550966,Pankaj Kumar@mockdata.com,80333,android,4495,0.02,0.05,0.03
+746,alvas,610569,rvally@gmail.com,103434,Python,4508,0.04,0.03,0.03
+747,Gareth Latty,722121,marcus@cuda.org,81279,Python,7400,0.02,0.05,0.03
+748,Jarret Hardie,72247,hello@pietro.camp,89170,Python,6379,0.03,0.04,0.03
+749,Georg Sch&#246;lly,24587,almighty@veez.us,119743,Python,2405,0.05,0.01,0.03
+750,codeape,3571,codingwithbrian@gmail.com,93289,Python,5870,0.03,0.04,0.03
+751,outis,90527,oliver.gerlich@gmx.de,71253,php,1468,0.01,0.05,0.03
+752,Romain Linsolas,26457,daniel.pruessner@ieee.org,76227,java,3888,0.02,0.05,0.03
+753,kgiannakakis,24054,ron@balansoft.com,100603,java,2370,0.03,0.03,0.03
+754,Amy B,8155,Amy B@mockdata.com,104286,c#,6886,0.04,0.03,0.03
+755,Klaim,2368,spencer@spencermiles.org,63247,c++,2905,0,0.06,0.03
+756,Jon Hanna,400547,Jon Hanna@mockdata.com,105989,c#,6567,0.04,0.03,0.03
+757,womp,63756,womp@mockdata.com,113277,c#,5131,0.04,0.02,0.03
+758,CodesInChaos,445517,CodesInChaos@mockdata.com,102719,c#,7266,0.04,0.03,0.03
+759,Konstantin Yovkov,1003142,ameutau@gmail.com,60308,java,4909,0,0.06,0.03
+760,bmargulies,131433,adam@tadam.co.il,93740,java,2824,0.03,0.04,0.03
+761,hap497,128983,hap497@mockdata.com,139035,git,0,0.07,0,0.03
+762,raina77ow,1229023,robin@sublime.org,97798,javascript,2769,0.03,0.03,0.03
+763,emmby,82156,emmby@mockdata.com,97869,android,3236,0.03,0.03,0.03
+764,meriton,183406,ryan.baumann@gmail.com,64480,java,4676,0.01,0.06,0.03
+765,Bhojendra Rauniyar,2138752,mail@michaelbarton.me.uk,77614,css,1941,0.02,0.05,0.03
+766,Dai,159145,Dai@mockdata.com,123511,c#,3220,0.05,0.01,0.03
+767,Doug T.,8123,jisraelsen@gmail.com,61519,c++,3002,0,0.06,0.03
+768,spender,14357,spender@mockdata.com,110569,c#,5863,0.04,0.02,0.03
+769,Jeff Mercado,390278,Jeff Mercado@mockdata.com,119883,c#,4009,0.05,0.02,0.03
+770,tzot,6899,jvthibault@gmail.com,86077,Python,7026,0.02,0.04,0.03
+771,Brian Rasmussen,38206,Brian Rasmussen@mockdata.com,111848,c#,5663,0.04,0.02,0.03
+772,Vivin Paliath,263004,gareth@morethanseven.net,90531,javascript,3326,0.03,0.04,0.03
+773,ZZ Coder,149808,ohachige@gmail.com,72514,java,4228,0.01,0.05,0.03
+774,Macarse,119895,Macarse@mockdata.com,89096,android,4011,0.03,0.04,0.03
+775,Reza Aghaei,3110834,Reza Aghaei@mockdata.com,109927,c#,6147,0.04,0.02,0.03
+776,xanatos,613130,xanatos@mockdata.com,105402,c#,7063,0.04,0.03,0.03
+777,hjpotter92,1190388,scott@westarete.com,74330,php,1452,0.01,0.05,0.03
+778,Ben Clayton,228109,Ben Clayton@mockdata.com,77821,android,4907,0.02,0.05,0.03
+779,JLRishe,1945651,pierre.pracht@gmail.com,94285,javascript,3132,0.03,0.04,0.03
+780,mvp,1734130,mvp@mockdata.com,100670,git,4074,0.03,0.03,0.03
+781,Jeff Bowman,1426891,github@v.cx,81085,java,3753,0.02,0.05,0.03
+782,Blckknght,1405065,jean.uchoa@gmail.com,92172,Python,6399,0.03,0.04,0.03
+783,Carl Meyer,3207,anuj@andhapp.com,112704,Python,3758,0.04,0.02,0.03
+784,Aaronaught,38360,Aaronaught@mockdata.com,117896,c#,4761,0.05,0.02,0.03
+785,Useless,212858,christian@kellner.me,58949,c++,3164,0,0.07,0.03
+786,Ben James,189179,sandrods@gmail.com,113271,Python,3711,0.04,0.02,0.03
+787,BЈовић,476681,github@dailytechnology.net,59199,c++,3166,0,0.07,0.03
+788,Abe Miessler,226897,788@mockdata.com,78492,sql-server,1826,0.02,0.05,0.03
+789,user46646,46646,xc@xc.cx,142341,Python,0,0.07,0,0.03
+790,Lou Franco,3937,steve@stoutlogic.com,85141,c++,2260,0.02,0.05,0.03
+791,gilly3,361684,menghsiu@gmail.com,82899,javascript,3986,0.02,0.05,0.03
+792,Mike Hordecki,19082,skanthak@gmail.com,81361,Python,7971,0.02,0.05,0.03
+793,inspectorG4dget,198633,mail@joncrawford.com,103071,Python,5159,0.04,0.03,0.03
+794,Ionică Bizău,1420197,github@matthewbuck.com,100411,javascript,2828,0.03,0.03,0.03
+795,Aravind Yarram,127320,andion@gmail.com,76183,java,4162,0.02,0.05,0.03
+796,icktoofay,200291,naeim.fard@gmail.com,121175,Python,2837,0.05,0.02,0.03
+797,kosa,1094597,ernest.prabhakar@gmail.com,64640,java,4907,0.01,0.06,0.03
+798,paxos1977,14069,paxos1977@mockdata.com,143025,git,30,0.07,0,0.03
+799,Patrick,429,zed.0xff@gmail.com,85550,Python,7532,0.02,0.05,0.03
+800,thelatemail,496803,thelatemail@mockdata.com,84568,r,6973,0.02,0.05,0.03
+801,Paŭlo Ebermann,600500,hello@joshuacender.com,70529,java,4550,0.01,0.06,0.03
+802,HYRY,772649,nathanj439@gmail.com,88555,Python,7174,0.03,0.04,0.03
+803,dsgriffin,1586880,dsgriffin@mockdata.com,64112,jquery,2818,0.01,0.06,0.03
+804,Mark Amery,1709587,raychaser@gmail.com,123279,Python,2694,0.05,0.02,0.03
+805,Darryl Hein,5441,matt.darby@pff.com,137805,javascript,408,0.06,0,0.03
+806,Elias Zamaria,28324,mail@michaelbarton.me.uk,87567,javascript,3775,0.02,0.04,0.03
+807,Alireza,5423108,github@jasonwatkins.net,91333,javascript,3534,0.03,0.04,0.03
+808,Programmer Bruce,750987,iyan@lokadata.id,60827,java,5206,0,0.07,0.03
+809,Oleksandr T.,367138,attila.babo@gmail.com,72666,javascript,4795,0.01,0.06,0.03
+810,Adam Franco,15872,Adam Franco@mockdata.com,74530,git,7034,0.01,0.06,0.03
+811,Brian Roach,302916,sagarwal@gmail.com,74092,java,4393,0.01,0.06,0.03
+812,axiac,4265352,marcinpohl@gmail.com,60872,php,1828,0,0.07,0.03
+813,&#211;lafur Waage,22459,issac.kelly@gmail.com,66287,php,1713,0.01,0.06,0.03
+814,Christophe,3723423,code@quickredfox.at,59994,c++,3235,0,0.07,0.03
+815,Daryl Spitzer,4766,sbryant@github.com,130619,Python,1856,0.06,0.01,0.03
+816,Cory Kramer,2296458,tobyaw@me.com,105541,Python,5124,0.04,0.03,0.03
+817,Kobi,7586,Kobi@mockdata.com,129500,c#,3141,0.06,0.01,0.03
+818,M A,1064245,varyform@gmail.com,69108,java,4746,0.01,0.06,0.03
+819,David Browne - Microsoft,7297700,819@mockdata.com,62719,sql-server,2341,0,0.07,0.04
+820,Bakuriu,510937,col@baibell.org,90921,Python,7128,0.03,0.04,0.04
+821,IntelliJ Amiya,3395198,IntelliJ Amiya@mockdata.com,72490,android,5721,0.01,0.06,0.04
+822,Derek 朕會功夫,283863,dan@methodhead.com,87766,javascript,3906,0.02,0.05,0.04
+823,rubenvb,256138,joerge@gmail.com,71439,c++,2885,0.01,0.06,0.04
+824,molbdnilo,404970,hi@helloform.com,59870,c++,3296,0,0.07,0.04
+825,Andreas K&#246;berle,184883,adam@zygadlewicz.com,96377,javascript,3354,0.03,0.04,0.04
+826,Mark,16363,anthony.crumley@gmail.com,103711,javascript,2870,0.04,0.03,0.04
+827,Ed S.,1053,Ed S.@mockdata.com,118635,c#,5646,0.05,0.02,0.04
+828,Gishu,1695,Gishu@mockdata.com,129984,c#,3413,0.06,0.01,0.04
+829,Svish,39321,Svish@mockdata.com,144159,c#,617,0.07,0,0.04
+830,R Samuel Klatchko,29809,contact@analogrelay.net,72431,c++,2884,0.01,0.06,0.04
+831,Robby Pond,297762,Robby Pond@mockdata.com,71824,android,5882,0.01,0.06,0.04
+832,Simon Mourier,403671,Simon Mourier@mockdata.com,122058,c#,5066,0.05,0.02,0.04
+833,Nosredna,61027,joshsuggs@gmail.com,77753,javascript,4674,0.02,0.06,0.04
+834,Devin Jeanpierre,18515,ryan@funduk.ca,86275,Python,7995,0.02,0.05,0.04
+835,M Khalid Junaid,853360,M Khalid Junaid@mockdata.com,61590,mysql,2427,0,0.07,0.04
+836,Josef Pfleger,98401,Josef Pfleger@mockdata.com,73325,android,5846,0.01,0.06,0.04
+837,rodrigo,865874,gogolok@gmail.com,85277,c++,2471,0.02,0.05,0.04
+838,Patrick Desjardins,13913,Patrick Desjardins@mockdata.com,129961,c#,3791,0.06,0.02,0.04
+839,marcgg,90691,marcgg@mockdata.com,62105,ruby-on-rails,641,0,0.07,0.04
+840,Konstantin Burov,272824,Konstantin Burov@mockdata.com,68062,android,6328,0.01,0.06,0.04
+841,leppie,15541,leppie@mockdata.com,111504,c#,7617,0.04,0.03,0.04
+842,Chris Heald,271475,vanpelt@wandb.com,58745,ruby,2151,0,0.07,0.04
+843,Jim Garrison,18157,loicwolff@gmail.com,82832,java,4178,0.02,0.05,0.04
+844,laurent,561309,james@netlagoon.com,82745,php,1468,0.02,0.05,0.04
+845,Ani,412770,Ani@mockdata.com,106334,c#,8780,0.04,0.03,0.04
+846,Andrej Kesely,10035985,christoph@unexist.dev,108577,Python,5451,0.04,0.03,0.04
+847,Sasha Chedygov,104184,gerardo.santana@gmail.com,121046,Python,3887,0.05,0.02,0.04
+848,i3arnon,885318,i3arnon@mockdata.com,105934,c#,9024,0.04,0.04,0.04
+849,Colonel Panic,284795,tetsuhisa.makino@hey.com,124707,Python,3430,0.05,0.02,0.04
+850,Gabe Sechan,1631193,Gabe Sechan@mockdata.com,82772,android,5329,0.02,0.05,0.04
+851,Alexander,2411802,aguinelo@gmail.com,94832,Python,7369,0.03,0.04,0.04
+852,Anthony Forloney,166712,Anthony Forloney@mockdata.com,86671,android,5053,0.02,0.05,0.04
+853,Domenic,3191,calvin@rylabs.io,104294,javascript,3163,0.04,0.04,0.04
+854,Juned Ahsan,2314073,dmauz@googlemail.com,65550,java,5401,0.01,0.07,0.04
+855,Flimm,247696,dcaplan@gmail.com,111580,Python,5286,0.04,0.03,0.04
+856,Chad Birch,41665,lauri.oherd@gmail.com,70646,php,1787,0.01,0.06,0.04
+857,Peter,157237,Peter@mockdata.com,119539,git,3313,0.05,0.03,0.04
+858,daveb,11858,abradburne@gmail.com,69675,javascript,5544,0.01,0.07,0.04
+859,Bill Lynch,47453,alex@stinky.com,76211,c++,2937,0.02,0.06,0.04
+860,Sudhir Bastakoti,350858,jmazzi@gmail.com,96977,javascript,3726,0.03,0.04,0.04
+861,Mike Lewis,656769,jamesgolick@gmail.com,61443,ruby,2158,0,0.07,0.04
+862,Dagg Nabbit,886931,a.simmerl@gmail.com,71660,javascript,5445,0.01,0.06,0.04
+863,inazaruk,69802,inazaruk@mockdata.com,73057,android,6253,0.01,0.06,0.04
+864,cdhowie,501250,cdhowie@mockdata.com,139420,c#,2785,0.07,0.01,0.04
+865,Brock Adams,331508,github@jackcanty.com,85728,javascript,4523,0.02,0.05,0.04
+866,Dan Tao,105570,Dan Tao@mockdata.com,121602,c#,6364,0.05,0.03,0.04
+867,chrylis -cautiouslyoptimistic-,1189885,info@bourgweb.com,71152,java,5129,0.01,0.07,0.04
+868,Jim Mischel,56778,Jim Mischel@mockdata.com,125323,c#,5630,0.05,0.02,0.04
+869,Daniel Ruoso,188715,Daniel Ruoso@mockdata.com,77130,git,7684,0.02,0.06,0.04
+870,Joe,13087,Joe@mockdata.com,117583,c#,7305,0.05,0.03,0.04
+871,Nikolai Fetissov,106671,mail@kristofdreier.de,79337,c++,2888,0.02,0.06,0.04
+872,Rich Seller,123582,sunajia@gmail.com,81226,java,4560,0.02,0.06,0.04
+873,Jake Wharton,132047,Jake Wharton@mockdata.com,73886,android,6270,0.01,0.06,0.04
+874,John Hartsock,254528,mcspang@gmail.com,81482,javascript,4886,0.02,0.06,0.04
+875,nemesv,872395,nemesv@mockdata.com,135364,c#,3845,0.06,0.02,0.04
+876,Shoe,493122,jon.egil.strand@gmail.com,72328,c++,3148,0.01,0.07,0.04
+877,Musa,1353011,dwillis@gmail.com,92995,javascript,4125,0.03,0.05,0.04
+878,Can Berk G&#252;der,2119,Can Berk G&#252;der@mockdata.com,103155,git,5202,0.04,0.04,0.04
+879,ChristopheD,81179,aok@chariotsolutions.com,105421,Python,6449,0.04,0.04,0.04
+880,Kevin Bowersox,714969,xac@me.com,90368,java,4038,0.03,0.05,0.04
+881,Jamiec,219661,Jamiec@mockdata.com,127651,c#,5515,0.06,0.02,0.04
+882,L.B,932418,L.B@mockdata.com,109601,c#,9145,0.04,0.04,0.04
+883,ekhumoro,984421,yury.velikanau@gmail.com,105061,Python,6549,0.04,0.04,0.04
+884,Martin v. L&#246;wis,33006,kuadrosxx@gmail.com,119397,Python,4688,0.05,0.03,0.04
+885,r2evans,3358272,r2evans@mockdata.com,103274,r,6649,0.04,0.04,0.04
+886,slebetman,167735,mjwall@gmail.com,99863,javascript,3728,0.03,0.04,0.04
+887,AKX,51685,ron.sweeney@gmail.com,117935,Python,4983,0.05,0.03,0.04
+888,Edwin Dalorzo,697630,neel.basu.z@gmail.com,73017,java,5189,0.01,0.07,0.04
+889,Will Hartung,13663,augustulus@freenet.de,110565,java,2849,0.04,0.04,0.04
+890,YOU,213464,jimneath@gmail.com,112510,Python,5703,0.04,0.03,0.04
+891,Aaron Maenpaa,2603,lorchaos@gmail.com,112059,Python,5776,0.04,0.04,0.04
+892,moonshadow,11834,philip368320@gmail.com,80585,javascript,5090,0.02,0.06,0.04
+893,Kayaman,2541560,johan.rejeep@gmail.com,69872,java,5417,0.01,0.07,0.04
+894,Warren Weckesser,1217358,leeseon@gmail.com,100175,Python,7393,0.03,0.05,0.04
+895,Ayman Hourieh,40005,ravi@gadad.net,120942,Python,4688,0.05,0.03,0.04
+896,kenorb,55075,kenorb@mockdata.com,133059,git,2405,0.06,0.02,0.04
+897,David Arenburg,3001626,David Arenburg@mockdata.com,89077,r,7407,0.03,0.05,0.04
+898,nhaarman,675383,nhaarman@mockdata.com,93996,android,4909,0.03,0.05,0.04
+899,Eugene Yarmash,244297,curt.mills@gmail.com,128868,Python,3688,0.06,0.02,0.04
+900,Juan Mendes,227299,william.c.henderson@gmail.com,84662,javascript,4859,0.02,0.06,0.04
+901,kasravnd,2867928,paydrobui@gmail.com,99194,Python,7590,0.03,0.05,0.04
+902,furas,1832058,jacaetevha@gmail.com,111906,Python,5948,0.04,0.04,0.04
+903,Fabien M&#233;nager,92315,mperham@gmail.com,139960,javascript,1174,0.07,0.01,0.04
+904,Alex B,23643,bruno77sa@gmail.com,78470,c++,3044,0.02,0.06,0.04
+905,iammilind,514235,kevin@mopacmedia.com,64469,c++,3544,0.01,0.07,0.04
+906,Ikke,20261,Ikke@mockdata.com,94655,git,6404,0.03,0.05,0.04
+907,Martin Beckett,10897,lars.steiger@buzzard.ch,92269,c++,2576,0.03,0.05,0.04
+908,Ole V.V.,5772882,hello@f99aq8ove.net,75025,java,5210,0.01,0.07,0.04
+909,moinudin,89806,markc@renta.net,124731,Python,4444,0.05,0.03,0.04
+910,Cat Plus Plus,16102,dev@mootools.net,118384,Python,5275,0.05,0.03,0.04
+911,jonrsharpe,3001761,drew@drewfranklin.com,105358,Python,7012,0.04,0.04,0.04
+912,user4815162342,1600898,robert@flame.nl,120412,Python,5080,0.05,0.03,0.04
+913,Johannes,5641669,charles@roper.im,57775,css,3185,0,0.08,0.04
+914,Johnsyweb,78845,amikula@gmail.com,127686,Python,4171,0.06,0.03,0.04
+915,Jitendra Vyas,84201,github@claymccoy.com,140548,css,613,0.07,0.02,0.04
+916,jogojapan,777186,fjolnir@asgeirsson.is,65134,c++,3605,0.01,0.08,0.04
+917,Mark Rotteveel,466862,amin@aminastaneh.net,88511,java,4484,0.02,0.06,0.04
+918,LBushkin,91671,LBushkin@mockdata.com,124398,c#,7246,0.05,0.03,0.04
+919,John Boker,2847,John Boker@mockdata.com,80203,jquery,2837,0.02,0.06,0.04
+920,vcsjones,492405,vcsjones@mockdata.com,132458,c#,5641,0.06,0.02,0.04
+921,melpomene,1848654,sverre.johansen@gmail.com,81329,c,1756,0.02,0.06,0.04
+922,Vineet Reynolds,3916,sillito@gmail.com,74152,java,5410,0.01,0.07,0.04
+923,Joe,724626,francoislaberge@gmail.com,76792,javascript,5631,0.02,0.07,0.04
+924,Scott Chamberlain,80274,Scott Chamberlain@mockdata.com,120110,c#,8198,0.05,0.03,0.04
+925,MarcinJuraszek,1163867,MarcinJuraszek@mockdata.com,120537,c#,8129,0.05,0.03,0.04
+926,Rich Scriven,3063910,Rich Scriven@mockdata.com,92721,r,7455,0.03,0.05,0.04
+927,Joni,318758,stew@mo.jo,104448,java,3574,0.04,0.05,0.04
+928,Eric Leschinski,445131,samuel@descolada.com,132972,Python,3768,0.06,0.02,0.04
+929,Tieme,672989,hi@mislav.net,57679,php,2279,0,0.08,0.04
+930,NullUserException,396458,dan.neumeyer@indystar.com,80521,php,1788,0.02,0.06,0.04
+931,Joran Beasley,541038,cbetta@gr4vy.com,101156,Python,8021,0.04,0.05,0.04
+932,Serge Ballesta,3545273,amedeo.paglione@gmail.com,134137,Python,3732,0.06,0.02,0.04
+933,David Wolever,71522,im.sergey.vlasov@gmail.com,137559,Python,3297,0.06,0.02,0.04
+934,Misha Moroshko,247243,JW00000+github@gmail.com,155631,css,233,0.08,0.01,0.04
+935,Sebastian Redl,8922,nick@ekenosen.net,64183,c++,3736,0.01,0.08,0.04
+936,Cᴏʀʏ,74757,Cᴏʀʏ@mockdata.com,100669,jquery,2211,0.03,0.05,0.04
+937,Curtis,370103,me@karenziv.com,97719,css,2066,0.03,0.05,0.04
+938,Alex Lockwood,844882,Alex Lockwood@mockdata.com,82234,android,6356,0.02,0.06,0.04
+939,Perception,680925,DANIELILDEFONSO@GMAIL.COM,77040,java,5416,0.02,0.07,0.04
+940,Diodeus - James MacFarlane,12579,github@nertzy.com,109549,javascript,3684,0.04,0.04,0.04
+941,Keith,905,Keith@mockdata.com,140473,c#,4841,0.07,0.02,0.04
+942,WhiteFang34,653230,bert.hajee@enterprisemodules.com,68328,java,6013,0.01,0.08,0.04
+943,Tadeck,548696,Tadeck@mockdata.com,123715,git,4201,0.05,0.03,0.04
+944,user225312,225312,holtonma@gmail.com,115673,Python,6521,0.05,0.04,0.04
+945,Bert F,11296,mp@legalease.co.uk,80971,java,5293,0.02,0.07,0.04
+946,Naveen,39742,sramey@gmail.com,71123,c++,3589,0.01,0.08,0.04
+947,ChrisF,59303,ChrisF@mockdata.com,130262,c#,7171,0.06,0.03,0.04
+948,corsiKa,330057,bjorn@bjornstar.com,78925,java,5436,0.02,0.07,0.04
+949,fuz,417501,bobbyrward@gmail.com,81229,c,1880,0.02,0.07,0.04
+950,Bj&#246;rn Pollex,160206,patrickberkeley@gmail.com,72104,c++,3568,0.01,0.07,0.04
+951,StriplingWarrior,120955,StriplingWarrior@mockdata.com,140437,c#,5203,0.07,0.02,0.04
+952,user,493939,user@mockdata.com,86198,android,6263,0.02,0.06,0.04
+953,Michael Krelin - hacker,95382,Michael Krelin - hacker@mockdata.com,129775,git,3706,0.06,0.03,0.04
+954,HolyBlackCat,2752075,bob.walsh@47hats.com,58859,c++,4052,0,0.09,0.04
+955,Nemo,768469,benjamin@nonuts.de,67638,c++,3743,0.01,0.08,0.04
+956,Royi Namir,859154,matthew@blackninjasoftware.com,137191,javascript,1990,0.06,0.02,0.04
+957,Raghav Sood,1069068,Raghav Sood@mockdata.com,80598,android,6735,0.02,0.07,0.04
+958,Mr Fooz,25050,malte.dreschert@gmail.com,101911,Python,8539,0.04,0.05,0.04
+959,Reigel,251986,Reigel@mockdata.com,62515,jquery,3716,0,0.08,0.04
+960,Yakov Galka,277176,alejandrodibattista@gmail.com,65594,c++,3854,0.01,0.08,0.04
+961,Doug Neiner,152083,Doug Neiner@mockdata.com,63822,jquery,3682,0.01,0.08,0.04
+962,Jochen Ritzel,95612,jick.nan@gmail.com,98738,Python,9064,0.03,0.06,0.04
+963,Antti Haapala -- Слава Україні,918959,fred.schoeneman@gmail.com,122193,Python,6032,0.05,0.04,0.04
+964,Didzis Elferts,1857266,Didzis Elferts@mockdata.com,88999,r,7968,0.03,0.06,0.04
+965,prosseek,260127,jlam@iunknown.com,166241,Python,315,0.09,0,0.04
+966,Tyler McHenry,39375,malife@gmail.com,71409,c++,3679,0.01,0.08,0.04
+967,Anthony Pegram,414076,Anthony Pegram@mockdata.com,118053,c#,10228,0.05,0.04,0.04
+968,Eric J.,141172,Eric J.@mockdata.com,143096,c#,5221,0.07,0.02,0.04
+969,Xian,4642,danielyoder@gmail.com,74841,javascript,6316,0.01,0.07,0.04
+970,Anthony Williams,5597,john@noswap.com,64114,c++,3978,0.01,0.08,0.04
+971,Eran Galperin,10585,Eran Galperin@mockdata.com,84818,jquery,3001,0.02,0.07,0.04
+972,vartec,60711,baptiste.millemathias@gmail.com,123588,Python,6028,0.05,0.04,0.04
+973,Tushar,2025923,ladislav.martincik@gmail.com,81646,javascript,5904,0.02,0.07,0.04
+974,Jorge E. Cardona,361023,Jorge E. Cardona@mockdata.com,87066,git,8330,0.02,0.07,0.04
+975,Vaughn Cato,951890,joestelmach@gmail.com,61455,c++,4087,0,0.09,0.04
+976,Maroun,1735406,tatyree@gmail.com,90213,java,4992,0.03,0.06,0.04
+977,Robert Koritnik,75642,cory.forsyth@gmail.com,100170,css,2200,0.03,0.06,0.04
+978,davidkonrad,1407478,davidkonrad@mockdata.com,80198,jquery,3186,0.02,0.07,0.04
+979,sorin,99834,jon@millett.net,146342,Python,3144,0.07,0.02,0.05
+980,Dawood ibn Kareem,1081110,fdietz@gmail.com,71974,java,6158,0.01,0.08,0.05
+981,Gone Coding,201078,Gone Coding@mockdata.com,90125,jquery,2848,0.03,0.06,0.05
+982,araqnid,85134,araqnid@mockdata.com,115620,git,5556,0.05,0.04,0.05
+983,max66,6022656,me@carllerche.com,62616,c++,4083,0,0.09,0.05
+984,newacct,86989,gomgom68@gmail.com,114315,java,3560,0.05,0.05,0.05
+985,David Z,56541,info@timparkin.co.uk,121243,Python,6563,0.05,0.04,0.05
+986,Rex M,67,Rex M@mockdata.com,138135,c#,6723,0.06,0.03,0.05
+987,Greg Beech,13552,Greg Beech@mockdata.com,126999,c#,9015,0.06,0.04,0.05
+988,zneak,251153,chealion@chealion.ca,128706,c++,1769,0.06,0.03,0.05
+989,Michał Perłakowski,3853934,dneighbo@gmail.com,78657,javascript,6263,0.02,0.07,0.05
+990,martineau,355230,motemen@gmail.com,109584,Python,8185,0.04,0.05,0.05
+991,bolov,2805305,viserion.thrall@gmail.com,64867,c++,4046,0.01,0.09,0.05
+992,David Tang,405143,cheeaun@gmail.com,88982,javascript,5589,0.03,0.07,0.05
+993,CodeCaster,266143,CodeCaster@mockdata.com,138067,c#,6931,0.06,0.03,0.05
+994,Nadia Alramli,97828,jaydonnell@gmail.com,104378,Python,8904,0.04,0.05,0.05
+995,karlphillip,176769,github@scotchmedia.com,89420,c++,3207,0.03,0.07,0.05
+996,ShadowRanger,364696,magic6435@gmail.com,118561,Python,7160,0.05,0.04,0.05
+997,Zohar Peled,3094533,997@mockdata.com,75856,sql-server,2746,0.01,0.08,0.05
+998,acdcjunior,1850609,nicolas@cookieshq.co.uk,122393,java,3199,0.05,0.04,0.05
+999,MrCode,995579,jerry@jerryr.com,61229,php,2458,0,0.09,0.05
+1000,ars,2611,matt@reprocessed.org,111997,Python,8063,0.04,0.05,0.05
+1001,Sam,1267661,Sam@mockdata.com,85539,android,6899,0.02,0.07,0.05
+1002,Lee,152602,Lee@mockdata.com,137265,c#,7445,0.06,0.03,0.05
+1003,davidism,400617,frederik@debleser.be,107653,Python,8711,0.04,0.05,0.05
+1004,James Montagne,717383,James Montagne@mockdata.com,75353,jquery,3504,0.01,0.08,0.05
+1005,leora,4653,leora@mockdata.com,174203,c#,110,0.09,0,0.05
+1006,chris,962089,matt@guitsaru.com,57633,c++,4397,0,0.09,0.05
+1007,SergeyA,5245033,alex@tomlins.org.uk,59699,c++,4332,0,0.09,0.05
+1008,David Wasser,769265,David Wasser@mockdata.com,88738,android,6764,0.03,0.07,0.05
+1009,Nicola Peluchetti,397861,Nicola Peluchetti@mockdata.com,74031,jquery,3586,0.01,0.08,0.05
+1010,p.s.w.g,1715579,p.s.w.g@mockdata.com,140135,c#,7114,0.07,0.03,0.05
+1011,Alexey Frunze,968261,alex.williamson@redhat.com,59310,c,2574,0,0.09,0.05
+1012,Tom Ritter,8435,jeffrey@skyhouseconsulting.com,97074,javascript,5267,0.03,0.06,0.05
+1013,Matt Joiner,149482,carlos@pepelabs.net,105162,c,1565,0.04,0.06,0.05
+1014,Shnugo,5089204,1014@mockdata.com,64019,sql-server,3145,0.01,0.09,0.05
+1015,palaѕн,1823841,palaѕн@mockdata.com,67928,jquery,3837,0.01,0.09,0.05
+1016,android developer,878126,android developer@mockdata.com,110593,android,5205,0.04,0.05,0.05
+1017,Simeon Visser,1267329,ben@thecurrens.com,112209,Python,8501,0.04,0.05,0.05
+1018,prodigitalson,215966,joe@erichsen.net,59110,php,2596,0,0.09,0.05
+1019,tao,1891677,janos.hardi@gmail.com,66938,css,3480,0.01,0.09,0.05
+1020,mouviciel,45249,acf+github@alancfrancis.com,64413,objective-c,1574,0.01,0.09,0.05
+1021,Thorbj&#248;rn Ravn Andersen,53897,glenn@glennfu.com,71190,java,6674,0.01,0.08,0.05
+1022,David Segonds,13673,idnanashi@gmail.com,80645,java,6085,0.02,0.08,0.05
+1023,zessx,1238019,lmcavalle@gmail.com,66282,css,3508,0.01,0.09,0.05
+1024,ildjarn,636019,ahsen.jaffer@gmail.com,60549,c++,4405,0,0.09,0.05
+1025,markE,411591,hallidave@gmail.com,98148,javascript,5367,0.03,0.06,0.05
+1026,Luiggi Mendoza,1065197,orange@csh.rit.edu,83224,java,5937,0.02,0.08,0.05
+1027,Mooing Duck,845092,newuni@gmail.com,58563,c++,4488,0,0.1,0.05
+1028,Laurence Gonsalves,90848,jrallison@gmail.com,130249,java,3032,0.06,0.04,0.05
+1029,Adriaan Stander,144424,Adriaan Stander@mockdata.com,155269,c#,4814,0.08,0.02,0.05
+1030,Mchl,402253,scott@shillcock.net,59722,php,2614,0,0.09,0.05
+1031,ScArcher2,1310,daniloj.dasilva@gmail.com,81285,java,6129,0.02,0.08,0.05
+1032,Peter Boughton,9360,zodttd@zodttd.com,105555,javascript,4958,0.04,0.06,0.05
+1033,Quentin,3233393,hello@justbartek.ca,60222,c++,4472,0,0.09,0.05
+1034,Buhake Sindi,251173,ravi.chhabra2gmail.com,85006,java,5924,0.02,0.08,0.05
+1035,Nathan Hughes,217324,niwatori@gmail.com,89680,java,5636,0.03,0.07,0.05
+1036,elclanrs,670396,basit.abdul@gmail.com,88509,javascript,6148,0.02,0.07,0.05
+1037,David Hellsing,210578,chunter@wondertwinpowers.net,100920,javascript,5321,0.03,0.06,0.05
+1038,Colin Hebert,422597,web@0042.com,88057,java,5764,0.02,0.07,0.05
+1039,K-ballo,927034,roberto@mez.cl,78187,c++,3860,0.02,0.08,0.05
+1040,tymeJV,1686485,jdpace@github.com,101716,javascript,5288,0.04,0.06,0.05
+1041,Mark Brackett,2199,1041@mockdata.com,82836,sql-server,2757,0.02,0.08,0.05
+1042,1800 INFORMATION,3146,1800 INFORMATION@mockdata.com,124281,git,5729,0.05,0.05,0.05
+1043,mikej,63034,blake.mizerany@gmail.com,63256,ruby,2531,0,0.09,0.05
+1044,Nils Pipenbrinck,15955,@scw,79802,c,2260,0.02,0.08,0.05
+1045,Ray,4872,marcos.renan@gmail.com,177504,Python,607,0.1,0,0.05
+1046,Noldorin,44389,Noldorin@mockdata.com,137963,c#,8919,0.06,0.04,0.05
+1047,Yuval Itzchakov,1870803,Yuval Itzchakov@mockdata.com,140743,c#,8367,0.07,0.03,0.05
+1048,Shane,163053,Shane@mockdata.com,95006,r,8356,0.03,0.07,0.05
+1049,Edward Tanguay,4639,Edward Tanguay@mockdata.com,181950,c#,155,0.1,0,0.05
+1050,vals,1926369,fauxparse@gmail.com,57576,css,3925,0,0.1,0.05
+1051,ChssPly76,131368,jarin@robotmodehq.com,96921,java,5389,0.03,0.07,0.05
+1052,Sven,1627406,donmullen@gmail.com,65624,php,2574,0.01,0.09,0.05
+1053,Mark Peters,228171,john@komodough.com,77843,java,6594,0.02,0.08,0.05
+1054,Nobody,578895,barrye@gmail.com,100312,javascript,5612,0.03,0.07,0.05
+1055,cimmanon,1652962,ryan@rpheath.com,64564,css,3747,0.01,0.09,0.05
+1056,Dr.Molle,459897,rufo@rufosanchez.com,114689,javascript,4655,0.05,0.06,0.05
+1057,Jean-Fran&#231;ois Fabre,6451573,jerry.west@ntlworld.com,130810,Python,6975,0.06,0.04,0.05
+1058,Freewind,342235,varunkumarrao@gmail.com,183968,java,30,0.1,0,0.05
+1059,aschepler,459640,christian.mager@helloguest.com,68224,c++,4364,0.01,0.09,0.05
+1060,Jason McCreary,164998,shawn@garbett.org,68670,php,2541,0.01,0.09,0.05
+1061,Andy Thomas,202009,abdulvayani@gmail.com,81572,java,6472,0.02,0.08,0.05
+1062,Kaiido,3702797,rhett@detailedbalance.net,99304,javascript,5767,0.03,0.07,0.05
+1063,Pascal Cuoq,139746,ben.reesman@gmail.com,76969,c,2400,0.02,0.09,0.05
+1064,jxh,315052,brijohn@gmail.com,66349,c,2636,0.01,0.09,0.05
+1065,Richie Cotton,134830,Richie Cotton@mockdata.com,112108,r,7688,0.04,0.06,0.05
+1066,Mike Samuel,20394,fabiano.franca@gmail.com,113150,javascript,4875,0.04,0.06,0.05
+1067,OneCricketeer,2308683,bruno@abstractj.com,145872,java,2509,0.07,0.03,0.05
+1068,dmckee --- ex-moderator kitten,2509,refly@refly.net,93806,c,2054,0.03,0.07,0.05
+1069,Mads Hansen,14419,Mads Hansen@mockdata.com,58407,xml,2395,0,0.1,0.05
+1070,Piskvor left the building,19746,hutch@xampl.com,89031,php,2143,0.03,0.08,0.05
+1071,Nenad Vracar,4620771,dshipton@gmail.com,109367,javascript,5236,0.04,0.06,0.05
+1072,Quang Hoang,4238408,cronopios@gmail.com,129645,Python,7557,0.06,0.05,0.05
+1073,Abizern,41116,Abizern@mockdata.com,136743,git,5125,0.06,0.04,0.05
+1074,Eugene Yokota,3827,juan.gallego.iv@gmail.com,92431,scala,1894,0.03,0.08,0.05
+1075,Prestaul,5628,simeng@gmail.com,79443,javascript,7276,0.02,0.09,0.05
+1076,Brian,9493,fajran@gmail.com,111877,Python,9993,0.04,0.06,0.05
+1077,PeeHaa,508666,mike.schwab@gmail.com,68787,php,2625,0.01,0.1,0.05
+1078,Yarin,165673,Yarin@mockdata.com,155920,git,3362,0.08,0.03,0.05
+1079,levik,4465,julien@danjou.info,107787,javascript,5461,0.04,0.06,0.05
+1080,Rahul Tripathi,1501794,borgar@borgar.net,159404,java,1876,0.08,0.02,0.05
+1081,Mike Brant,1529853,eric.hanchrow@gmail.com,68371,php,2647,0.01,0.1,0.05
+1082,Robert Harvey,102937,Robert Harvey@mockdata.com,172593,c#,3448,0.09,0.01,0.05
+1083,gahooa,64004,gahooa@mockdata.com,120996,git,6931,0.05,0.05,0.05
+1084,John Saunders,76337,John Saunders@mockdata.com,158751,c#,6267,0.08,0.02,0.05
+1085,einpoklum,1593077,dave@eclecticdave.com,98765,c++,3470,0.03,0.07,0.05
+1086,Heinzi,87698,Heinzi@mockdata.com,156889,c#,6719,0.08,0.03,0.05
+1087,D Stanley,1081897,D Stanley@mockdata.com,143306,c#,9481,0.07,0.04,0.05
+1088,sberry,141555,josh@besquared.net,120410,Python,9189,0.05,0.06,0.05
+1089,Andrew Grant,1043,steve@dekorte.com,57272,objective-c,1842,0,0.11,0.05
+1090,cassiomolin,1426227,contact@textpattern.com,111280,java,4976,0.04,0.06,0.05
+1091,perreal,390913,perreal@mockdata.com,89019,bash,1994,0.03,0.08,0.05
+1092,Gareth,31582,brad@footle.org,122409,javascript,4636,0.05,0.05,0.05
+1093,Greg Bacon,123109,Greg Bacon@mockdata.com,126463,git,6561,0.06,0.05,0.05
+1094,Thomas,637853,this@belongstorachel.com,83964,java,6757,0.02,0.09,0.05
+1095,apangin,3448419,a_shilin@fastmail.fm,84817,java,6795,0.02,0.09,0.05
+1096,Erik,616700,zeljko.prsa@gmail.com,83860,c++,4134,0.02,0.09,0.05
+1097,joris,653364,ryanriley@live.com,117741,Python,9932,0.05,0.06,0.05
+1098,soulmerge,44562,kieran@kieran.ca,70680,php,2697,0.01,0.1,0.05
+1099,Michael Stum,91,Michael Stum@mockdata.com,171665,c#,4507,0.09,0.02,0.05
+1100,Anant Kumar Singh,4248328,me@jeraimee.com,67707,php,2766,0.01,0.1,0.05
+1101,Johan,650492,Johan@mockdata.com,72756,mysql,3107,0.01,0.1,0.05
+1102,hackbod,236398,hackbod@mockdata.com,89403,android,8219,0.03,0.08,0.05
+1103,Dirk Vollmar,40347,Dirk Vollmar@mockdata.com,165962,c#,5808,0.09,0.02,0.05
+1104,Sean Vieira,135978,olliek@gmail.com,146811,Python,6279,0.07,0.04,0.05
+1105,Ian Roberts,592139,github@j.tjer.no,117197,java,4880,0.05,0.06,0.05
+1106,FlySwat,1965,FlySwat@mockdata.com,165116,c#,6089,0.09,0.02,0.05
+1107,hadley,16632,hadley@mockdata.com,97435,r,8862,0.03,0.08,0.06
+1108,Katriel,398968,mrichardson03@gmail.com,113216,Python,10755,0.04,0.07,0.06
+1109,Sean Bright,21926,seminlee@gmail.com,113937,javascript,5487,0.05,0.07,0.06
+1110,Jonathan Lonowski,15031,mwrshl@gmail.com,116252,javascript,5351,0.05,0.06,0.06
+1111,Reto Meier,822,Reto Meier@mockdata.com,95735,android,7834,0.03,0.08,0.06
+1112,MikeCAT,4062354,lord.armitage@gmail.com,68128,c,2836,0.01,0.1,0.06
+1113,Pranay Rana,314488,Pranay Rana@mockdata.com,169070,c#,5542,0.09,0.02,0.06
+1114,Cheeso,48082,antony.stubbs@gmail.com,183743,javascript,891,0.1,0.01,0.06
+1115,Jean-Philippe Pellet,390581,timcharper@gmail.com,57483,scala,2716,0,0.11,0.06
+1116,James,21677,gabrielh@gmail.com,105922,javascript,6115,0.04,0.07,0.06
+1117,Seth Carnegie,726361,koichiro.ohba@gmail.com,71681,c++,4696,0.01,0.1,0.06
+1118,Yishai,77779,jason.whittle@gmail.com,87200,java,6893,0.02,0.09,0.06
+1119,Aristotle Pagaltzis,9410,Aristotle Pagaltzis@mockdata.com,105782,git,9273,0.04,0.07,0.06
+1120,Wrikken,358679,christopher@horrell.ca,66356,php,2878,0.01,0.1,0.06
+1121,Khaled Alshaya,127893,donald.parish@gmail.com,90464,c++,4060,0.03,0.09,0.06
+1122,Marcelo Cantos,9990,seamon@sina.com,172748,Python,3471,0.09,0.02,0.06
+1123,driis,13627,driis@mockdata.com,155650,c#,8797,0.08,0.03,0.06
+1124,Pranav C Balan,3037257,freetwix@web.de,109529,javascript,6034,0.04,0.07,0.06
+1125,Columbo,3647361,erinther@gmail.com,58066,c++,5259,0,0.11,0.06
+1126,CodeWizard,1755598,CodeWizard@mockdata.com,106930,git,9350,0.04,0.07,0.06
+1127,Makoto,1079354,hello@erincall.com,99332,java,6307,0.03,0.08,0.06
+1128,vsync,104380,no@nathanostgard.com,99795,javascript,6742,0.03,0.08,0.06
+1129,Joris Meys,428790,Joris Meys@mockdata.com,102236,r,8872,0.04,0.08,0.06
+1130,Alexis C.,1587046,larry.klug@gmail.com,86512,java,7143,0.02,0.09,0.06
+1131,Patrick Hofman,993547,Patrick Hofman@mockdata.com,147668,c#,10710,0.07,0.04,0.06
+1132,thkala,507519,thkala@mockdata.com,79707,bash,2360,0.02,0.1,0.06
+1133,Steven,264697,Steven@mockdata.com,157097,c#,8945,0.08,0.04,0.06
+1134,David C. Rankin,3422102,me@ernesto-jimenez.com,74226,c,2821,0.01,0.1,0.06
+1135,Kevin B,400654,aman@tmm1.net,93946,javascript,7242,0.03,0.09,0.06
+1136,Theo,1109,nick@nicksieger.com,128173,ruby,1923,0.06,0.06,0.06
+1137,methodofaction,524555,jasonw22@gmail.com,67293,css,4231,0.01,0.11,0.06
+1138,Dan Herbert,392,hqm@alum.mit.edu,93664,css,3406,0.03,0.09,0.06
+1139,Rabbid76,5577765,4ntti.koskinen@gmail.com,170534,Python,4187,0.09,0.03,0.06
+1140,Alex K.,246342,mhennemeyer@me.com,164362,javascript,2588,0.09,0.03,0.06
+1141,KamilCuk,9072753,KamilCuk@mockdata.com,92504,bash,2151,0.03,0.09,0.06
+1142,PSL,1009603,adam@changelog.com,121724,javascript,5459,0.05,0.06,0.06
+1143,hvgotcodes,305644,pacoreyesp@gmail.com,113351,java,5621,0.04,0.07,0.06
+1144,usr,122718,usr@mockdata.com,164578,c#,7794,0.09,0.03,0.06
+1145,Yuval Adam,24545,kim@kimlove.com,154580,java,3055,0.08,0.04,0.06
+1146,Gregor Thomas,903061,Gregor Thomas@mockdata.com,115867,r,8385,0.05,0.07,0.06
+1147,strager,39992,strager@mockdata.com,85871,jquery,4181,0.02,0.09,0.06
+1148,Jason S,44330,jardel1101@hotmail.com,177781,java,1673,0.1,0.02,0.06
+1149,Brian Goetz,3553087,dan@wrstudios.com,82272,java,7658,0.02,0.1,0.06
+1150,nneonneo,1204143,jjolma@gmail.com,161103,Python,5769,0.08,0.04,0.06
+1151,Daniel A. White,23528,Daniel A. White@mockdata.com,180068,c#,5121,0.1,0.02,0.06
+1152,dbr,745,douglasdmathews@gmail.com,158369,Python,6160,0.08,0.04,0.06
+1153,Romain Guy,298575,Romain Guy@mockdata.com,96389,android,8512,0.03,0.09,0.06
+1154,Levon,1209279,jaxonrice@gmail.com,126878,Python,10295,0.06,0.06,0.06
+1155,GolezTrol,511529,feuvan@gmail.com,111179,php,2079,0.04,0.08,0.06
+1156,TemplateRex,819272,lewis.hoffman@gmail.com,67061,c++,5172,0.01,0.11,0.06
+1157,Andrzej Doyle,45664,viniciuscamara@gmail.com,99564,java,6708,0.03,0.09,0.06
+1158,6502,320726,github@wildgooses.com,107552,c++,3766,0.04,0.08,0.06
+1159,Kyle,287047,steven.romej@gmail.com,62722,css,4527,0,0.11,0.06
+1160,Lamak,519216,1160@mockdata.com,67066,sql-server,3905,0.01,0.11,0.06
+1161,Jon Erickson,1950,maxime@ekohe.com,106802,javascript,6754,0.04,0.08,0.06
+1162,P&#233;ter T&#246;r&#246;k,265143,igno.registros@gmail.com,111497,java,6024,0.04,0.08,0.06
+1163,Christopher Orr,234938,Christopher Orr@mockdata.com,107911,android,7814,0.04,0.08,0.06
+1164,jamylak,1219006,zungbang@gmail.com,118915,Python,11704,0.05,0.07,0.06
+1165,Robᵩ,8747,martynovs@gmail.com,151877,Python,7437,0.08,0.05,0.06
+1166,D&#243;nal,2648,jmw@johnmyleswhite.com,180487,java,1791,0.1,0.02,0.06
+1167,Richard Hodges,2015579,joe.halliwell@gmail.com,65898,c++,5317,0.01,0.11,0.06
+1168,Jack,121747,roger@datamcfly.com,127780,java,5093,0.06,0.06,0.06
+1169,Andrew Grimm,38765,joshua@joshua.si,73342,ruby,2772,0.01,0.11,0.06
+1170,Ryan Stewart,839646,info@linkingpaths.com,119823,java,5612,0.05,0.07,0.06
+1171,TartanLlama,496161,heresy.mc@gmail.com,60714,c++,5525,0,0.12,0.06
+1172,Fredrik M&#246;rk,93623,Fredrik M&#246;rk@mockdata.com,150586,c#,11969,0.07,0.05,0.06
+1173,David,328193,David@mockdata.com,185824,c#,4922,0.1,0.02,0.06
+1174,dirkgently,66692,bmentges@gmail.com,103939,c++,4008,0.04,0.08,0.06
+1175,john,882003,ryand-ruby@zenspider.com,71817,c++,5161,0.01,0.11,0.06
+1176,David Grayson,28128,sconds@gmail.com,76985,ruby,2745,0.02,0.11,0.06
+1177,SingleNegationElimination,65696,benji@benjiyork.com,143337,Python,8944,0.07,0.05,0.06
+1178,Mark Tolonen,235698,patrick.lafleur@creationobjet.com,144799,Python,8782,0.07,0.05,0.06
+1179,chaos,47529,mj@mjturner.net,118580,php,2048,0.05,0.07,0.06
+1180,Prasoon Saurav,165520,alan@ginsoaked.com,87698,c++,4651,0.02,0.1,0.06
+1181,Jai,1059101,Jai@mockdata.com,72617,jquery,4950,0.01,0.11,0.06
+1182,Flexo,168175,github@lookatme.ru,84283,c++,4809,0.02,0.1,0.06
+1183,Josh Lee,19750,Josh Lee@mockdata.com,158173,git,5562,0.08,0.04,0.06
+1184,Michelle Tilley,62082,tbmcmullen@gmail.com,153046,javascript,4047,0.08,0.05,0.06
+1185,SW4,404335,guillaume.aubert@gmail.com,67006,css,4590,0.01,0.12,0.06
+1186,BrokenGlass,329769,BrokenGlass@mockdata.com,152735,c#,12246,0.08,0.05,0.06
+1187,Ferruccio,4086,m@roos.fi,95757,c++,4418,0.03,0.09,0.06
+1188,MSeifert,5393381,khang.toh@gmail.com,129852,Python,10970,0.06,0.07,0.06
+1189,Naftali,561731,psychs@limechat.net,141408,javascript,4917,0.07,0.06,0.06
+1190,Thomas Wouters,17624,joost@moneybird.com,123777,Python,11940,0.05,0.07,0.06
+1191,StaxMan,59501,chrisbloom7@github.com,107061,java,6762,0.04,0.09,0.06
+1192,Alex Wayne,62076,roland.oth@gmail.com,158546,javascript,3846,0.08,0.05,0.06
+1193,Gray,179850,jingoro@casa-z.org,111522,java,6546,0.04,0.08,0.06
+1194,Ralph,280244,boris@borism.net,114505,java,6361,0.05,0.08,0.06
+1195,ShankarSangoli,772055,ShankarSangoli@mockdata.com,68424,jquery,5233,0.01,0.12,0.06
+1196,ripper234,11236,codetemplate@hanmail.net,210086,java,412,0.12,0.01,0.06
+1197,Jasper,752738,Jasper@mockdata.com,74897,jquery,5006,0.01,0.11,0.06
+1198,Tagir Valeev,4856258,ilusion2@gmail.com,91607,java,7819,0.03,0.1,0.06
+1199,Joop Eggen,984823,juarezpaf@gmail.com,100886,java,7251,0.03,0.09,0.06
+1200,molf,98038,kenzi@cloudcity.io,70338,ruby,2923,0.01,0.12,0.06
+1201,Alok Singhal,226621,simon.scarfe@gmail.com,86811,c,2889,0.02,0.1,0.06
+1202,n. 1.8e9-where&#39;s-my-share m.,775806,stephen@gerstacker.us,101278,c++,4358,0.04,0.09,0.06
+1203,dfa,89266,josh.bryan@gmail.com,110299,java,6709,0.04,0.09,0.06
+1204,ralphtheninja,106205,ralphtheninja@mockdata.com,115601,git,10283,0.05,0.08,0.06
+1205,Louis,1906307,learc83@gmail.com,136511,javascript,5457,0.06,0.06,0.06
+1206,Karoly Horvath,650405,Karoly Horvath@mockdata.com,91239,bash,2467,0.03,0.1,0.06
+1207,Arnaud Le Blanc,576875,me@lucaguidi.com,94133,php,2726,0.03,0.1,0.06
+1208,miku,89391,jay@jansheski.com,169310,Python,6462,0.09,0.04,0.06
+1209,Adam Dymitruk,1864976,Adam Dymitruk@mockdata.com,115349,git,10442,0.05,0.08,0.06
+1210,David G,701092,liamka@me.com,89908,c++,4824,0.03,0.1,0.06
+1211,Cade Roux,18255,1211@mockdata.com,85371,sql-server,3732,0.02,0.11,0.06
+1212,Jon Clements,1252759,tetsuhiro.yoshida@gmail.com,130047,Python,11834,0.06,0.07,0.06
+1213,Dmitry Bychenko,2319407,Dmitry Bychenko@mockdata.com,162423,c#,11724,0.08,0.05,0.07
+1214,hallski,214090,hallski@mockdata.com,114961,git,10659,0.05,0.08,0.07
+1215,Motti,3848,mail@reidbeels.com,104012,c++,4383,0.04,0.09,0.07
+1216,maerics,244128,sacado.sacado@gmail.com,140892,javascript,5375,0.07,0.06,0.07
+1217,Etan Reisner,258523,Etan Reisner@mockdata.com,72384,bash,2895,0.01,0.12,0.07
+1218,Lily Ballard,582,Lily Ballard@mockdata.com,174699,git,4717,0.09,0.04,0.07
+1219,MByD,464988,wes@wezm.net,132519,java,5566,0.06,0.07,0.07
+1220,Vitalii Fedorenko,288671,eckankar@gmail.com,102790,java,7421,0.04,0.09,0.07
+1221,thomasrutter,53212,thomasrutter@mockdata.com,108639,mysql,2945,0.04,0.09,0.07
+1222,Dimitris Fasarakis Hilliard,4952130,mp3phile@gmail.com,132638,Python,11677,0.06,0.07,0.07
+1223,Mathias Bynens,96656,keith@keithbingman.com,135759,javascript,5793,0.06,0.07,0.07
+1224,M.Ali,2041092,1224@mockdata.com,64525,sql-server,4373,0.01,0.13,0.07
+1225,Satpal,1668533,marco.diedrich@gmail.com,129138,javascript,6240,0.06,0.07,0.07
+1226,A. Wolff,1414562,A. Wolff@mockdata.com,73106,jquery,5276,0.01,0.12,0.07
+1227,Billy ONeal,82320,adam.cooper@gmail.com,100281,c++,4572,0.03,0.1,0.07
+1228,Mulan,633183,osakenoyojimbo@gmail.com,116460,javascript,7131,0.05,0.08,0.07
+1229,Daniel Hilgarth,572644,Daniel Hilgarth@mockdata.com,164750,c#,11703,0.09,0.05,0.07
+1230,Rob Hruska,29995,arnaud@tangibleplay.com,114423,java,6871,0.05,0.09,0.07
+1231,Adam Robinson,82187,Adam Robinson@mockdata.com,176410,c#,9773,0.09,0.04,0.07
+1232,Ivan Stoev,5202563,Ivan Stoev@mockdata.com,175605,c#,9939,0.09,0.04,0.07
+1233,apsillers,710446,alsquire@gmail.com,106753,javascript,7937,0.04,0.09,0.07
+1234,user370305,370305,user370305@mockdata.com,106066,android,9302,0.04,0.09,0.07
+1235,McDowell,304,palex.rocha@gmail.com,104975,java,7520,0.04,0.1,0.07
+1236,DisgruntledGoat,37947,al3x@al3x.net,65621,html,1437,0.01,0.13,0.07
+1237,Burhan Khalid,790387,pzurek@hey.com,159569,Python,8615,0.08,0.05,0.07
+1238,Joseph,575527,ningerso@gmail.com,111731,javascript,7722,0.04,0.09,0.07
+1239,agstudy,1838509,agstudy@mockdata.com,116050,r,9492,0.05,0.09,0.07
+1240,Milind Anantwar,1719752,Milind Anantwar@mockdata.com,79192,jquery,5240,0.02,0.12,0.07
+1241,Joachim Isaksson,477878,Joachim Isaksson@mockdata.com,169275,mysql,1891,0.09,0.05,0.07
+1242,Paul Tomblin,3333,thomas.stenhaug@gmail.com,172290,java,3476,0.09,0.04,0.07
+1243,Paul,772035,remy@remygiard.com,134336,javascript,6275,0.06,0.07,0.07
+1244,Tom Fenech,2088135,Tom Fenech@mockdata.com,68193,bash,3107,0.01,0.13,0.07
+1245,Thomas,14637,oleg@kurapov.com,159106,c++,2681,0.08,0.05,0.07
+1246,Peter Olson,546661,rob.rasmussen@gmail.com,129074,javascript,6672,0.06,0.08,0.07
+1247,Shyju,40521,Shyju@mockdata.com,204156,c#,4940,0.12,0.02,0.07
+1248,Jason Baker,2147,nafai@travishartwell.net,180013,Python,6361,0.1,0.04,0.07
+1249,Matthew Crumley,2214,stefan@netzwiese.com,98314,javascript,8738,0.03,0.1,0.07
+1250,Pablo Santa Cruz,67606,anders@nordlien.email,168523,java,3802,0.09,0.05,0.07
+1251,John Millikin,3560,kevin@kevingisi.com,189610,Python,5196,0.11,0.03,0.07
+1252,Salvador Dali,1090562,pablo@pabloformoso.com,195605,Python,4435,0.11,0.03,0.07
+1253,fge,1093528,paulogpoiati@gmail.com,113643,java,7238,0.04,0.09,0.07
+1254,Shakti Singh,472375,zolazhou@gmail.com,80403,php,3274,0.02,0.12,0.07
+1255,senderle,577088,b@bsmyth.net,133927,Python,12558,0.06,0.08,0.07
+1256,Dave Webb,3171,shane.pinnell@gmail.com,184211,Python,6073,0.1,0.04,0.07
+1257,janos,641955,janos@mockdata.com,114442,bash,2261,0.05,0.09,0.07
+1258,Dominic Rodger,20972,info@railsfactory.com,93502,php,3003,0.03,0.11,0.07
+1259,Owen,4853,simobg@gmail.com,79321,php,3315,0.02,0.12,0.07
+1260,John Cappelletti,1570000,1260@mockdata.com,69550,sql-server,4474,0.01,0.13,0.07
+1261,Blazemonger,901048,Blazemonger@mockdata.com,85211,jquery,5173,0.02,0.12,0.07
+1262,gdoron is supporting Monica,601179,gaffneyc@gmail.com,141254,javascript,6092,0.07,0.07,0.07
+1263,Stickers,483779,holger@nextjournal.com,68508,css,5133,0.01,0.13,0.07
+1264,Evan Teran,13430,scott.wolff@tuscan.ca,83351,c++,5561,0.02,0.12,0.07
+1265,TIMEX,179736,amosson@yahoo.com,233214,Python,67,0.14,0,0.07
+1266,Paresh Mayani,379693,Paresh Mayani@mockdata.com,125153,android,8472,0.05,0.09,0.07
+1267,kennebec,80860,github@jeffd.org,97969,javascript,9129,0.03,0.11,0.07
+1268,mnel,1385941,mnel@mockdata.com,109262,r,10150,0.04,0.1,0.07
+1269,Jacob Relkin,220819,git@ryan.nz,155429,javascript,5285,0.08,0.06,0.07
+1270,timdev,172588,tim.disney@gmail.com,59701,php,3819,0,0.14,0.07
+1271,Arun,559784,Arun@mockdata.com,112140,r,10036,0.04,0.1,0.07
+1272,Asons,2827823,bobby@codebutcher.com,80951,css,4824,0.02,0.12,0.07
+1273,fuxia,299509,michael@michaelmelanson.net,61491,css,5436,0,0.14,0.07
+1274,Rizier123,3933332,@greut,57175,php,3891,0,0.14,0.07
+1275,Eugene,1059372,neerfri@gmail.com,108900,java,7950,0.04,0.1,0.07
+1276,Jordan Running,179125,automatthew@gmail.com,96253,ruby,2835,0.03,0.11,0.07
+1277,Vittorio Romeo,598696,feng@emqx.io,86113,c++,5587,0.02,0.12,0.07
+1278,Mark B,13070,Mark B@mockdata.com,152646,android,6595,0.08,0.07,0.07
+1279,Clifford,168986,radical@corewars.org,81589,c,3464,0.02,0.12,0.07
+1280,paercebal,14089,thebugslayer,77888,c++,5930,0.02,0.13,0.07
+1281,Sweeper,5133585,computerrivet@gmail.com,169778,java,4324,0.09,0.05,0.07
+1282,Amadan,240443,ilmari@fhtr.net,176228,javascript,4222,0.09,0.05,0.07
+1283,zoul,17279,kneath@gmail.com,99042,objective-c,1931,0.03,0.11,0.07
+1284,Roland,1412059,Roland@mockdata.com,121841,r,9793,0.05,0.09,0.07
+1285,Ian Boyd,12597,Ian Boyd@mockdata.com,230873,c#,1815,0.14,0.01,0.07
+1286,Suresh Atta,1927832,k7@trk7.com,117362,java,7701,0.05,0.1,0.07
+1287,jpp,9209546,nick.ragaz@gmail.com,144669,Python,12540,0.07,0.08,0.07
+1288,Andrew Moore,26210,nichols7@gmail.com,89999,php,3302,0.03,0.12,0.07
+1289,mechanical_meat,42346,conortm@gmail.com,153063,Python,11533,0.08,0.07,0.07
+1290,ScottS,369707,stefan.freyr@gmail.com,70162,css,5378,0.01,0.14,0.07
+1291,user541686,541686,mshafrir@gmail.com,195644,c++,1882,0.11,0.04,0.07
+1292,Matt Hamilton,615,Matt Hamilton@mockdata.com,193111,c#,9874,0.11,0.04,0.07
+1293,Nick,9473764,pkarl@hey.com,119095,php,2708,0.05,0.1,0.07
+1294,Pete Becker,1593860,kuroishi@acm.org,71696,c++,6306,0.01,0.14,0.07
+1295,bdukes,2688,pacifists@gmail.com,143191,javascript,6698,0.07,0.08,0.07
+1296,AnthonyWJones,17516,pluskid@gmail.com,182152,javascript,4089,0.1,0.05,0.07
+1297,flybywire,63051,flybywire@mockdata.com,244006,bash,0,0.15,0,0.07
+1298,Luc Touraille,20984,mattias@fliesberg.email,75729,c++,6201,0.01,0.13,0.07
+1299,Steve Harrison,48492,mark@sitesteaders.com,110236,javascript,8973,0.04,0.11,0.07
+1300,Tyler Carter,58088,levent@purebreeze.com,58803,php,4055,0,0.15,0.07
+1301,davidxxx,270371,jorahood@indiana.edu,113258,java,8179,0.04,0.1,0.07
+1302,loganfsmyth,785065,mrkris@mrkris.com,144175,javascript,6739,0.07,0.08,0.07
+1303,463035818_is_not_a_number,4117728,gleberof@gmail.com,83480,c++,5964,0.02,0.13,0.07
+1304,Blankman,39677,michel.belleville@gmail.com,245672,Python,0,0.15,0,0.07
+1305,Lennart Regebro,126214,jarrod@jarroddumble.com,156542,Python,11681,0.08,0.07,0.08
+1306,peterm,1920232,peterm@mockdata.com,88018,mysql,3817,0.02,0.13,0.08
+1307,KooiInc,58186,me@red.to,110768,javascript,9085,0.04,0.11,0.08
+1308,Dave Newton,438992,joshuachisholm@gmail.com,155731,java,5661,0.08,0.07,0.08
+1309,Larnu,2029983,1309@mockdata.com,73527,sql-server,4791,0.01,0.14,0.08
+1310,Ates Goral,23501,info@new-bamboo.co.uk,131674,javascript,7738,0.06,0.09,0.08
+1311,Gilles &#39;SO- stop being evil&#39;,387076,Gilles &#39;SO- stop being evil&#39;@mockdata.com,97078,bash,2922,0.03,0.12,0.08
+1312,redsquare,6440,redsquare@mockdata.com,76850,jquery,6031,0.02,0.14,0.08
+1313,nickb,862594,sergecpelletier@gmail.com,57785,php,4151,0,0.15,0.08
+1314,Jorgesys,250260,Jorgesys@mockdata.com,118617,android,10069,0.05,0.1,0.08
+1315,Andrew,48523,Andrew@mockdata.com,208646,git,4000,0.12,0.03,0.08
+1316,genehack,39933,genehack@mockdata.com,126266,git,12290,0.05,0.1,0.08
+1317,kojiro,418413,kojiro@mockdata.com,70234,bash,3470,0.01,0.14,0.08
+1318,Russ Cam,1831,Russ Cam@mockdata.com,120412,jquery,4565,0.05,0.1,0.08
+1319,Jonas Wilms,5260024,emili@eparreno.com,117424,javascript,8881,0.05,0.11,0.08
+1320,Sparky,594235,Sparky@mockdata.com,96242,jquery,5437,0.03,0.12,0.08
+1321,Ali,49153,pelargir@gmail.com,246616,javascript,247,0.15,0,0.08
+1322,Dan Dascalescu,1269037,dean@mightycheese.com,123861,javascript,8531,0.05,0.1,0.08
+1323,Claudiu,15055,jane@gboards.ca,214337,Python,4861,0.12,0.03,0.08
+1324,Selvakumar Arumugam,297641,Selvakumar Arumugam@mockdata.com,77805,jquery,6148,0.02,0.14,0.08
+1325,Eng.Fouad,597657,darthzippy@gmail.com,110332,java,8846,0.04,0.11,0.08
+1326,Alex Riley,3923281,feiyelanghai@gmail.com,147649,Python,13632,0.07,0.08,0.08
+1327,arshajii,1357341,blackthought286@gmail.com,122297,java,8114,0.05,0.1,0.08
+1328,Tsvetomir Tsonev,25449,eric@ericwagoner.com,103116,javascript,9997,0.04,0.12,0.08
+1329,laalto,101361,laalto@mockdata.com,143264,android,8509,0.07,0.09,0.08
+1330,RNA,489564,RNA@mockdata.com,134333,git,11918,0.06,0.09,0.08
+1331,Esailija,995876,b@titus.io,133702,javascript,8029,0.06,0.1,0.08
+1332,mKorbel,714968,caycebalara@gmail.com,109035,java,9022,0.04,0.11,0.08
+1333,yfeldblum,12349,yfeldblum@mockdata.com,64031,ruby-on-rails,1369,0.01,0.15,0.08
+1334,drew010,892493,tyler.bird@gmail.com,66624,php,4099,0.01,0.15,0.08
+1335,Chris Dodd,16406,mdk@sketch.com,108471,c,3231,0.04,0.12,0.08
+1336,Psidom,4983450,davidbody@bigcreek.com,192002,Python,8270,0.11,0.05,0.08
+1337,Andreas Dolk,105224,sudhir.j@gmail.com,110376,java,9113,0.04,0.12,0.08
+1338,jaypal singh,970195,jaypal singh@mockdata.com,70309,bash,3623,0.01,0.15,0.08
+1339,Inian,5291015,Inian@mockdata.com,69298,bash,3651,0.01,0.15,0.08
+1340,Mark Seemann,126014,Mark Seemann@mockdata.com,216255,c#,8313,0.13,0.03,0.08
+1341,netcoder,492901,altrux@gmail.com,63726,php,4247,0.01,0.15,0.08
+1342,Haim Evgi,74314,Haim Evgi@mockdata.com,118814,mysql,3455,0.05,0.11,0.08
+1343,Jano,412916,sco@scottraymond.net,61425,objective-c,2690,0,0.16,0.08
+1344,Eli Courtwright,1694,dmreiland@unixsherpa.com,173687,Python,11071,0.09,0.07,0.08
+1345,bames53,365496,nworld3d@yahoo.com,82263,c++,6499,0.02,0.14,0.08
+1346,Vlad Mihalcea,1025118,ingy@ingy.net,119531,java,8729,0.05,0.11,0.08
+1347,matt b,4249,dhendyf@gmail.com,134876,java,7774,0.06,0.1,0.08
+1348,Pரதீப்,3349551,1348@mockdata.com,87949,sql-server,4753,0.02,0.14,0.08
+1349,Bruno Bronosky,117471,Bruno Bronosky@mockdata.com,59595,bash,3891,0,0.16,0.08
+1350,Janusz,114066,Janusz@mockdata.com,181252,android,6130,0.1,0.06,0.08
+1351,Steve,1197518,Steve@mockdata.com,207378,c#,10595,0.12,0.04,0.08
+1352,AlexR,478399,achraf.b@mutationevent.com,111300,java,9300,0.04,0.12,0.08
+1353,Bart Kiers,50476,neosam+github@posteo.com,159241,java,6317,0.08,0.08,0.08
+1354,Philippe Leybaert,113570,eric.oconnell@gmail.com,161215,javascript,6647,0.08,0.08,0.08
+1355,Estus Flask,3731501,tante@tante.cc,173221,javascript,5852,0.09,0.07,0.08
+1356,Crescent Fresh,45433,ed@ruders.org,110965,javascript,10075,0.04,0.12,0.08
+1357,Georg Fritzsche,168225,amartinsn@gmail.com,94946,c++,6152,0.03,0.13,0.08
+1358,ColinD,13792,gonnella@zbh.uni-hamburg.de,105885,java,9784,0.04,0.12,0.08
+1359,Anurag,165737,david@dollar.io,136270,javascript,8480,0.06,0.1,0.08
+1360,ρяσѕρєя K,1202025,ρяσѕρєя K@mockdata.com,130055,android,10378,0.06,0.11,0.08
+1361,πάντα ῥεῖ,1413395,kalaexj@gmail.com,84831,c++,6566,0.02,0.14,0.08
+1362,hsz,223386,kyle@kylecordes.com,141694,php,2682,0.07,0.1,0.08
+1363,pupeno,6068,pupeno@mockdata.com,264618,git,6,0.16,0,0.08
+1364,Tatu Ulmanen,198707,Tatu Ulmanen@mockdata.com,118766,jquery,5153,0.05,0.12,0.08
+1365,Padraic Cunningham,2141635,visnup@gmail.com,167184,Python,12734,0.09,0.08,0.08
+1366,Raghunandan,653856,Raghunandan@mockdata.com,131161,android,10467,0.06,0.11,0.08
+1367,hmjd,1033896,gobhai@gmail.com,116195,c++,5529,0.05,0.12,0.08
+1368,user123444555621,27862,hi@abrah.am,138426,javascript,8527,0.06,0.1,0.08
+1369,Robert Gamble,25222,Robert Gamble@mockdata.com,101207,bash,3215,0.04,0.13,0.08
+1370,0__,515054,github@marcelmolina.com,65400,scala,3892,0.01,0.16,0.08
+1371,missingfaktor,192247,nexneo@gmail.com,88681,scala,3463,0.03,0.14,0.08
+1372,ScaisEdge,3522312,ScaisEdge@mockdata.com,128550,mysql,3505,0.06,0.11,0.08
+1373,Cody Gray,366904,Cody Gray@mockdata.com,228765,c#,8628,0.14,0.03,0.09
+1374,David Hedlund,133802,David Hedlund@mockdata.com,124567,jquery,5209,0.05,0.12,0.09
+1375,Gabriele Petrioli,128165,joe@joefiorini.com,181083,javascript,6150,0.1,0.07,0.09
+1376,agf,500584,licenses@diino.net,158118,Python,15071,0.08,0.09,0.09
+1377,Nkosi,5233410,Nkosi@mockdata.com,210514,c#,12753,0.12,0.05,0.09
+1378,Pshemo,1393766,filipe.abrantes@gmail.com,117573,java,9829,0.05,0.13,0.09
+1379,Pat Notz,825,Pat Notz@mockdata.com,195198,git,8042,0.11,0.06,0.09
+1380,meder omuraliev,145190,mrfabbri@gmail.com,177014,javascript,6572,0.1,0.08,0.09
+1381,Kevin Coppock,321697,Kevin Coppock@mockdata.com,130726,android,11269,0.06,0.11,0.09
+1382,mplungjan,295783,ahsan@stackadapt.com,151917,javascript,8452,0.08,0.1,0.09
+1383,Tunaki,1743880,fer@ferqwerty.com,123621,java,9652,0.05,0.12,0.09
+1384,svick,41071,svick@mockdata.com,223313,c#,11061,0.13,0.04,0.09
+1385,Bo Persson,597607,k@kslat.com,87861,c++,6997,0.02,0.15,0.09
+1386,Pentium10,243782,Pentium10@mockdata.com,196755,android,6410,0.11,0.07,0.09
+1387,GhostCat,1531124,josh@wisp.live,131963,java,9226,0.06,0.12,0.09
+1388,kindall,416467,etdebruin@gmail.com,166367,Python,14789,0.09,0.09,0.09
+1389,Ken Thomases,1312143,jamie.github@tracefunc.com,85396,objective-c,2664,0.02,0.15,0.09
+1390,Harry,2606013,josh@dipperstove.com,83040,css,6215,0.02,0.16,0.09
+1391,MBo,844416,MBo@mockdata.com,71062,algorithm,2104,0.01,0.17,0.09
+1392,Paige Ruten,813,philiplinnell123@hotmail.com,163681,c++,4424,0.08,0.09,0.09
+1393,Maxim Egorushkin,412080,zach@zachhowe.com,124602,c++,5842,0.05,0.13,0.09
+1394,matt,214790,jeremymcanally@gmail.com,76250,ruby,3741,0.02,0.16,0.09
+1395,RiggsFolly,2310830,eric.wenbl@gmail.com,88456,php,4255,0.02,0.15,0.09
+1396,Harley Holcombe,1057,chanwit@weave.works,163928,Python,15819,0.08,0.1,0.09
+1397,Sam Varshavchik,3943312,kennyj@gmail.com,96015,c++,6952,0.03,0.15,0.09
+1398,coreyward,203130,coreyward@mockdata.com,72100,ruby-on-rails,1537,0.01,0.17,0.09
+1399,Ike Walker,233196,Ike Walker@mockdata.com,61673,mysql,5097,0,0.18,0.09
+1400,alk,694576,james@ashchan.com,67937,c,4831,0.01,0.17,0.09
+1401,mpen,65387,sgilperez@gmail.com,251910,javascript,2338,0.15,0.03,0.09
+1402,tokland,188031,joshknowles@gmail.com,62893,ruby,3981,0,0.18,0.09
+1403,Joan Venge,51816,juafrlo@gmail.ccom,287335,Python,1,0.18,0,0.09
+1404,jjnguy,2598,flaviocruz@gmail.com,132452,java,9685,0.06,0.12,0.09
+1405,thecodeparadox,690854,thecodeparadox@mockdata.com,84045,jquery,7192,0.02,0.16,0.09
+1406,Servy,1159478,Servy@mockdata.com,196805,c#,18263,0.11,0.07,0.09
+1407,Shankar Narayana Damodaran,1003917,nbezzala@yahoo.com,66470,php,4842,0.01,0.18,0.09
+1408,eyllanesc,6622587,sunray.sun@gmail.com,215517,Python,9498,0.13,0.06,0.09
+1409,dtb,76217,dtb@mockdata.com,204511,c#,16819,0.12,0.07,0.09
+1410,VisioN,1249581,jason@jasonyates.me,137054,javascript,10145,0.06,0.12,0.09
+1411,Justin Niessner,84651,Justin Niessner@mockdata.com,234643,c#,10899,0.14,0.04,0.09
+1412,nnnnnn,615754,hello@gethandcrafted.com,142208,javascript,9847,0.07,0.12,0.09
+1413,Habib,961113,Habib@mockdata.com,210787,c#,16302,0.12,0.06,0.09
+1414,James Allardice,790695,tobias@wkjeldsen.dk,159997,javascript,8853,0.08,0.1,0.09
+1415,hpaulj,901925,hi@ashleyw.co.uk,196081,Python,12658,0.11,0.08,0.09
+1416,Stuart Marks,1441122,keko@kekoponte.com,118715,java,10907,0.05,0.14,0.09
+1417,zzzzBov,497418,jeremy@jeremybower.com,165008,javascript,8681,0.09,0.1,0.09
+1418,RobG,257182,jhubert@gmail.com,132014,javascript,10906,0.06,0.13,0.09
+1419,Mark Rushakoff,126042,berpasan@gmail.com,235438,Python,7762,0.14,0.05,0.09
+1420,Joseph Silber,825568,oleg.v.avdeev@gmail.com,202938,javascript,6221,0.12,0.07,0.09
+1421,gnarf,91914,gnarf@mockdata.com,103058,jquery,6822,0.04,0.15,0.09
+1422,KM.,65223,1422@mockdata.com,97981,sql-server,5480,0.03,0.16,0.1
+1423,jason,45914,jason@mockdata.com,226801,c#,14025,0.13,0.06,0.1
+1424,Christoph,48015,patrick@gallantgames.com,156511,javascript,9395,0.08,0.11,0.1
+1425,Chris Jester-Young,13,agamos@protonmail.ch,211717,java,5319,0.12,0.07,0.1
+1426,Raynos,419970,ray@guildsoftware.com,161055,javascript,9233,0.08,0.11,0.1
+1427,John Dibling,241536,info@govannon.nl,96271,c++,7420,0.03,0.16,0.1
+1428,georg,989121,scott@railsnewbie.com,203039,javascript,6443,0.12,0.08,0.1
+1429,Petesh,17833,Petesh@mockdata.com,86125,bash,4148,0.02,0.17,0.1
+1430,Funk Forty Niner,1415724,nroyer@box2small.com,74255,php,4934,0.01,0.18,0.1
+1431,Blackbelt,501696,Blackbelt@mockdata.com,152056,android,11539,0.08,0.12,0.1
+1432,pimvdb,514749,cmshea@gmail.com,145670,javascript,10360,0.07,0.12,0.1
+1433,Andy Turner,3788176,nik@moodfish.com,130762,java,10588,0.06,0.13,0.1
+1434,Jonathon Reinhart,119527,davidmduarte@gmail.com,123050,c,3927,0.05,0.14,0.1
+1435,Šime Vidas,425275,kurisukun@gmail.com,171700,javascript,8645,0.09,0.1,0.1
+1436,hobbs,152948,hobbs@mockdata.com,202739,git,9867,0.12,0.08,0.1
+1437,DaveRandom,889949,aproxacs@gmail.com,85732,php,4713,0.02,0.17,0.1
+1438,Praetorian,241631,zerokarmaleft@gmail.com,102826,c++,7288,0.04,0.16,0.1
+1439,Tony Delroy,410767,fedesoria@gmail.com,98208,c++,7454,0.03,0.16,0.1
+1440,meagar,229044,adam.greene@gmail.com,219258,javascript,5579,0.13,0.07,0.1
+1441,Matteo Italia,214671,ueda@tos.co.jp,118615,c++,6835,0.05,0.15,0.1
+1442,Ionuț G. Stan,58808,pmckibbin@gmail.com,167443,javascript,9213,0.09,0.11,0.1
+1443,Cyrus,3776858,Cyrus@mockdata.com,76631,bash,4444,0.02,0.18,0.1
+1444,Armen Tsirunyan,469935,philharnish@gmail.com,124479,c++,6659,0.05,0.14,0.1
+1445,Evgeniy Dorofeev,1831293,antonio@waveweb2.com,128342,java,11082,0.06,0.14,0.1
+1446,Andrew Whitaker,497356,Andrew Whitaker@mockdata.com,121432,jquery,6523,0.05,0.15,0.1
+1447,Andrew Clark,505154,areina0@gmail.com,189662,Python,15230,0.11,0.09,0.1
+1448,M.M,1505939,josepgl@gmail.com,133826,c++,6356,0.06,0.14,0.1
+1449,Shog9,811,georg@ledermann.dev,151030,javascript,10464,0.07,0.12,0.1
+1450,Kirill V. Lyadvinsky,123111,sargshep@gmail.com,92593,c++,7886,0.03,0.17,0.1
+1451,thefourtheye,1903116,tonetheman@gmail.com,218074,Python,11811,0.13,0.07,0.1
+1452,Sergey Berezovskiy,470005,Sergey Berezovskiy@mockdata.com,222553,c#,17275,0.13,0.07,0.1
+1453,Peter Bailey,8815,kwood@kwd.io,103070,php,4495,0.04,0.16,0.1
+1454,Ry-,707111,samuel.schroeder@gmail.com,206971,javascript,6824,0.12,0.08,0.1
+1455,G-Cyrillus,2442099,james.robey+github@gmail.com,92879,css,6776,0.03,0.17,0.1
+1456,sharptooth,57428,dohaibac@gmail.com,162360,c++,5442,0.08,0.12,0.1
+1457,om-nom-nom,298389,francois@teksol.info,61151,scala,4750,0,0.2,0.1
+1458,Emil Vikstr&#246;m,238978,darcy@darcybrown.com,87055,php,4880,0.02,0.18,0.1
+1459,Ori Drori,5157454,mike@imapenguin.com,161839,javascript,9949,0.08,0.12,0.1
+1460,John1024,3030305,John1024@mockdata.com,102431,bash,4081,0.04,0.17,0.1
+1461,AbraCadaver,2844319,richard@richardhart.me,76578,php,5187,0.02,0.19,0.1
+1462,Mark B,251738,kiere@lazygray.com,92935,c++,8073,0.03,0.18,0.1
+1463,bdonlan,36723,bdonlan@mockdata.com,212277,git,10352,0.12,0.08,0.1
+1464,Yu Hao,1009479,charles.hornberger@gmail.com,114405,c,4467,0.05,0.16,0.1
+1465,Andreas,5221149,michal.wallace@gmail.com,146051,java,10646,0.07,0.14,0.1
+1466,konsolebox,445221,konsolebox@mockdata.com,65622,bash,4883,0.01,0.2,0.1
+1467,O. Jones,205608,O. Jones@mockdata.com,89731,mysql,5151,0.03,0.18,0.1
+1468,Kornel,27009,speak@gibberish.cyou,93745,html,2000,0.03,0.18,0.1
+1469,Eli Bendersky,8206,cmlenz@gmail.com,244403,Python,9655,0.15,0.06,0.1
+1470,zombat,81205,oskar.hermansson@gmail.com,89612,php,5006,0.03,0.18,0.1
+1471,Brian Bi,481267,joseph@dingo.me,100120,c++,8039,0.03,0.17,0.1
+1472,Benjamin Lindley,440119,adamflater@gmail.com,98097,c++,8120,0.03,0.18,0.1
+1473,readonly,4883,readonly@mockdata.com,321456,git,0,0.21,0,0.1
+1474,hek2mgl,171318,itszero@gmail.com,141230,php,3942,0.07,0.14,0.1
+1475,Fabrizio Calderan,1098851,rnathanwilson@gmail.com,113883,css,6550,0.05,0.17,0.11
+1476,Wayne Conrad,238886,Joshua.owens@gmail.com,95037,ruby,4034,0.03,0.18,0.11
+1477,ecatmur,567292,pascal.charest@gmail.com,143420,c++,6604,0.07,0.14,0.11
+1478,eumiro,449449,embassy@outernet.io,190984,Python,17263,0.11,0.11,0.11
+1479,rahul,47738,daniel@disqus.com,178601,javascript,9829,0.1,0.12,0.11
+1480,Kenan Banks,43089,git@foemmel.com,195917,javascript,8682,0.11,0.1,0.11
+1481,RichieHindle,21886,github@coryodaniel.com,255351,Python,9316,0.16,0.06,0.11
+1482,Bojangles,383609,tobinibot@gmail.com,95183,html,2083,0.03,0.19,0.11
+1483,Ryan Lundy,5486,Ryan Lundy@mockdata.com,194344,git,13576,0.11,0.11,0.11
+1484,zwol,388520,mterenzio@gmail.com,127753,c,4465,0.06,0.16,0.11
+1485,Raymond Hettinger,424499,subscription@skriptladan.se,195544,Python,17648,0.11,0.11,0.11
+1486,dfsq,949476,rth@rayhightower.com,186666,javascript,9827,0.1,0.12,0.11
+1487,jeroen,42139,malcolm.tredinnick@gmail.com,89669,php,5333,0.03,0.19,0.11
+1488,Amal Murali,1438393,mail@jjs.de,72545,php,5726,0.01,0.21,0.11
+1489,Henk Holterman,60761,Henk Holterman@mockdata.com,248474,c#,17262,0.15,0.07,0.11
+1490,LukeH,55847,LukeH@mockdata.com,250584,c#,16944,0.15,0.07,0.11
+1491,Phil,283366,chekenan@gmail.com,137963,php,4339,0.06,0.16,0.11
+1492,knittl,112968,knittl@mockdata.com,212209,git,12520,0.12,0.1,0.11
+1493,ypercubeᵀᴹ,344949,ypercubeᵀᴹ@mockdata.com,108988,mysql,5162,0.04,0.18,0.11
+1494,Ciro Santilli 新疆再教育营六四事件法轮功郝海东,895245,Ciro Santilli 新疆再教育营六四事件法轮功郝海东@mockdata.com,292466,git,4500,0.19,0.04,0.11
+1495,Matthew Flaschen,47773,info@jusufd.com,265278,java,4521,0.17,0.06,0.11
+1496,David Schwartz,721269,Julio@E-String.com,172118,c++,6140,0.09,0.13,0.11
+1497,&#211;scar L&#243;pez,201359,joe@jschaf.com,223436,java,7208,0.13,0.09,0.11
+1498,web-tiki,1811992,aseigo@esri.com,91201,css,7758,0.03,0.2,0.11
+1499,Paulie_D,2802040,drone@bitrit.es,100905,css,7471,0.03,0.19,0.11
+1500,Paul Samsotha,2587435,cassandra.rife@gttsmarketing.com,195974,java,9003,0.11,0.11,0.11
+1501,Jason Coco,34218,mike@kouky.org,77329,objective-c,3599,0.02,0.21,0.11
+1502,sandeep,567751,me@jonnii.com,88276,css,7971,0.02,0.2,0.11
+1503,Adil,1298762,Adil@mockdata.com,142451,jquery,7098,0.07,0.16,0.11
+1504,&#193;lvaro Gonz&#225;lez,13508,reynoldsmike@gmail.com,133899,php,4583,0.06,0.17,0.11
+1505,Hashem Qolami,1725764,andrew.gruner@gmail.com,92132,css,7881,0.03,0.2,0.11
+1506,Explosion Pills,454533,ashebanow@gmail.com,181867,php,3553,0.1,0.13,0.11
+1507,Joe Stefanelli,341251,1507@mockdata.com,127551,sql-server,6033,0.06,0.17,0.11
+1508,Chris Johnsen,193688,Chris Johnsen@mockdata.com,198342,git,14971,0.11,0.12,0.12
+1509,AlienWebguy,353802,dan@dofter.com,75208,html,2425,0.01,0.22,0.12
+1510,Blair Conrad,1199,lukasz.strzalkowski@gmail.com,215949,Python,17175,0.13,0.1,0.12
+1511,Josh O&#39;Brien,980833,Josh O&#39;Brien@mockdata.com,153050,r,13490,0.08,0.15,0.12
+1512,Devart,135566,Devart@mockdata.com,114476,mysql,5284,0.05,0.19,0.12
+1513,OscarRyz,20654,declum@outlook.com,189222,java,10015,0.1,0.13,0.12
+1514,Stefan Gehrig,11354,paul@hartville.org,80526,php,5888,0.02,0.21,0.12
+1515,nosklo,17160,eddie.sherman@gmail.com,202946,Python,19165,0.12,0.12,0.12
+1516,sth,56338,alexey.verkhovsky@gmail.com,208924,c++,5269,0.12,0.11,0.12
+1517,ianhanniballake,1676363,ianhanniballake@mockdata.com,171521,android,14028,0.09,0.14,0.12
+1518,coobird,17172,nils@bleepbloop.studio,155522,java,12271,0.08,0.16,0.12
+1519,ThiefMaster,298479,spyromus@noizeramp.com,295634,Python,7391,0.19,0.04,0.12
+1520,Tom Hawtin - tackline,4725,sgrock@gmail.com,142107,java,13211,0.07,0.17,0.12
+1521,Jens Gustedt,366377,tambet.masik@gmail.com,74009,c,6182,0.01,0.22,0.12
+1522,charlietfl,1175966,charlietfl@mockdata.com,168526,jquery,6558,0.09,0.15,0.12
+1523,siride,394487,siride@mockdata.com,181865,git,17349,0.1,0.14,0.12
+1524,John Zwinck,4323,ggualberto@gmail.com,219366,c++,5051,0.13,0.11,0.12
+1525,Spudley,352765,fxn@hashref.com,160876,css,6118,0.08,0.16,0.12
+1526,Lukas Eder,521799,marcin.koziuk@gmail.com,192672,java,10213,0.11,0.13,0.12
+1527,user2357112 supports Monica,2357112,orluke@gmail.com,230532,Python,16406,0.14,0.1,0.12
+1528,Robin Day,40655,1528@mockdata.com,97432,sql-server,7145,0.03,0.21,0.12
+1529,Reimeus,871026,vijay.a.patil@gmail.com,155372,java,12669,0.08,0.16,0.12
+1530,Thomas Levesque,98713,Thomas Levesque@mockdata.com,276923,c#,16458,0.17,0.07,0.12
+1531,Salman A,87015,prashant@intridea.com,243826,javascript,7864,0.15,0.09,0.12
+1532,devnull,2235132,devnull@mockdata.com,109337,bash,4925,0.04,0.2,0.12
+1533,trojanfoe,299924,joshua.wehner@gmail.com,117480,objective-c,3354,0.05,0.2,0.12
+1534,MrFlick,2372064,MrFlick@mockdata.com,176453,r,13227,0.09,0.15,0.12
+1535,Dan Moulding,95706,Dan Moulding@mockdata.com,194314,git,17260,0.11,0.14,0.12
+1536,James Donnelly,1317805,jnetto@mineiro.org,121434,css,7661,0.05,0.19,0.12
+1537,Blender,464744,tastybyte@gmail.com,271141,Python,12512,0.17,0.08,0.12
+1538,Joseph Mansfield,150634,mlightner@gmail.com,103760,c++,9630,0.04,0.21,0.12
+1539,phihag,35070,tlb@rapanden.dk,259413,Python,14370,0.16,0.09,0.12
+1540,Michael Kohl,220147,james@railsjitsu.com,64466,ruby,5113,0.01,0.24,0.12
+1541,nonopolarity,325418,jae.hess@me.com,137341,html,2105,0.06,0.19,0.13
+1542,Rocket Hazmat,206403,sconrad@tridigital.com.au,212500,javascript,10825,0.12,0.13,0.13
+1543,Mikael Eriksson,569436,1543@mockdata.com,131724,sql-server,6679,0.06,0.19,0.13
+1544,spencer7593,107744,spencer7593@mockdata.com,102828,mysql,6036,0.04,0.22,0.13
+1545,Michael Durrant,631619,Michael Durrant@mockdata.com,88258,ruby-on-rails,2060,0.02,0.23,0.13
+1546,Ted Hopp,535871,y.hayamizu@gmail.com,226319,java,9393,0.13,0.12,0.13
+1547,Joshua Ulrich,271616,Joshua Ulrich@mockdata.com,167152,r,14222,0.09,0.17,0.13
+1548,joran,324364,joran@mockdata.com,162351,r,14484,0.08,0.17,0.13
+1549,BrenBarn,1427416,shachi@jong.gr.jp,223947,Python,20198,0.13,0.12,0.13
+1550,Andrew Thompson,418556,oct@zoy.org,166258,java,13383,0.09,0.17,0.13
+1551,oxbow_lakes,16853,lgastako@gmail.com,130993,scala,4777,0.06,0.2,0.13
+1552,Mat,635608,Mat@mockdata.com,194415,bash,3668,0.11,0.15,0.13
+1553,dogbane,7412,m@mihasya.com,251900,java,8207,0.15,0.1,0.13
+1554,AdaTheDev,135531,1554@mockdata.com,134199,sql-server,6855,0.06,0.2,0.13
+1555,Potatoswatter,153285,geoff@hulette.net,130086,c++,9234,0.06,0.2,0.13
+1556,Kent,164835,Kent@mockdata.com,179637,bash,3974,0.1,0.16,0.13
+1557,Brian Campbell,69755,Brian Campbell@mockdata.com,303034,git,8179,0.2,0.06,0.13
+1558,Paul D. Waite,20578,francois@hodierne.net,92524,html,2601,0.03,0.23,0.13
+1559,Borealid,383402,atharh@gmail.com,90053,html,2623,0.03,0.23,0.13
+1560,Roko C. Buljan,383904,Roko C. Buljan@mockdata.com,176529,jquery,7368,0.09,0.17,0.13
+1561,The Alpha,741747,tiyalcin@gmail.com,137010,php,5442,0.06,0.2,0.13
+1562,Gavin Simpson,429846,Gavin Simpson@mockdata.com,162580,r,14875,0.08,0.18,0.13
+1563,DigitalRoss,140740,joshua.nichols@gmail.com,138375,ruby,4315,0.06,0.2,0.13
+1564,Andrew Marshall,211563,lawrence.pit@gmail.com,91722,ruby,4966,0.03,0.23,0.13
+1565,Tomalak,18771,david@d8a.me,318504,javascript,4833,0.21,0.06,0.13
+1566,Andrie,602276,Andrie@mockdata.com,169063,r,14789,0.09,0.18,0.13
+1567,Mats Petersson,1919155,rainhead@gmail.com,122762,c++,9751,0.05,0.21,0.13
+1568,lonesomeday,417562,matti.paksula@iki.fi,222712,javascript,11387,0.13,0.13,0.13
+1569,jscs,603977,john.critz@gmail.com,62853,objective-c,4477,0,0.26,0.13
+1570,John Bollinger,2402272,neil@plasticwater.com,134746,c,5724,0.06,0.21,0.13
+1571,JeremyP,169346,conejo2005@gmail.com,81492,objective-c,4233,0.02,0.25,0.13
+1572,Michael Haren,29,conor.hunt+github@gmail.com,100634,html,2609,0.03,0.23,0.13
+1573,Andrew Hare,34211,Andrew Hare@mockdata.com,330807,c#,12786,0.22,0.05,0.13
+1574,Brad,362536,jon@jonchristopher.us,151051,php,5336,0.07,0.19,0.13
+1575,kapa,468793,cannikin@fastmail.com,74900,html,2861,0.01,0.26,0.13
+1576,Mureinik,2422776,adrian@schoenig.me,274396,java,7684,0.17,0.1,0.14
+1577,Xeo,500104,zak.31337@gmail.com,125910,c++,9887,0.05,0.22,0.14
+1578,ruakh,978917,ruakh@mockdata.com,164111,bash,4570,0.08,0.19,0.14
+1579,Ashwini Chaudhary,846892,marc.adams@gmail.com,229311,Python,22200,0.14,0.14,0.14
+1580,Jesper,135589,dmitry.larkin@gmail.com,193091,java,12895,0.11,0.16,0.14
+1581,Madara&#39;s Ghost,871050,dev@akibe.com,164630,php,5202,0.09,0.19,0.14
+1582,trincot,5459839,a.cirugeda@stuart.com,251111,javascript,10168,0.15,0.12,0.14
+1583,Grundlefleck,4120,Grundlefleck@mockdata.com,118511,bash,5560,0.05,0.23,0.14
+1584,Cristian,244296,Cristian@mockdata.com,195408,android,16372,0.11,0.17,0.14
+1585,xdazz,762073,j@ownlocal.com,153587,php,5512,0.08,0.2,0.14
+1586,VolkerK,4833,zerone.six@gmail.com,93606,php,6838,0.03,0.25,0.14
+1587,Elliott Frisch,2970947,mjanous@niu.edu,190115,java,13523,0.11,0.17,0.14
+1588,Alan Storm,4668,fonseka@gmail.com,160229,php,5407,0.08,0.2,0.14
+1589,epascarello,14104,mot@mot.la,193323,javascript,14409,0.11,0.17,0.14
+1590,ceejayoz,1902010,koseki@gmail.com,170099,php,5223,0.09,0.19,0.14
+1591,Danield,703717,mike@czepiel.net,112831,css,9384,0.04,0.24,0.14
+1592,P.P,1275169,emanuel.carnevale@gmail.com,111156,c,6658,0.04,0.24,0.14
+1593,Thilo,14955,jgtynan@gmail.com,248194,java,10295,0.15,0.13,0.14
+1594,Marko Topolnik,1103872,elleryq@gmail.com,186080,java,14229,0.1,0.18,0.14
+1595,Phrogz,405017,doug@jdouglashall.com,281859,javascript,8871,0.18,0.11,0.14
+1596,rgettman,1707091,aantonov@egencia.com,171013,java,15250,0.09,0.19,0.14
+1597,Baba,1226894,grant@antiflux.org,91529,php,7088,0.03,0.26,0.14
+1598,Puppy,298661,kevin@branigan.ca,141043,c++,10001,0.07,0.22,0.14
+1599,Rick James,1766831,Rick James@mockdata.com,119157,mysql,6503,0.05,0.24,0.14
+1600,that other guy,1899640,that other guy@mockdata.com,107842,bash,6016,0.04,0.25,0.14
+1601,Ben Bolker,190277,Ben Bolker@mockdata.com,187975,r,15164,0.1,0.18,0.14
+1602,troelskn,18180,isaac.clerencia@gmail.com,110166,php,6729,0.04,0.24,0.14
+1603,Dietrich Epp,82294,github@mt7.de,191927,c,5075,0.11,0.18,0.14
+1604,Artefacto,127724,contact@rodrigoguedes.dev,92930,php,7217,0.03,0.26,0.15
+1605,Louis Wasserman,869736,trentdavies@gmail.com,179912,java,15175,0.1,0.19,0.15
+1606,Oriol,1529630,leonbogaert+github@gmail.com,244288,javascript,12089,0.15,0.14,0.15
+1607,A5C1D2H2I1M1N2O1R2T1,1270695,A5C1D2H2I1M1N2O1R2T1@mockdata.com,182756,r,15800,0.1,0.19,0.15
+1608,SQLMenace,740,1608@mockdata.com,127801,sql-server,8176,0.06,0.24,0.15
+1609,undefined,848164,undefined@mockdata.com,139753,jquery,10117,0.07,0.23,0.15
+1610,manojlds,526535,manojlds@mockdata.com,272050,git,15560,0.17,0.12,0.15
+1611,Lasse V. Karlsen,267,Lasse V. Karlsen@mockdata.com,362877,c#,12862,0.24,0.05,0.15
+1612,tripleee,874188,tripleee@mockdata.com,153638,bash,5331,0.08,0.22,0.15
+1613,KingCrunch,421223,bmorsh@gmail.com,123356,php,6716,0.05,0.24,0.15
+1614,Zabba,382818,Zabba@mockdata.com,61958,ruby-on-rails,2654,0,0.3,0.15
+1615,Adam Rosenfield,9530,shawn42@gmail.com,372359,Python,8294,0.25,0.05,0.15
+1616,Fred Foo,166749,clay.preheim@gmail.com,339626,Python,12754,0.22,0.08,0.15
+1617,Joe Kington,325565,neno@neno.ch,254591,Python,24116,0.16,0.15,0.15
+1618,trashgod,230513,tim.czubayko@googlemail.com,199452,java,14988,0.11,0.19,0.15
+1619,David Eisenstat,2144669,David Eisenstat@mockdata.com,58791,algorithm,3811,0,0.3,0.15
+1620,dreamlax,10320,stanislav@lifedraft.de,91287,objective-c,4733,0.03,0.28,0.15
+1621,Aaron Digulla,34088,srcDELETECAPITALLETTERS@x10d.jp,307434,java,8422,0.2,0.11,0.15
+1622,rici,1566221,rici@mockdata.com,215086,bash,4428,0.13,0.18,0.15
+1623,Marc-Andr&#233; Lafortune,8279,kevin.marsh@gmail.com,75296,ruby,5959,0.01,0.29,0.15
+1624,poke,216074,steve@aelogica.com,332731,Python,14558,0.22,0.09,0.15
+1625,Matt Ball,139010,mjbweb@gmail.com,341891,java,6418,0.23,0.08,0.15
+1626,Joel Coehoorn,3043,Joel Coehoorn@mockdata.com,375541,c#,13909,0.25,0.06,0.15
+1627,MSalters,15416,ssm@fnord.no,166081,c++,10132,0.09,0.22,0.15
+1628,Michael Myers,13531,dani.valentin@gmail.com,182558,java,16427,0.1,0.21,0.15
+1629,T.C.,2756719,stkaes@gmail.com,128582,c++,11483,0.06,0.25,0.15
+1630,Shafik Yaghmour,1708801,brong@fastmailteam.com,147169,c++,10829,0.07,0.24,0.15
+1631,Tim Cooper,142162,selim013@gmail.com,149731,php,6507,0.07,0.24,0.15
+1632,chqrlie,4593267,ckatgithub@gmail.com,107755,c,7645,0.04,0.27,0.16
+1633,Mr. Alien,1542290,hi@monkeypatch.be,146256,css,9661,0.07,0.24,0.16
+1634,Cheers and hth. - Alf,464581,twermund@gmail.com,138192,c++,11537,0.06,0.25,0.16
+1635,haccks,2455888,jeff@jeffsmith.me,100085,c,7916,0.03,0.28,0.16
+1636,Paul R,253056,samfredrickson@gmail.com,200966,c,5721,0.11,0.21,0.16
+1637,wim,674039,don@codetestcode.io,293549,Python,21750,0.19,0.13,0.16
+1638,Alexey Romanov,9204,felipe.coury@gmail.com,159462,scala,5724,0.08,0.24,0.16
+1639,unor,1591669,kevin@kstewart.me,86526,html,3335,0.02,0.3,0.16
+1640,Rohit Jain,1679863,jay@theleiners.com,201367,java,16307,0.11,0.21,0.16
+1641,mgilson,748858,dimitar.kostov@protonmail.com,278902,Python,24268,0.18,0.15,0.16
+1642,Willem Van Onsem,67579,roberto.chinnici@gmail.com,380513,Python,11182,0.26,0.07,0.16
+1643,kev,348785,kev@mockdata.com,144240,bash,6262,0.07,0.26,0.16
+1644,nos,126769,brian.takita@gmail.com,213449,c,5602,0.12,0.2,0.16
+1645,SilentGhost,12855,egor@krondix.com,283067,Python,24250,0.18,0.15,0.16
+1646,John La Rooy,174728,ecuzzillo@gmail.com,277228,Python,25069,0.17,0.15,0.16
+1647,yojimbo87,217288,yojimbo87@mockdata.com,62130,redis,2650,0,0.32,0.16
+1648,jAndy,1386886,naruse@gmail.com,220750,javascript,16952,0.13,0.2,0.17
+1649,Andy Prowl,1932150,doug@dougmcinnes.com,118774,c++,12869,0.05,0.28,0.17
+1650,axtavt,103154,victoriggy@gmail.com,232480,java,15199,0.14,0.19,0.17
+1651,justin,191596,hi@markjeee.com,102887,objective-c,5047,0.04,0.3,0.17
+1652,Aleksei Matiushkin,2035262,jon@joncrosby.me,111891,ruby,5929,0.04,0.29,0.17
+1653,Asaph,166339,takuma104@gmail.com,152924,php,7142,0.08,0.26,0.17
+1654,spickermann,2483313,chebuctonian@gmail.com,87594,ruby,6349,0.02,0.31,0.17
+1655,Wesley Murch,398242,stocad@stocad.com,97787,html,3433,0.03,0.31,0.17
+1656,Gordon Davisson,89817,Gordon Davisson@mockdata.com,104601,bash,7392,0.04,0.3,0.17
+1657,Alix Axel,89771,bjarte@bjartek.org,145832,php,7480,0.07,0.27,0.17
+1658,Daniel Vassallo,222908,oblivious+github@subtleGradient.com,323756,javascript,11129,0.21,0.13,0.17
+1659,Bryan Oakley,7432,ian@ianduggan.net,334548,Python,20337,0.22,0.12,0.17
+1660,NikiC,385378,andrewho@andrewho.co.uk,98276,php,8587,0.03,0.31,0.17
+1661,Gabriele Mariotti,2016562,Gabriele Mariotti@mockdata.com,237035,android,19836,0.14,0.2,0.17
+1662,Sampson,54680,Sampson@mockdata.com,257715,jquery,8332,0.16,0.19,0.17
+1663,R. Martinho Fernandes,46642,lfstange@gmail.com,216947,c++,10104,0.13,0.22,0.17
+1664,Gilles Quenot,465183,Gilles Quenot@mockdata.com,152181,bash,6749,0.08,0.28,0.18
+1665,Niet the Dark Absol,507674,sebastian.krog@gmail.com,309087,javascript,12867,0.2,0.15,0.18
+1666,Bill the Lizard,1288,christopher.yudichak@gmail.com,383069,java,7405,0.26,0.09,0.18
+1667,Damien_The_Unbeliever,15498,1667@mockdata.com,226250,sql-server,7600,0.13,0.22,0.18
+1668,Jonathan Wakely,981959,gfmurphy@gmail.com,158731,c++,12484,0.08,0.27,0.18
+1669,mmx,33708,mmx@mockdata.com,399879,c#,20999,0.27,0.08,0.18
+1670,Dietmar K&#252;hl,1120273,designmc@gmail.com,144824,c++,12996,0.07,0.29,0.18
+1671,steenslag,290394,wbsmith83@gmail.com,75631,ruby,6793,0.01,0.34,0.18
+1672,pmg,25324,spejic@gmail.com,102498,c,8947,0.04,0.32,0.18
+1673,William Pursell,140750,William Pursell@mockdata.com,187098,bash,6242,0.1,0.25,0.18
+1674,James Kanze,649665,nachokb@gmail.com,145698,c++,13098,0.07,0.29,0.18
+1675,Benjamin Gruenbaum,1348195,justinball@gmail.com,257404,javascript,16884,0.16,0.2,0.18
+1676,Simon Sarris,154112,patrick.henry.ewing@gmail.com,59938,html,4019,0,0.36,0.18
+1677,Brian Agnew,12960,kai.conragan@gmail.com,259684,java,15898,0.16,0.2,0.18
+1678,Fr&#233;d&#233;ric Hamidi,464709,Fr&#233;d&#233;ric Hamidi@mockdata.com,247832,jquery,9500,0.15,0.21,0.18
+1679,Dan Abramov,458193,mlwhall@gmail.com,250956,javascript,17814,0.15,0.21,0.18
+1680,jmj,260990,yasu00000@gmail.com,230904,java,18044,0.14,0.23,0.18
+1681,StoryTeller - Unslander Monica,817643,mark@clockworkcollective.com,158137,c++,13148,0.08,0.29,0.18
+1682,G. Grothendieck,516548,G. Grothendieck@mockdata.com,230041,r,18260,0.14,0.23,0.19
+1683,eggyal,623041,eggyal@mockdata.com,117341,mysql,8616,0.05,0.32,0.19
+1684,zerkms,251311,bellroy.github@bellroy.com,238254,php,6253,0.14,0.23,0.19
+1685,DSM,487339,jzwang22@gmail.com,313567,Python,27565,0.2,0.17,0.19
+1686,R Sahu,434551,EricPKerr@gmail.com,199619,c++,11854,0.11,0.26,0.19
+1687,falsetru,2225682,mikgra@gmail.com,332318,Python,25445,0.22,0.15,0.19
+1688,Andy Hayden,1240268,lef.pub@gmail.com,320092,Python,27413,0.21,0.17,0.19
+1689,Ned Batchelder,14343,hong.minhee@gmail.com,340828,Python,24998,0.23,0.15,0.19
+1690,Angew is no longer proud of SO,1782465,chenm003@163.com,160756,c++,13436,0.08,0.3,0.19
+1691,chux - Reinstate Monica,2410359,matthewknox@gmail.com,124004,c,9116,0.05,0.33,0.19
+1692,Ja͢ck,1338292,ms@ninjaconcept.com,165186,php,8166,0.09,0.3,0.19
+1693,Alnitak,6782,andrewcshafer@gmail.com,322887,javascript,14463,0.21,0.17,0.19
+1694,Oliver Charlesworth,129570,tog@linkingpaths.com,258727,c++,10169,0.16,0.22,0.19
+1695,Greg,24181,alekenji@gmail.com,305015,javascript,15792,0.2,0.19,0.19
+1696,Basil Bourque,642706,hincheymg@gmail.com,251907,java,18274,0.15,0.23,0.19
+1697,Sean Patrick Floyd,342852,sykora@lucentbeing.com,282761,java,16467,0.18,0.21,0.19
+1698,mipadi,28804,mipadi@mockdata.com,375682,git,17408,0.25,0.14,0.2
+1699,cs95,4909087,chris@matthieu.us,317961,Python,30199,0.21,0.18,0.2
+1700,abarnert,908494,gm@nguma.com,330032,Python,28700,0.22,0.17,0.2
+1701,kennytm,224671,traviskroberts@gmail.com,486660,Python,8426,0.34,0.05,0.2
+1702,David Thomas,82548,tongueroo@gmail.com,238249,css,9825,0.14,0.25,0.2
+1703,Tim Schmelter,284240,Tim Schmelter@mockdata.com,425625,c#,25456,0.29,0.1,0.2
+1704,Jakub Narębski,46058,Jakub Narębski@mockdata.com,284445,git,27016,0.18,0.21,0.2
+1705,Brian R. Bondy,3153,Brian R. Bondy@mockdata.com,324426,c++,8377,0.21,0.18,0.2
+1706,songyuanyao,3309790,jigar.gosar@gmail.com,161691,c++,14172,0.08,0.31,0.2
+1707,John Bode,134554,chmurph2+git@gmail.com,111985,c,9784,0.04,0.35,0.2
+1708,erickson,3474,5th958@gmail.com,255697,java,18712,0.16,0.24,0.2
+1709,user207421,207421,mark@hibberd.id.au,296416,java,16227,0.19,0.21,0.2
+1710,NathanOliver,4342498,ijonas@ijonas.com,158227,c++,14370,0.08,0.32,0.2
+1711,Stefan,477037,jonas@jnicklas.com,101382,ruby,7175,0.04,0.36,0.2
+1712,S.Lott,10661,me@nicolasblan.co,370401,Python,24623,0.25,0.15,0.2
+1713,Stephen Cleary,263693,Stephen Cleary@mockdata.com,398926,c#,32424,0.27,0.13,0.2
+1714,Paul Dixon,6521,molinari@incode.it,285760,php,6027,0.18,0.22,0.2
+1715,duffymo,37213,ljsking@gmail.com,298194,java,16783,0.19,0.21,0.2
+1716,Mark Ransom,5987,tmoertel@gmail.com,282472,c++,10538,0.18,0.23,0.2
+1717,adeneo,965051,jack.finch.3@gmail.com,301213,javascript,18257,0.19,0.22,0.21
+1718,Mitch Wheat,16076,1718@mockdata.com,286690,sql-server,7880,0.18,0.23,0.21
+1719,Russia Must Remove Putin,541136,curtis.edmond@gmail.com,327395,Python,32376,0.21,0.2,0.21
+1720,robertc,8655,bmiranda+auto@doximity.com,71769,html,4476,0.01,0.4,0.21
+1721,Alok Save,452307,jtinsky@gmail.com,195263,c++,13805,0.11,0.3,0.21
+1722,Oded,1583,Oded@mockdata.com,474237,c#,20991,0.33,0.08,0.21
+1723,Bathsheba,2380830,tiago@tiagofalcao.com,226143,c++,12772,0.13,0.28,0.21
+1724,Vlad from Moscow,2877241,ratioswitch@gmail.com,255964,c++,11760,0.16,0.26,0.21
+1725,Cary Swoveland,256970,github@dan.kubb.ca,99564,ruby,7532,0.03,0.38,0.21
+1726,Carl Norum,116908,justinas@gmail.com,208543,c,8290,0.12,0.3,0.21
+1727,Holger,2711488,gabriel.pettier@gmail.com,262276,java,20589,0.16,0.26,0.21
+1728,Sotirios Delimanolis,438154,mrpouet@tuxfamily.org,261079,java,20706,0.16,0.26,0.21
+1729,CertainPerformance,9515207,nrnickolov@yahoo.com,299704,javascript,19662,0.19,0.23,0.21
+1730,Denys S&#233;guret,263525,egozi13@gmail.com,351713,javascript,16209,0.23,0.19,0.21
+1731,IRTFM,1855677,IRTFM@mockdata.com,249102,r,20780,0.15,0.28,0.21
+1732,Jarod42,2684539,naquad@gmail.com,187759,c++,14731,0.1,0.32,0.21
+1733,John Topley,1450,John Topley@mockdata.com,109794,ruby-on-rails,3471,0.04,0.39,0.21
+1734,Paolo Bergantino,16417,weibel@gmail.com,463652,Python,17582,0.32,0.11,0.21
+1735,Arup Rakshit,2767755,thewoolleyman@gmail.com,112795,ruby,7569,0.04,0.39,0.21
+1736,jfs,4279,seto@sanmonce.jp,368039,Python,30204,0.25,0.18,0.22
+1737,user113716,113716,lansing@gmail.com,308281,javascript,19534,0.2,0.23,0.22
+1738,Rob W,938089,h.wickham@gmail.com,325458,javascript,18623,0.21,0.22,0.22
+1739,fredoverflow,252000,artem@serenity.su,244751,c++,13022,0.15,0.29,0.22
+1740,Frederick Cheung,1064226,Frederick Cheung@mockdata.com,81012,ruby-on-rails,3745,0.02,0.42,0.22
+1741,Your Common Sense,285587,zach@copley.name,154155,php,10008,0.08,0.36,0.22
+1742,Tomasz Nurkiewicz,605744,shaalofer@gmail.com,321431,java,18209,0.21,0.23,0.22
+1743,Eric Postpischil,298225,hdiogenes@gmail.com,163321,c,9971,0.08,0.36,0.22
+1744,juergen d,575376,juergen d@mockdata.com,193384,mysql,8913,0.11,0.34,0.22
+1745,sbi,140719,brad.weslake@gmail.com,210763,c++,14806,0.12,0.33,0.22
+1746,NPE,367273,garbagecat10@gmail.com,458647,Python,22302,0.32,0.14,0.23
+1747,Donut,121493,djwhitt@gmail.com,101986,html,4666,0.04,0.42,0.23
+1748,Suragch,3681880,Suragch@mockdata.com,414072,android,16910,0.28,0.17,0.23
+1749,alecxe,771848,stephan@mymimir.org,435598,Python,26879,0.3,0.16,0.23
+1750,David Rodr&#237;guez - dribeas,36565,matthieu.stone@gmail.com,197766,c++,16062,0.11,0.35,0.23
+1751,Sourav Ghosh,2173917,tom@subblue.com,129742,c,11390,0.06,0.41,0.23
+1752,Alohci,42585,tooky@cucumber.io,72880,html,5061,0.01,0.45,0.23
+1753,John Feminella,75170,John Feminella@mockdata.com,291971,bash,6931,0.19,0.28,0.23
+1754,Hovercraft Full Of Eels,522444,jianingy.yang@gmail.com,279026,java,23112,0.18,0.29,0.24
+1755,Howard Hinnant,576911,dfasolin@gmail.com,189670,c++,16581,0.11,0.37,0.24
+1756,Temani Afif,8620333,mvzink@mvz.ink,205202,css,14105,0.12,0.36,0.24
+1757,Josh Crozier,2680216,nacho@nucleartesuji.com,215466,css,13842,0.13,0.35,0.24
+1758,Ben Voigt,103167,bedlamp@gmail.com,267447,c++,14166,0.17,0.31,0.24
+1759,Matthew Rankin,95592,Matthew Rankin@mockdata.com,424668,git,24096,0.29,0.19,0.24
+1760,Barry Wark,2140,eric@ericw.ca,106248,objective-c,7525,0.04,0.44,0.24
+1761,choroba,1030675,choroba@mockdata.com,213162,bash,8793,0.12,0.36,0.24
+1762,lhunath,58803,lhunath@mockdata.com,110285,bash,10850,0.04,0.44,0.24
+1763,Steve Jessop,13005,mikaelmorattocarrara@gmail.com,263763,c++,14641,0.16,0.32,0.24
+1764,Michael Berkowski,541091,triumph2008@gmail.com,259111,php,8986,0.16,0.33,0.24
+1765,torek,1256452,torek@mockdata.com,374746,git,29876,0.25,0.24,0.24
+1766,Joachim Sauer,40342,zachary.zolton@gmail.com,289359,java,23994,0.18,0.31,0.24
+1767,cnicutar,714501,zimbatm@zimbatm.com,170372,c,11176,0.09,0.4,0.25
+1768,Andy E,94197,redpidgin@gmail.com,323237,javascript,23741,0.21,0.28,0.25
+1769,Ryan McGeary,8985,Ryan McGeary@mockdata.com,227892,jquery,15996,0.14,0.36,0.25
+1770,Amber,148870,Amber@mockdata.com,470206,git,21427,0.33,0.17,0.25
+1771,ouah,1119701,fireeagle-feedback@yahoo-inc.com,137997,c,12084,0.06,0.43,0.25
+1772,Travis Brown,334519,fserb@fserb.com.br,137008,scala,10358,0.06,0.44,0.25
+1773,Chuck,50742,alex@tevim.com,227517,ruby,7229,0.14,0.37,0.25
+1774,mario,345031,klemm.aaron@gmail.com,140795,php,11983,0.07,0.43,0.25
+1775,alex,31671,mail@florianebeling.com,455773,javascript,16017,0.32,0.19,0.25
+1776,e-satis,9951,lukeman@gmail.com,544085,Python,19829,0.39,0.12,0.25
+1777,Michael Burr,12711,Michael Burr@mockdata.com,319665,c++,13734,0.21,0.3,0.26
+1778,eerorika,2079303,david.holland@wexinc.com,212713,c++,17688,0.12,0.39,0.26
+1779,jalf,33213,antoine@abt.im,234808,c++,16918,0.14,0.37,0.26
+1780,camickr,131872,mail@douglasjcook.com,315015,java,24368,0.2,0.31,0.26
+1781,Tim Down,96100,kebernet@gmail.com,303429,javascript,27122,0.2,0.32,0.26
+1782,Harish Shetty,163203,Harish Shetty@mockdata.com,62967,ruby-on-rails,4632,0,0.52,0.26
+1783,Michael Borgwardt,16883,darrell.bayles@ars.usda.gov,333954,java,24023,0.22,0.31,0.26
+1784,fl00r,298624,fl00r@mockdata.com,81103,ruby-on-rails,4543,0.02,0.51,0.26
+1785,fedorqui &#39;SO stop harming&#39;,1983854,fedorqui &#39;SO stop harming&#39;@mockdata.com,246996,bash,9272,0.15,0.38,0.26
+1786,juanchopanza,661519,ian@holsman.org,215384,c++,18297,0.13,0.4,0.26
+1787,Bohemian,256196,joshnabbott@gmail.com,384120,java,21405,0.26,0.27,0.27
+1788,Reed Copsey,65358,Reed Copsey@mockdata.com,535396,c#,39475,0.38,0.16,0.27
+1789,glenn jackman,7552,glenn jackman@mockdata.com,220007,bash,10027,0.13,0.41,0.27
+1790,assylias,829571,lrpalmer@gmail.com,307201,java,26869,0.2,0.34,0.27
+1791,ircmaxell,338665,steph@zboing.ca,159053,php,12721,0.08,0.46,0.27
+1792,Matthieu M.,147192,adam@dplrn.com,264915,c++,17134,0.16,0.38,0.27
+1793,Keith Thompson,827263,bobbywilson0@gmail.com,239308,c,11163,0.14,0.4,0.27
+1794,Ronak Shah,3962914,Ronak Shah@mockdata.com,349790,r,23181,0.23,0.31,0.27
+1795,Nina Scholz,1447675,will.bailey@gmail.com,344468,javascript,26996,0.23,0.32,0.27
+1796,MadProgrammer,992484,schoutm@gmail.com,332467,java,26207,0.22,0.33,0.28
+1797,Sarfraz,139459,Sarfraz@mockdata.com,365051,jquery,13778,0.24,0.31,0.28
+1798,caf,134633,i@damienh.org,223241,c,11751,0.13,0.42,0.28
+1799,Praveen Kumar Purushothaman,462627,daragh.casey@gmail.com,159270,html,5355,0.08,0.48,0.28
+1800,Richard Peck,1143732,Richard Peck@mockdata.com,74353,ruby-on-rails,4923,0.01,0.55,0.28
+1801,max,544825,max@mockdata.com,85152,ruby-on-rails,4861,0.02,0.54,0.28
+1802,Mark Longair,223092,Mark Longair@mockdata.com,409483,git,36477,0.28,0.29,0.28
+1803,sehe,85371,sehe@mockdata.com,343851,c++,15434,0.23,0.34,0.28
+1804,Martin York,14065,arun@wellogic.com,244091,c++,19043,0.15,0.42,0.28
+1805,codaddict,227665,christian.carey@gmail.com,425136,php,7642,0.29,0.28,0.28
+1806,Sergey Kalinichenko,335858,Sergey Kalinichenko@mockdata.com,692420,c#,16862,0.5,0.07,0.29
+1807,Guffa,69083,Guffa@mockdata.com,660737,c#,23394,0.48,0.09,0.29
+1808,polygenelubricants,276101,davydotcom@gmail.com,360645,java,26260,0.24,0.33,0.29
+1809,Yakk - Adam Nevraumont,1774667,jdpaquette@icloud.com,248043,c++,19163,0.15,0.42,0.29
+1810,karim79,70393,karim79@mockdata.com,333072,jquery,16113,0.22,0.36,0.29
+1811,AnT,187690,AnT@mockdata.com,299752,c++,17655,0.19,0.39,0.29
+1812,thirtydot,405015,peter@pezra.me,216166,css,18221,0.13,0.46,0.29
+1813,Lundin,584518,whitespace@gmail.com,170178,c,13997,0.09,0.5,0.3
+1814,John Kugelman,68587,John Kugelman@mockdata.com,325673,bash,9353,0.21,0.38,0.3
+1815,skaffman,21234,adaogavina@gmail.com,388772,java,26534,0.26,0.34,0.3
+1816,Dirk Eddelbuettel,143305,Dirk Eddelbuettel@mockdata.com,343761,r,26769,0.23,0.37,0.3
+1817,dbush,1687119,ken.wiesner@gmail.com,181748,c,13993,0.1,0.5,0.3
+1818,Pointy,182668,mick@staugaard.com,385464,javascript,29362,0.26,0.35,0.3
+1819,hakre,367456,phuwanart@outlook.com,183535,php,14006,0.1,0.51,0.3
+1820,Luchian Grigore,673730,rburgst@gmail.com,243642,c++,20894,0.15,0.46,0.31
+1821,cletus,18393,mattguest@gmail.com,594803,java,14787,0.43,0.19,0.31
+1822,John Conde,250259,sales [at] digitalbrook.com,211983,php,13549,0.12,0.49,0.31
+1823,nickf,9021,github@dshaw.com,515195,javascript,21429,0.36,0.25,0.31
+1824,Barmar,1491895,justin@mecham.me,653136,javascript,12209,0.47,0.14,0.31
+1825,bobince,18936,git@insoshi.com,511143,javascript,21765,0.36,0.26,0.31
+1826,tadman,87189,christian.carter@salesforce.com,199612,ruby,9878,0.11,0.52,0.32
+1827,Sergio Tulentsev,125816,rbazinet@stillriversoftware.com,217261,ruby,9640,0.13,0.51,0.32
+1828,Some programmer dude,440558,Some programmer dude@mockdata.com,376088,c++,17328,0.25,0.38,0.32
+1829,Cascabel,119963,Cascabel@mockdata.com,445837,git,41937,0.31,0.33,0.32
+1830,aioobe,276052,kovcic@gmail.com,395653,java,29980,0.27,0.38,0.32
+1831,Remus Rusanu,105929,1831@mockdata.com,279325,sql-server,16341,0.18,0.48,0.33
+1832,Barry,2069064,Barry@mockdata.com,263176,c++,22285,0.16,0.49,0.33
+1833,Mark Baker,324584,avinashmeetoo@gmail.com,204011,php,14955,0.12,0.54,0.33
+1834,Eran,1221571,ticolucci@gmail.com,371829,java,32345,0.25,0.41,0.33
+1835,ghostdog74,131527,ghostdog74@mockdata.com,302976,bash,11439,0.2,0.47,0.33
+1836,Konrad Rudolph,1968,Konrad Rudolph@mockdata.com,501510,c++,14365,0.35,0.32,0.33
+1837,Sven Marnach,279627,theaellen@hotmail.com,519923,Python,49553,0.37,0.3,0.33
+1838,JaredPar,23283,JaredPar@mockdata.com,696377,c#,41887,0.51,0.17,0.34
+1839,sawa,314166,ryan@railscasts.com,159928,ruby,11254,0.08,0.6,0.34
+1840,Charles Duffy,14122,Charles Duffy@mockdata.com,253159,bash,12916,0.16,0.53,0.34
+1841,Mark Byers,61974,avery@homegrownlabs.ca,756489,Python,21089,0.55,0.13,0.34
+1842,Jon,50079,nick@simreg.net,409563,php,11124,0.28,0.4,0.34
+1843,Rex Kerr,247533,afton@howtoprocrastinate.com,164371,scala,14172,0.09,0.6,0.34
+1844,Mike Seymour,204847,vguerra@gmail.com,241117,c++,24655,0.15,0.55,0.35
+1845,amit,572670,amit@mockdata.com,170887,algorithm,7586,0.09,0.6,0.35
+1846,R.. GitHub STOP HELPING ICE,379897,pau.fernandez@upc.edu,200462,c,16293,0.11,0.59,0.35
+1847,tvanfosson,12950,tvanfosson@mockdata.com,504810,jquery,15438,0.36,0.35,0.35
+1848,Dylan Markow,424300,Dylan Markow@mockdata.com,119909,ruby-on-rails,5828,0.05,0.65,0.35
+1849,Rory McCrossan,519413,Rory McCrossan@mockdata.com,317202,jquery,22574,0.21,0.51,0.36
+1850,Aaron Bertrand,61305,1850@mockdata.com,256754,sql-server,19200,0.16,0.56,0.36
+1851,dash,1073107,matt@mattmoriarity.com,86826,html,7841,0.02,0.71,0.36
+1852,Eric Lippert,88656,Eric Lippert@mockdata.com,626606,c#,72999,0.45,0.29,0.37
+1853,Arun P Johny,114251,Arun P Johny@mockdata.com,374450,jquery,21955,0.25,0.49,0.37
+1854,mu is too short,479863,sam@samgranieri.com,409410,ruby,9095,0.28,0.47,0.38
+1855,GManNickG,87234,GManNickG@mockdata.com,474637,c++,19672,0.33,0.43,0.38
+1856,Nawaz,415784,Nawaz@mockdata.com,338321,c++,24613,0.22,0.55,0.38
+1857,the Tin Man,128421,claude@seadated.com,154194,ruby,12876,0.08,0.69,0.38
+1858,James McNellis,151292,James McNellis@mockdata.com,335967,c++,25084,0.22,0.56,0.39
+1859,SLaks,34397,SLaks@mockdata.com,829212,c#,42035,0.61,0.17,0.39
+1860,Nicol Bolas,734069,Nicol Bolas@mockdata.com,405941,c++,23040,0.28,0.51,0.39
+1861,Ignacio Vazquez-Abrams,20862,brandt.lareau@gmail.com,730844,Python,43112,0.53,0.26,0.4
+1862,Lightness Races in Orbit,560648,Lightness Races in Orbit@mockdata.com,366658,c++,24877,0.25,0.55,0.4
+1863,Ryan Bigg,15245,Ryan Bigg@mockdata.com,104515,ruby-on-rails,6998,0.04,0.78,0.41
+1864,Pascal Thivent,70604,tgutowski@trilogyinteractive.com,546826,java,34410,0.39,0.44,0.41
+1865,Michael Benjamin,3597276,me@johnwlong.com,298262,css,25280,0.19,0.64,0.42
+1866,Marc B,118068,gnutse@gmail.com,346873,php,16711,0.23,0.61,0.42
+1867,bbum,25646,eloy.de.enige@gmail.com,161400,objective-c,13136,0.08,0.78,0.43
+1868,j08691,616443,kkunjas@gmail.com,196435,html,8632,0.11,0.78,0.44
+1869,Hans Passant,17034,Hans Passant@mockdata.com,892310,c#,58349,0.66,0.23,0.45
+1870,jfriend00,816620,mrjjwright@gmail.com,624267,javascript,38779,0.45,0.46,0.45
+1871,unwind,28169,alex@gc-web.de,375963,c,18821,0.25,0.68,0.46
+1872,Bergi,1048572,fixato@gmail.com,559037,javascript,45029,0.4,0.53,0.47
+1873,sepp2k,149392,wilsonb@gmail.com,351477,ruby,13079,0.23,0.7,0.47
+1874,Jerry Coffin,179910,Jerry Coffin@mockdata.com,450821,c++,29244,0.31,0.65,0.48
+1875,Darin Dimitrov,29407,Darin Dimitrov@mockdata.com,987355,c#,58992,0.74,0.23,0.49
+1876,Pekka,187606,ncrogers@gmail.com,428277,php,18746,0.29,0.68,0.49
+1877,Greg Hewgill,893,Greg Hewgill@mockdata.com,876179,git,43842,0.65,0.35,0.5
+1878,Peter Lawrey,57695,jskopek@gmail.com,509790,java,50324,0.36,0.64,0.5
+1879,CB Bailey,19563,CB Bailey@mockdata.com,687792,git,63478,0.5,0.5,0.5
+1880,kjhughes,290085,kjhughes@mockdata.com,96600,xml,6583,0.03,0.97,0.5
+1881,Didier Spezia,1114486,Didier Spezia@mockdata.com,66438,redis,5436,0.01,1,0.5
+1882,JB Nizet,571407,jesse@comm-unity.net,651939,java,42414,0.47,0.54,0.51
+1883,Bozho,203907,sangles@gmail.com,568477,java,47806,0.41,0.61,0.51
+1884,Kerrek SB,596781,Kerrek SB@mockdata.com,443268,c++,32057,0.31,0.71,0.51
+1885,Alex Martelli,95810,gap@eskimo.com,801015,Python,72773,0.59,0.44,0.52
+1886,chepner,1126841,chepner@mockdata.com,434714,bash,18007,0.3,0.74,0.52
+1887,apneadiving,350087,apneadiving@mockdata.com,112229,ruby-on-rails,8919,0.04,1,0.52
+1888,Johannes Schaub - litb,34509,Johannes Schaub - litb@mockdata.com,478295,c++,32714,0.33,0.73,0.53
+1889,Michael Kay,415448,Michael Kay@mockdata.com,145241,xml,6716,0.07,1,0.53
+1890,Simone Carletti,123527,Simone Carletti@mockdata.com,167776,ruby-on-rails,8865,0.09,0.99,0.54
+1891,unutbu,190597,mattnl@gmail.com,762221,Python,88077,0.56,0.54,0.55
+1892,Jukka K. Korpela,1084437,ebassi@gmail.com,185389,html,11097,0.1,1,0.55
+1893,Felix Kling,218196,wonder@hey.com,745397,javascript,48048,0.55,0.57,0.56
+1894,Pascal MARTIN,138475,ryan@whole-studios.com,383375,php,23859,0.26,0.87,0.56
+1895,Martin Smith,73226,1895@mockdata.com,415848,sql-server,29064,0.28,0.85,0.57
+1896,Dave DeLong,115730,miles.sterrett@gmail.com,240665,objective-c,16910,0.15,1,0.57
+1897,Gordon,208809,jeremy.maziarz@gmail.com,303436,php,26338,0.2,0.96,0.58
+1898,Stephen C,139985,sc@samchapin.com,662216,java,53325,0.48,0.68,0.58
+1899,Quentin,19068,matt@matt.tm,844457,javascript,45394,0.62,0.54,0.58
+1900,Marc Gravell,23354,Marc Gravell@mockdata.com,966035,c#,115737,0.72,0.46,0.59
+1901,Daniel C. Sobral,53013,jacques@siberia.co.za,289464,scala,23534,0.18,1,0.59
+1902,paxdiablo,14860,mike@screenflicker.com,805833,c,16732,0.59,0.6,0.6
+1903,Gumbo,53114,bzimmer@ziclix.com,615351,php,20909,0.44,0.76,0.6
+1904,Dennis Williamson,26428,Dennis Williamson@mockdata.com,320023,bash,24484,0.21,1,0.6
+1905,templatetypedef,501557,templatetypedef@mockdata.com,341708,algorithm,12593,0.23,1,0.61
+1906,J&#246;rg W Mittag,2988,a@adamwiggins.com,347993,ruby,18196,0.23,1,0.62
+1907,Christian C. Salvad&#243;,5445,juanpare@gmail.com,759480,javascript,59305,0.56,0.7,0.63
+1908,Mysticial,922184,Mysticial@mockdata.com,449838,c++,44929,0.31,1,0.66
+1909,deceze,476,vjaquez@igalia.com,487125,php,27548,0.34,1,0.67
+1910,Bill Karwin,20860,Bill Karwin@mockdata.com,489371,mysql,25099,0.34,1,0.67
+1911,Nick Craver,13249,Nick Craver@mockdata.com,607406,jquery,44502,0.44,1,0.72
+1912,BoltClock,106224,luke@sneeringer.com,656798,css,39452,0.48,1,0.74
+1913,Jonathan Leffler,15168,jeremy.kunzhou@gmail.com,690559,c,27822,0.5,1,0.75
+1914,marc_s,13302,1914@mockdata.com,698753,sql-server,34225,0.51,1,0.75
+1915,akrun,3732271,akrun@mockdata.com,763074,r,64618,0.56,1,0.78
+1916,T.J. Crowder,157247,diego.viola@gmail.com,940021,javascript,84425,0.7,1,0.85
+1917,CommonsWare,115145,CommonsWare@mockdata.com,944921,android,98195,0.7,1,0.85
+1918,Martijn Pieters,100297,mgalves@gmail.com,945245,Python,164246,0.7,1,0.85
+1919,BalusC,157882,ron@bieberlabs.com,1029637,java,78631,0.77,1,0.89
+1920,VonC,6309,VonC@mockdata.com,1108390,git,126758,0.83,1,0.92
+1921,Jon Skeet,22656,Jon Skeet@mockdata.com,1317557,c#,252634,1,1,1
