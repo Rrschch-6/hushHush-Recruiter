@@ -5,4 +5,4 @@ import pandas as pd
 import utils
 
 print(utils.Select_Candidate.step_1(table='Stack',id_column='UserID',name_column='UserName',email_column='UserEmail',score_column='Average'))
-#print(utils.Select_Candidate.step_1('Github'))
+print(utils.Select_Candidate.step_1(table='Github',id_column='user_list',name_column='user_name',email_column='user_email',score_column='score'))
