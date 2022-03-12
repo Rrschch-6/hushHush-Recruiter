@@ -3,7 +3,6 @@ import context_managers
 import sqlite3
 
 
-
 def countdown(t):
   while t:
     mins, secs = divmod(t, 60)
