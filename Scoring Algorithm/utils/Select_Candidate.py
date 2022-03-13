@@ -11,7 +11,7 @@ def step_1(table,id_column,name_column,email_column,score_column):
 
     #Top 5 Pick
     TOP5 = int(round(len(df.index)*0.05,0))
-    df_head5 = df.head(TOP5)
+    df_head5 = df.head(TOP5).copy()
 
     #===================================================================
     #Top 10 Pick
@@ -22,7 +22,7 @@ def step_1(table,id_column,name_column,email_column,score_column):
     df_head10= df[[f'{id_column}',f'{name_column}',f'{email_column}']]
     TOP10 = (int(round(len(df_head10.index)*0.10,0)))
     df=df_head10
-    df_head10 = df_head10.head(TOP10)
+    df_head10 = df_head10.head(TOP10).copy()
     # ===================================================================
     #Top 20 Pick
     df_head20 = df.merge(df_head5,on=[f'{id_column}'])
@@ -32,13 +32,13 @@ def step_1(table,id_column,name_column,email_column,score_column):
     df_head20= df[[f'{id_column}',f'{name_column}',f'{email_column}']]
 
     TOP20 = (int(round(len(df_head20.index)*0.20,0)))
-    df_head20 = df_head10.head(TOP20)
+    df_head20 = df_head10.head(TOP20).copy()
 
     #==============================================================
     #consolidate all dfs together as a result
-    df_head5['Position'] = 'Senior Architect'
-    df_head10['Position'] = 'Senior Developer'
-    df_head20['Position'] = 'Developer'
+    df_head5.loc[:,'Position'] = 'Senior Architect'
+    df_head10.loc[:,'Position'] = 'Senior Developer'
+    df_head20.loc[:,'Position'] = 'Developer'
     df_union = pd.concat([df_head5,df_head10,df_head20],axis=0)
 
     return df_union
