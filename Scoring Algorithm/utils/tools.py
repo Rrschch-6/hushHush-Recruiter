@@ -8,7 +8,9 @@ def pick_df(table,id_column,name_column,email_column,score_column):
     with utils.context_managers.connection_handler() as conn:
         select = f'select {id_column},{name_column},{email_column},{score_column} from {table} order by {score_column} desc'
         df_result = pd.read_sql(select,conn)
-        df_result=df_result.rename(columns={f' {id_column}':'id',f' {name_column}':'user_name',f' {email_column}':'email',f' {score_column}':'score'})
+
+    df_result=df_result.rename(columns={f' {id_column}':'id',f' {name_column}':'user_name',f' {email_column}':'email',f' {score_column}':'score'})
+    df_result=df_result.dropna(subset=['email'])
     return df_result
 
 def pick_top(table,id_column,name_column,email_column,score_column,percentile):
