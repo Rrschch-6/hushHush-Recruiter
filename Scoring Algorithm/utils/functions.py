@@ -29,7 +29,11 @@ def difference(df1,df2):
 
 def intersection(df1,df2):
     df=df1.merge(df2,how='inner',on='email')
-    return df
+    df=df.drop(columns=['id_y','user_name_y','score_y'])
+    df_result=df.rename(columns={'id_x':'id','user_name_x':'user_name','score_x':'score'})
+    return df_result
+
+
 
 
 
