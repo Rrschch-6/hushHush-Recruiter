@@ -19,6 +19,7 @@ def pick_top(table,id_column,name_column,email_column,score_column,percentile):
     top= int(round(len(df.index)*percentile,0))
     df_result= df.head(top).copy()
     df_result = df_result.rename(columns={f'{id_column}':'id', f'{name_column}':'user_name', f'{email_column}':'email',f'{score_column}':'score'})
+    df_result=df_result.dropna(subset=['email'])
 
     return df_result
 
