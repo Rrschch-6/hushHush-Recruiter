@@ -11,3 +11,7 @@ df_twitter = utils.tools.pick_df(table='twitter', id_column='userID', name_colum
 
 
 
+df=utils.tools.datasource_merge(df_kaggle,df_git,df_stack,df_twitter)
+df.to_excel('Data/all.xlsx')
+
+
