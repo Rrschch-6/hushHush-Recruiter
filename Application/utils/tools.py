@@ -1,8 +1,8 @@
 import sys
-sys.path.append('C:/Users/Sasha/Documents/11-SRH Heidelberg/Big Data Programming Project/hushHush-Recruiter-Group-3/Scoring Algorithm/utils')
+sys.path.append('C:/Users/Sasha/Documents/11-SRH Heidelberg/Big Data Programming Project/hushHush-Recruiter-Group-3/Application/utils')
 
 import pandas as pd
-import utils
+
 
 def pick_df(table,id_column,name_column,email_column,score_column):
     with utils.context_managers.connection_handler() as conn:
@@ -22,7 +22,7 @@ def pick_top(df,column,percentile):
 
 def difference(df1,df2):
     df=pd.concat([df1,df2])
-    df_result=df.drop_duplicates(subset=['email'])
+    df_result=df.drop_duplicates(subset=['email'],keep=false)
     return df_result
 
 def intersection(df1,df2):
