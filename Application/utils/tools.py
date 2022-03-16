@@ -13,8 +13,8 @@ def pick_df(table,id_column,name_column,email_column,score_column):
     df_result=df_result.dropna(subset=['email'])
     return df_result
 
-def pick_top(df,percentile):
-    df.sort_values(by='score', ascending=False)
+def pick_top(df,column,percentile):
+    df.sort_values(by=f'{column}', ascending=False)
     top= int(round(len(df.index)*percentile,0))
     df_result= df.head(top).copy()
     df_result=df_result.dropna(subset=['email'])
