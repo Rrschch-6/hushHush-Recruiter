@@ -10,14 +10,23 @@ Recruiter wants to ensure that
   3. The interface to provide the coding solutions cannot live forever and will be invalidated after a specified period
   
 Table of contents
+
 Overview
+
 API integration
+
 Data sources
+
 Normalising the score
+
 Selection Algorithims
+
 Email Notification
+
 Interphase
+
 Application Design
+
 Credits
 
 
