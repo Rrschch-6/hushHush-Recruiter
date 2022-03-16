@@ -17,12 +17,12 @@ def pick_top(df,column,percentile):
     df.sort_values(by=f'{column}', ascending=False)
     top= int(round(len(df.index)*percentile,0))
     df_result= df.head(top).copy()
-    df_result=df_result.dropna(subset=['email'])
+    df_result=df_result.dropna(subset=['email']).copy()
     return df_result
 
 def difference(df1,df2):
     df=pd.concat([df1,df2])
-    df_result=df.drop_duplicates(subset=['email'],keep=false)
+    df_result=df.drop_duplicates(subset=['email'],keep=False)
     return df_result
 
 def intersection(df1,df2):
