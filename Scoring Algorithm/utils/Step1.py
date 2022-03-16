@@ -1,7 +1,9 @@
 import pandas as pd
 import sqlite3
-#import utils
+import numpy
 
+#import utils
+print("Thi is my push")
 conn = sqlite3.connect('HushHush.db')
 c = conn.cursor()
 
