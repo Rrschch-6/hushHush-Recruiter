@@ -1,4 +1,5 @@
 Hush Hush-Recruiter
+
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/94630833/158576922-5f6261ee-d1bf-47ba-a98e-72bc65de5a25.png">
 
 Hush Hush recruiter is an automated recruitment tool written in Python 3 that automates the entire analysis process of selecting potential candidate for Doodle firm.
@@ -24,10 +25,13 @@ Selection Algorithims
 Email Notification
 
 Interphase
+
 Information on database
+
 Application Design
 
 Demo 
+
 Credits
 
 
