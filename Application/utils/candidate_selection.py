@@ -79,40 +79,39 @@ def algorithm_3(df):
     import pandas as pd
     from sklearn.linear_model import LogisticRegression
     from sklearn.model_selection import train_test_split
+    from sklearn.neural_network import MLPClassifier
     from sklearn.preprocessing import MinMaxScaler, OrdinalEncoder
     from sklearn.metrics import accuracy_score, plot_confusion_matrix, confusion_matrix
     from matplotlib import pyplot as plt
-    from sklearn.svm import SVC
 
-    X = df[['score_github', 'score_normalised_kaggle',
-            'score_stack', 'score_twitter', 'weighted_score']]
-    Y = df.loc[:, 'role']
+    df = pd.read_excel("D:/UNI/Big_data/project/labeled_data (1).xlsx")
+    df_train, df_test = train_test_split(df, test_size=0.3)
+    X_train = df_train[['score_github', 'score_normalised_kaggle',
+                        'score_stack', 'score_twitter', 'weighted_score']]
+    Y_train = df_train.loc[:, ('role',)]
+    X_test = df_test[['score_github', 'score_normalised_kaggle',
+                      'score_stack', 'score_twitter', 'weighted_score']]
+    Y_test = df_test.loc[:, ('role',)]
+
     # scaler = MinMaxScaler()
     # X = scaler.fit_transform(X)
-
     ordinal = OrdinalEncoder()
-    Y = ordinal.fit_transform(Y.values.reshape(-1, 1))
-    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3)
+    Y_train = ordinal.fit_transform(Y_train)  # change y to numeric values
+    Y_test = ordinal.transform(Y_test)  # change y to numeric values
     # plt.hist(Y)
     # plt.show()
     # clf = LogisticRegression(random_state=0 , max_iter = 3000).fit(X, Y)
-    clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(10, 2), random_state=1).fit(X, Y)
-    # OVO: one versus one-OVR:one versus rest
-    #
+    clf = MLPClassifier(solver='lbfgs', hidden_layer_sizes=(10, 2), random_state=1).fit(X_train,
+                                                                                                    Y_train)  # Building neural network model
     predicted_labels = clf.predict(X_test)
     acc = accuracy_score(Y_test, predicted_labels)
-    plot_confusion_matrix(clf, X, Y,
-                          display_labels=['Developer', 'Not Selected', 'Senior Dev', 'Solution Architecht'], )
     cm = confusion_matrix(Y_test, predicted_labels)
     print("confusion_matrix\n " + '=' * 10)
     print(cm)
     print("Accuracy\n " + '=' * 10)
     print(acc)
+    plot_confusion_matrix(clf, X_test, Y_test,
+                          display_labels=['Developer', 'Not Selected', 'Senior Dev', 'Solution Architecht'])
     plt.show()
-
-    # print(ordinal.categories_[0])
-    #
-    # print(ordinal.inverse_transform(predicted_labels.reshape(-1,1)))
-    # email = df.loc[20,'email']
-    # print(email)
-
+    df_test = df_test.append(pd.Series(predicted_labels), ignore_index=True)
+    print(df_test)
