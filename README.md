@@ -61,6 +61,10 @@ STEP 5: Candidates will be selected as per the below percentile hierarchy.
 
 Classification Algorithm
 
+After implementing our main algorithm, for the further evaluation for new entries we decided to use a machine learning algorithm based on the labels we got from our main algorithm and our initial data. As SVM,NN, LogReg or other models that are trained with gradient descent, are doing very well when the variables are normalized or rescaled we tried these three algorithms with different parameters. Based on our data Neural Network had the best accuracy for us.
+Multi-layer Perceptron is sensitive to feature scaling, so it is highly recommended to rescaled data with mean 0 and variance 1
+Multi-layer Perceptron (MLP) is a supervised learning algorithm.
+MLP algorithm trains using some form of gradient descent and the gradients are calculated using Backpropagation with no activation function in the output layer
 
 Email Notification
 Interphase
