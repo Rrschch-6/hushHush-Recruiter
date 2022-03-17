@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+      body {
+        margin: 0;
+        min-height: 75rem;
+      }
+
+      .container {
+        width: 100vw;
+        height: 150vh;
+
+        font-family: "Quicksand", sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+
+        display: grid;
+
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 80px 450px 120px 120px;
+
+        gap: 10px;
+        padding: 10px;
+
+        box-sizing: border-box;
+      }
+
+      .container div {
+        padding: 10px;
+        border: 1px solid black;
+      }
+
+      .header {
+        grid-column-start: 1;
+        grid-column-end: 4;
+  
+      }
+
+      .content-1 {
+        grid-row-start: 2;
+        grid-row-end: 2.5 span;
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+
+      .content-2{
+        grid-row-start: 4.5;
+        grid-row-end: 1 span;
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+
+      .content-3{
+        grid-row-start: 5.5;
+        grid-row-end: 1 span;
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+      .content-small {
+        grid-row-start: 2;
+        grid-row-end: 5;
+        grid-column-start: 3;
+        grid-column-end: 4;
+        
+        border-style: solid;
+        border-width: 5px;
+        border-color: black
+        
+
+      }
+
+.input{
+  font-size: small;
+  width: 50%;
+  padding: 1px;
+}
+      .ulist{
+        list-style-type: none;
+         margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+
+      
+    .list {
+      float: left;
+    }
+
+    .list a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .list a:hover:not(.active) {
+      background-color: #111;
+    }
+
+    .active {
+      background-color: #4CAF50;
+    }
+
+    .data {
+      font-size: x-large;
+    }
+
+    .stext{
+
+      text-align: left;
+      padding: 14px 16px;
+      font-size: small;
+
+    }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">  
+      <div class="header">
+        <ul class="ulist">
+            <li class="list"><a class="active" href="/">Search Candidate</a></li>  </ul>
+        </ul>
+      </div>
+      <div class="content-1">
+        <form class="form-details" method="POST">
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Search Candidate</button>
+            
+            <p class="input">Select Number of Applicants:</p>
+            <select name="number_of_applicants" class="form-control">
+              <option value=5>5</option>
+              <option value=10>10</option>
+              <option value=20>20</option>
+              <option value=30>30</option>
+              <option value=50>50</option>
+            </select>
+
+
+            <p class="input">Select Title Type:</p>
+            <select name="title_of_applicant" class="form-control">
+              <option value=0>Solution Architecht</option>
+              <option value=1>Senior Developer</option>
+              <option value=2>Developer</option>
+              
+            </select>
+
+            
+
+            
+        
+  </div>
+
+    <div class="content-small">
+
+            {% for  k,v in email_dict.items() %}
+             <p class="stext">
+            {{k}} {{v}}
+             </p>
+            {% endfor %}
+        </div>
+  
+
+          
+    </div>
+
+  
+    </div>
+  </body>
+</html>
+
