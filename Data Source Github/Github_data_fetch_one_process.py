@@ -10,7 +10,7 @@ import utils
 with utils.context_managers.cursor_handler() as c:
   utils.tools.create_table('github_users',c)
 
-github_token='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'
+github_token='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'
 g=Github(github_token)
 
 def fetch_user(number_of_users):
@@ -20,24 +20,24 @@ def fetch_user(number_of_users):
 
   for i in range(number_of_users):
 
-    #try:
-    github_user_list.append(g.get_users()[i].__str__().split('"')[1])
-    print('\r', i, g.get_users()[i].__str__().split('"')[1], end=" ")
+    try:
+      github_user_list.append(g.get_users()[i].__str__().split('"')[1])
+      print('\r', i, g.get_users()[i].__str__().split('"')[1], end=" ")
 
-    # except:
-    #   if g.rate_limiting[0] == 0:
-    #     time_delay = int((datetime.datetime.fromtimestamp(g.rate_limiting_resettime) - datetime.datetime.now()).total_seconds() + 15)
-    #     mins, secs = divmod(time_delay, 60)
-    #     print(f'Error occurred during listing users,Github rate exceeded,please wait {mins}:{secs}')
-    #     utils.tools.countdown(time_delay)
-    #     continue
-    #
-    #   else:
-    #     time_delay = 10
-    #     mins, secs = divmod(time_delay, 60)
-    #     print(f'Error occurred during listing users,Github rate exceeded,please wait {mins}:{secs}')
-    #     utils.tools.countdown(time_delay)
-    #     continue
+    except:
+      if g.rate_limiting[0] == 0:
+        time_delay = int((datetime.datetime.fromtimestamp(g.rate_limiting_resettime) - datetime.datetime.now()).total_seconds() + 15)
+        mins, secs = divmod(time_delay, 60)
+        print(f'Error occurred during listing users,Github rate exceeded,please wait {mins}:{secs}')
+        utils.tools.countdown(time_delay)
+        continue
+
+      else:
+        time_delay = 10
+        mins, secs = divmod(time_delay, 60)
+        print(f'Error occurred during listing users,Github rate exceeded,please wait {mins}:{secs}')
+        utils.tools.countdown(time_delay)
+        continue
   print('\r', f'{number_of_users} Github User_Name listed', end=" ")
   return github_user_list
 
