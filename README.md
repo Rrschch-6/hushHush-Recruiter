@@ -14,27 +14,63 @@ Table of contents
 
 Overview
 
-API integration
+Through API we try to connect with each datasources which will provide the details on activities availble on the activities with their application.
+All the datasources with normalised score will be populated to database which is common for all the source . 
+From the source we implement our selection algorithm which will list down the potentional candidates and their position. 
+
+we pick each of the candidates and sent them an email based which will have all the link for the doodle challenge.
 
 Data sources
 
+we are picking Github,Stackoverflow,Kaggle and Twitter as our main source.
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/94630833/158832186-75c0bd85-82df-4586-b0f6-38c870c1e56c.png">
+
+
+API integration
+
+Each of the datasource folder is created and the script is included.
+
 Normalising the score
 
-Selection Algorithims
+ Three methods we have used to normalise the score :
+ 
+ 1. X(norm)= X-min(x)/max(x)- min(x)
 
-Email Notification
-
-Interphase
+ 3. we used harmonicc mean for some attributes and arthimetic mean of all the harmonic mean
+ 
+ 5. we used scaler funcations
 
 Information on database
 
+We have used SQLlite database for this project ,name :HushHush.db available in Application-->Data (folder)
+
+Selection Algorithims
+
+To avoid people hacking the algorithm, we are selecting on the basis of percentiles instead of absolute scores of candidates.
+STEP 1: Check normalized score of candidates in all datasets except Twitter.
+
+STEP 2: Candidates will be selected as per the percentiles below (in any dataset).
+
+STEP 3: For remaining candidates (candidates who are below 70percentile in all datasets).
+
+STEP 4: Sort Candidates by the sum of Weighted Score in Descending order. 
+
+STEP 5: Candidates will be selected as per the below percentile hierarchy.
+
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/94630833/158832050-11e6a7bd-58e4-4a42-be1d-d0f93c3860a2.png">
+
+Classification Algorithm
+
+
+Email Notification
+Interphase
 Application Design
 
-Demo 
+
 
 Credits
 
 This is a group project of Big data programming-1(semester -1) for the master program in big data and business analytics.
-Developers  are Sasha (@Rrschch-6), Nissy (@sasidn), Garima (@Garima27dec) ,Omer(@atesch93) and Fatimeh (@karampanah927)
+Developers  are Sasha (@Rrschch-6), Nissy (@sasidn), Garima (@Garima27dec) ,Omer(@atesch93) and Fatemeh (@karampanah927)
 
 
