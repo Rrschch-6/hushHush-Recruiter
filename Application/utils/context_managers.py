@@ -1,8 +1,9 @@
 from contextlib import contextmanager
 import sqlite3
+import utils
 @contextmanager
 def cursor_handler():
-    conn = sqlite3.connect('Data/hushHush.db')
+    conn = sqlite3.connect('Data/HushHush.db')
     c = conn.cursor()
     yield c
     conn.commit()
