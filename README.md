@@ -14,27 +14,51 @@ Table of contents
 
 Overview
 
-API integration
-
 Data sources
 
+we are picking Github,Stackoverflow,Kaggle and Twitter as our main source.
+
+API integration
+
+eash of the datasource folder is created and the script is included.
+
 Normalising the score
+ Three methods we have tried to implement in the normaliser 
+ 1. X(norm)= X-min(x)/max(x)- min(x)
+ 2. we used harmonicc mean for some attributes and arthimetic mean of all the harmonic mean
+ 3. we used scaler funcations
+
+Information on database
+
+We have used SQLlite database for this project ,name :HushHush.db available in Application-->Data (folder)
 
 Selection Algorithims
+
+To avoid people hacking the algorithm, we are selecting on the basis of percentiles instead of absolute scores of candidates.
+STEP 1: Check normalized score of candidates in all datasets except Twitter.
+STEP 2: Candidates will be selected as per the percentiles below (in any dataset).
+STEP 3: For remaining candidates:(candidates who are below 70percentile in all datasets)
+STEP 4: Sort Candidates by the sum of Weighted Score in Descending order. 
+STEP 5: Candidates will be selected as per the below percentile hierarchy.
+
+
+
+
+
 
 Email Notification
 
 Interphase
 
-Information on database
+
 
 Application Design
 
-Demo 
+
 
 Credits
 
 This is a group project of Big data programming-1(semester -1) for the master program in big data and business analytics.
-Developers  are Sasha (@Rrschch-6), Nissy (@sasidn), Garima (@Garima27dec) ,Omer(@atesch93) and Fatimeh (@karampanah927)
+Developers  are Sasha (@Rrschch-6), Nissy (@sasidn), Garima (@Garima27dec) ,Omer(@atesch93) and Fatemeh (@karampanah927)
 
 
