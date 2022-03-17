@@ -32,7 +32,7 @@ Each of the datasource folder is created and the script is included.
 
 Normalising the score
 
- Three methods we have tried to implement in the normaliser 
+ Three methods we have used to normalise the score :
  
  1. X(norm)= X-min(x)/max(x)- min(x)
 
@@ -51,13 +51,17 @@ STEP 1: Check normalized score of candidates in all datasets except Twitter.
 
 STEP 2: Candidates will be selected as per the percentiles below (in any dataset).
 
-STEP 3: For remaining candidates:(candidates who are below 70percentile in all datasets)
+STEP 3: For remaining candidates (candidates who are below 70percentile in all datasets).
 
 STEP 4: Sort Candidates by the sum of Weighted Score in Descending order. 
 
 STEP 5: Candidates will be selected as per the below percentile hierarchy.
 
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/94630833/158832050-11e6a7bd-58e4-4a42-be1d-d0f93c3860a2.png">
+
+Classification Algorithm
+
+
 Email Notification
 Interphase
 Application Design
