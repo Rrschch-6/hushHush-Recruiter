@@ -135,13 +135,13 @@
     <div class="container">  
       <div class="header">
         <ul class="ulist">
-            <li class="list"><a class="active" href="/">Search Candidate</a></li>  </ul>
+            <li class="list"><a class="active" href="/Dashboard">Search Candidate</a></li>  </ul>
         </ul>
       </div>
       <div class="content-1">
-        <form class="form-details" method="POST">
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Search Candidate</button>
-            
+        <form class="form-details" method="POST" action="/">
+            <button class="btn btn-lg btn-primary btn-block" type="submit" value="action1" name="search_button">Search Candidate</button>
+        </form>
             <p class="input">Select Number of Applicants:</p>
             <select name="number_of_applicants" class="form-control">
               <option value=5>5</option>
@@ -154,9 +154,9 @@
 
             <p class="input">Select Title Type:</p>
             <select name="title_of_applicant" class="form-control">
-              <option value=0>Solution Architecht</option>
-              <option value=1>Senior Developer</option>
-              <option value=2>Developer</option>
+              <option value=0>0</option>
+              <option value=1>1</option>
+              <option value=2>2</option>
               
             </select>
 

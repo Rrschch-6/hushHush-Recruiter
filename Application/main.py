@@ -27,8 +27,5 @@ if role == 'Developer':
     #utils.emailing.batch_email(email_list,number_of_candidates)
     print(email_list)
 
-email_dict={}
-for i in range(len(email_list)):
-    email_dict[f'Applicant {i + 1}->'] = email_list[i]
-print(email_dict)
+
 
