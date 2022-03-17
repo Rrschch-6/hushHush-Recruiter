@@ -80,6 +80,13 @@ Application Design
 
 <img width="524" alt="image" src="https://user-images.githubusercontent.com/94630833/158843813-67b36e95-000f-499a-bc8f-8c1a975d9adf.png">
 
+Project structure
+
+![image](https://user-images.githubusercontent.com/94630833/158851726-212ffa99-2bd8-43e1-9118-20bc5883cfd1.png)
+
+Front end 
+![image](https://user-images.githubusercontent.com/94630833/158851978-c9fb5658-09ce-4be5-a550-6e6e76d45636.png)
+
 
 
 Credits
