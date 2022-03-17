@@ -9,10 +9,7 @@ from main import main
 global email_list, email_dict
 email_list = []
 email_dict= {}
-email_list=main()
-for i in range(len(email_list)):
-     email_dict[f'{i+1}-->']=email_list[i]
-print(email_dict)
+email_dict={'Applicant 1:':'oatesch@gmail.com','Applicant 2':'sasha.behrouzi@gmail'}
 app=Flask(__name__)
 
 @app.route("/",methods=["GET","POST"])
