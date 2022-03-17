@@ -1,7 +1,4 @@
 import smtplib
-import sorting
-import sys
-import pandas as pd
 
 def batch_email(df,n):
 
