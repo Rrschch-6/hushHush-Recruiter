@@ -24,9 +24,12 @@ eash of the datasource folder is created and the script is included.
 
 Normalising the score
  Three methods we have tried to implement in the normaliser 
+ 
  1. X(norm)= X-min(x)/max(x)- min(x)
- 2. we used harmonicc mean for some attributes and arthimetic mean of all the harmonic mean
- 3. we used scaler funcations
+
+ 3. we used harmonicc mean for some attributes and arthimetic mean of all the harmonic mean
+ 
+ 5. we used scaler funcations
 
 Information on database
 
@@ -36,10 +39,16 @@ Selection Algorithims
 
 To avoid people hacking the algorithm, we are selecting on the basis of percentiles instead of absolute scores of candidates.
 STEP 1: Check normalized score of candidates in all datasets except Twitter.
+
 STEP 2: Candidates will be selected as per the percentiles below (in any dataset).
+
 STEP 3: For remaining candidates:(candidates who are below 70percentile in all datasets)
+
 STEP 4: Sort Candidates by the sum of Weighted Score in Descending order. 
+
 STEP 5: Candidates will be selected as per the below percentile hierarchy.
+![image](https://user-images.githubusercontent.com/94630833/158831784-c283392b-ec43-44f1-833e-d219935ef28f.png)
+
 
 
 
