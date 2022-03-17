@@ -67,8 +67,18 @@ Multi-layer Perceptron (MLP) is a supervised learning algorithm.
 MLP algorithm trains using some form of gradient descent and the gradients are calculated using Backpropagation with no activation function in the output layer
 
 Email Notification
-Interphase
+
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/94630833/158844270-38faf49e-cd14-4b68-88a4-20ffa75099e9.png">
+
+
+Doodle challenge 
+
+https://docs.google.com/forms/d/e/1FAIpQLScEOEKdgnWweYQLzpxiwOILcMvEi_dIuNPhbD6qvf0nUTMtVw/viewform?usp=sf_link
+
+
 Application Design
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/94630833/158843813-67b36e95-000f-499a-bc8f-8c1a975d9adf.png">
 
 
 
