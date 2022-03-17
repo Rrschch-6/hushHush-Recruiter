@@ -36,9 +36,9 @@ def intersection(df1,df2):
     return df_result
 
 #selects n emails from df and returns a list
-def select_mails(df,n)
-    df = df.sort_values(by="score_github", ascending=False)
-    df = df.iloc[0:n, :]
+def select_mails(df,number_of_applicants):
+    df = df.sort_values(by="weighted_score", ascending=False)
+    df = df.iloc[0:number_of_applicants, :]
     email_list = df['email'].tolist()
     return email_list
 
@@ -55,8 +55,17 @@ def batch_email(email_list):
         smtp.login(ADRESS,PASSWORD)
 
         for i in email_list:
-            subject="Congratilations you selected from SRHrecruiter"
-            body="Please click the link attending our quiz: https://www.surveymonkey.de/r/MCCDFR3"
+            subject="Job Alert from hushHush Recruiter!"
+
+            body="""Congratulations! You've been selected for Doodle Foobar Challenge!
+            To participate in the challenge, please click on the link below:
+            https://www.surveymonkey.de/r/MCCDFR3
+            We wish you all the good luck!!
+                
+            Cheers,
+            Team Doodle"""
+
             msg=f'Subject:{subject}\n\n{body}'
             smtp.sendmail(ADRESS,i,msg)
 
+batch_email(['oatesch@gmail.com','sasha.behrouzi@gmail.com'])
