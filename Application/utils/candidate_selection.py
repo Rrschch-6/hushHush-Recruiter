@@ -38,5 +38,81 @@ def algorithm_1(p1,p2,p3,df_main):
 
     return df_solution_architecht,df_senior_developer,df_developer,df_not_selected
 
+#SVM Machine Algorithm
+def algorithm_2(df):
 
+    import pandas as pd
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.model_selection import train_test_split
+    from sklearn.preprocessing import MinMaxScaler, OrdinalEncoder
+    from sklearn.metrics import accuracy_score, plot_confusion_matrix, confusion_matrix
+    from matplotlib import pyplot as plt
+    from sklearn.svm import SVC
+    X = df[['score_github', 'score_normalised_kaggle',
+            'score_stack', 'score_twitter', 'weighted_score']]
+    Y = df.loc[:, 'role']
+    # scaler = MinMaxScaler()
+    # X = scaler.fit_transform(X)
+
+    ordinal = OrdinalEncoder()
+    Y = ordinal.fit_transform(Y.values.reshape(-1, 1))
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3)
+    # plt.hist(Y)
+    # plt.show()
+    # clf = LogisticRegression(random_state=0 , max_iter = 3000).fit(X, Y)
+    clf = SVC(decision_function_shape='ovo').fit(X_train, Y_train)
+    # OVO: one versus one-OVR:one versus rest
+    #
+    predicted_labels = clf.predict(X_test)
+    acc = accuracy_score(Y_test, predicted_labels)
+    plot_confusion_matrix(clf, X, Y,
+                          display_labels=['Developer', 'Not Selected', 'Senior Dev', 'Solution Architecht'], )
+    cm = confusion_matrix(Y_test, predicted_labels)
+    print("confusion_matrix\n " + '=' * 10)
+    print(cm)
+    print("Accuracy\n " + '=' * 10)
+    print(acc)
+    plt.show()
+
+#NN
+def algorithm_3(df):
+    import pandas as pd
+    from sklearn.linear_model import LogisticRegression
+    from sklearn.model_selection import train_test_split
+    from sklearn.preprocessing import MinMaxScaler, OrdinalEncoder
+    from sklearn.metrics import accuracy_score, plot_confusion_matrix, confusion_matrix
+    from matplotlib import pyplot as plt
+    from sklearn.svm import SVC
+
+    X = df[['score_github', 'score_normalised_kaggle',
+            'score_stack', 'score_twitter', 'weighted_score']]
+    Y = df.loc[:, 'role']
+    # scaler = MinMaxScaler()
+    # X = scaler.fit_transform(X)
+
+    ordinal = OrdinalEncoder()
+    Y = ordinal.fit_transform(Y.values.reshape(-1, 1))
+    X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.3)
+    # plt.hist(Y)
+    # plt.show()
+    # clf = LogisticRegression(random_state=0 , max_iter = 3000).fit(X, Y)
+    clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes=(10, 2), random_state=1).fit(X, Y)
+    # OVO: one versus one-OVR:one versus rest
+    #
+    predicted_labels = clf.predict(X_test)
+    acc = accuracy_score(Y_test, predicted_labels)
+    plot_confusion_matrix(clf, X, Y,
+                          display_labels=['Developer', 'Not Selected', 'Senior Dev', 'Solution Architecht'], )
+    cm = confusion_matrix(Y_test, predicted_labels)
+    print("confusion_matrix\n " + '=' * 10)
+    print(cm)
+    print("Accuracy\n " + '=' * 10)
+    print(acc)
+    plt.show()
+
+    # print(ordinal.categories_[0])
+    #
+    # print(ordinal.inverse_transform(predicted_labels.reshape(-1,1)))
+    # email = df.loc[20,'email']
+    # print(email)
 
