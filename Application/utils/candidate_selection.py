@@ -101,7 +101,7 @@ def algorithm_3(df):
     # plt.hist(Y)
     # plt.show()
     # clf = LogisticRegression(random_state=0 , max_iter = 3000).fit(X, Y)
-    clf = MLPClassifier(solver='lbfgs', hidden_layer_sizes=(10, 2), random_state=1).fit(X_train,
+    clf = MLPClassifier(solver='lbfgs',hidden_layer_sizes=(10, 2), random_state=1).fit(X_train,
                                                                                                     Y_train)  # Building neural network model
     predicted_labels = clf.predict(X_test)
     acc = accuracy_score(Y_test, predicted_labels)
