@@ -10,7 +10,7 @@ import utils
 with utils.context_managers.cursor_handler() as c:
     utils.tools.create_table('github_users',c)
 
-github_token='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'
+github_token=''
 g=Github(github_token)
 user_name = []
 user_followers = []
@@ -80,9 +80,8 @@ def fetch_data(*args):
 
 #using threads for executing functions
 
-#n=20000
-#github_user_list=fetch_user(n)
-df_users=pd.read_excel('Output Files/github_user_list.xlsx')
+n=20000
+github_user_list=fetch_user(n)
 github_user_list=df_users['user_list'].to_list()
 github_user_list=github_user_list[0:30]
 chunks = utils.tools.splitList(github_user_list, 5)

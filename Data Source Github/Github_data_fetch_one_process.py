@@ -10,7 +10,7 @@ import utils
 with utils.context_managers.cursor_handler() as c:
   utils.tools.create_table('github_users',c)
 
-github_token='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'
+github_token=''
 g=Github(github_token)
 
 def fetch_user(number_of_users):
